@@ -1,0 +1,140 @@
+{
+  "name": "Doenças",
+  "path": "/doencas",
+  "sections": [
+    {
+      "__resolveType": "Header - Default"
+    },
+    {
+      "__resolveType": "site/sections/ListingFromAtoZ/ListingFromAtoDisease.tsx",
+      "title": "Lista de Medicamentos por Doenças",
+      "breadcrumb": [
+        {
+          "label": "home",
+          "href": "/"
+        },
+        {
+          "label": " Doenças",
+          "href": "/doencas"
+        }
+      ],
+      "description": "Os medicamentos podem ser agrupados em uma ou mais classificações, pelo tipo químico de seu princípio ativo ou pela forma como são utilizados no tratamento de uma doença.",
+      "naveguete": {
+        "title": "Navegue pelas listas de Doenças por letras",
+        "list": [
+          {
+            "label": "a",
+            "href": "/doencas/a"
+          },
+          {
+            "label": "b",
+            "href": "/doencas/b"
+          },
+          {
+            "label": "c",
+            "href": "/doencas/c"
+          },
+          {
+            "label": "d",
+            "href": "/doencas/d"
+          },
+          {
+            "label": "e",
+            "href": "/doencas/e"
+          },
+          {
+            "label": "f",
+            "href": "/doencas/f"
+          },
+          {
+            "label": "g",
+            "href": "/doencas/g"
+          },
+          {
+            "label": "h",
+            "href": "/doencas/h"
+          },
+          {
+            "label": "i",
+            "href": "/doencas/i"
+          },
+          {
+            "label": "l",
+            "href": "/doencas/l"
+          },
+          {
+            "label": "m",
+            "href": "/doencas/m"
+          },
+          {
+            "label": "n",
+            "href": "/doencas/n"
+          },
+          {
+            "label": "o",
+            "href": "/doencas/o"
+          },
+          {
+            "label": "p",
+            "href": "/doencas/p"
+          },
+          {
+            "label": "q",
+            "href": "/doencas/q"
+          },
+          {
+            "label": "r",
+            "href": "/doencas/r"
+          },
+          {
+            "label": "s",
+            "href": "/doencas/s"
+          },
+          {
+            "label": "t",
+            "href": "/doencas/t"
+          },
+          {
+            "label": "u",
+            "href": "/doencas/u"
+          },
+          {
+            "label": "v",
+            "href": "/doencas/v"
+          },
+          {
+            "label": "x",
+            "href": "/doencas/x"
+          },
+          {
+            "label": "z",
+            "href": "/doencas/z"
+          }
+        ]
+      },
+      "disease": {
+        "__resolveType": "site/loaders/ListingFromAtoZ.ts",
+        "token": {},
+        "url": "https://auxiliarapi.consultaremedios.com.br/disease?skip=0&take=2000"
+      },
+      "loader": {
+        "__resolveType": "site/loaders/ListingFromAtoZ.ts",
+        "token": {},
+        "url": "https://auxiliarapi.consultaremedios.com.br/Disease?skip=0&take=2000"
+      }
+    },
+    {
+      "__resolveType": "Footer - Default"
+    }
+  ],
+  "seo": {
+    "__resolveType": "site/sections/SEO/SeoV2general.tsx",
+    "titleTemplate": "%s",
+    "descriptionTemplate": "%s",
+    "type": "website",
+    "jsonLDs": [],
+    "title": "Lista de remédios por doenças ou sintomas de A-Z | CR",
+    "description": "Procurando por remédios para uma determinada doença, sintoma ou patologia? Listamos aqui todas as doenças de A-Z para facilitar sua pesquisa!"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

@@ -1,0 +1,9 @@
+{
+  "__resolveType": "site/sections/Category/CategoyPageList.tsx",
+  "categories": [],
+  "layout": {
+    "backgroundColor": "Primary",
+    "variation": "Grid",
+    "columns": "2"
+  }
+}

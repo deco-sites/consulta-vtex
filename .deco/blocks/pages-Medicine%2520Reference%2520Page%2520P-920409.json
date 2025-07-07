@@ -1,0 +1,45 @@
+{
+  "name": "Medicine Reference Page P",
+  "path": "/medicamentos-referencia/p",
+  "sections": [
+    {
+      "__resolveType": "Header - Default"
+    },
+    {
+      "__resolveType": "site/sections/ListingFromAtoZ/singlePageMedicationReferences.tsx",
+      "medicines": {
+        "__resolveType": "site/loaders/singlePageFromAtoZMedicine.ts",
+        "token": {},
+        "url": "https://auxiliarapi.consultaremedios.com.br/Product?productTypeId=1&classificationId=1&take=1000"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer - Default"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Content/PopUpPrivacyPolicy.tsx",
+      "text": "Usamos cookies para melhorar sua experiência na CR. Consulte mais informações em nossa ",
+      "href": "/politica-de-privacidade/c",
+      "textHref": "Política de Privacidade."
+    }
+  ],
+  "seo": {
+    "__resolveType": "site/sections/SEO/SeoV2ListToAaZ.tsx",
+    "titleTemplate": "%s",
+    "descriptionTemplate": "%s",
+    "type": "website",
+    "jsonLDs": [],
+    "title": "Medicamentos Referência",
+    "description": "Encontre Medicamentos Referência que começam com a letra",
+    "descriptionTwo": ". Compare preços, descubra onde comprar e muito mais na Consulta Remédios!",
+    "jsonLD": {
+      "__resolveType": "site/loaders/singlePageFromAtoZMedicine.ts",
+      "token": {},
+      "url": "https://auxiliarapi.consultaremedios.com.br/Product?productTypeId=1&classificationId=1&take=1000"
+    }
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

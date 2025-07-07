@@ -1,0 +1,14 @@
+{
+  "__resolveType": "site/sections/Header/Header.tsx",
+  "alerts": [],
+  "searchbar": {
+    "placeholder": "What are you looking for?",
+    "action": "/busca",
+    "name": "busca",
+    "loader": {
+      "__resolveType": "resolved",
+      "data": null
+    }
+  },
+  "navItems": null
+}

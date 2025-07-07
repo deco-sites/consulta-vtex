@@ -1,0 +1,83 @@
+{
+  "name": "Quem Somos",
+  "path": "/quem-somos",
+  "sections": [
+    {
+      "__resolveType": "Header - Default"
+    },
+    {
+      "__resolveType": "site/sections/SEO/ProductDataHome.tsx"
+    },
+    {
+      "__resolveType": "site/sections/aboutUs/NavItemsAboutUs.tsx",
+      "items": [
+        {
+          "title": "Sobre a CR",
+          "href": "/quem-somos"
+        },
+        {
+          "title": "Como ajudamos",
+          "href": "/quem-somos/como-ajudamos"
+        },
+        {
+          "title": "No que acreditamos",
+          "href": "/quem-somos/no-que-acreditamos"
+        }
+      ]
+    },
+    {
+      "__resolveType": "site/sections/aboutUs/TopText.tsx",
+      "title": "Sobre a Consulta Remédios",
+      "subtitle": "Acreditamos que todos merecem acesso à saúde de qualidade de forma acessível e conveniente.",
+      "description": "Nossa missão é construir soluções que permitam às pessoas encontrar o cuidado adequado pelo melhor preço. Com nossa tecnologia, oferecemos a todos os brasileiros o conhecimento, a liberdade de escolha e o cuidado necessário para manter a saúde em dia."
+    },
+    {
+      "__resolveType": "site/sections/aboutUs/ImageAboutUs.tsx",
+      "image": "https://assets.decocache.com/consul-remedio/d9c37173-de2a-4012-9a29-77a3123b92fc/national-cancer-institute-BxXgTQEw1M4-unsplash-1.png",
+      "alt": "Filho com os pais",
+      "width": 1108,
+      "height": 470
+    },
+    {
+      "__resolveType": "site/sections/aboutUs/DownText.tsx",
+      "text": [
+        {
+          "paragrafo": "O início da Consulta Remédios foi motivado pela necessidade de tornar os preços de medicamentos e cuidados com a saúde mais transparentes. Como muitos brasileiros, confiava que um plano de saúde e o governo garantiriam o acesso aos cuidados necessários. No entanto, quando adoeci, deparei-me com a realidade: os medicamentos que precisava tinham preços variados e exorbitantes em diferentes farmácias."
+        },
+        {
+          "paragrafo": "Esse episódio me ensinou duas importantes lições: primeiro, que planos de saúde e o sistema público nem sempre garantem cuidados acessíveis e transparentes; segundo, que a comparação de preços online era possível para quase tudo, exceto para medicamentos."
+        },
+        {
+          "paragrafo": "A Consulta Remédios nasceu para enfrentar esses desafios. Nosso objetivo é oferecer aos consumidores uma alternativa para não apenas lidar com a confusão e os altos custos do sistema de saúde, mas também para encontrar tratamentos a preços acessíveis. Garantir que todos possam obter o cuidado de que precisam sem comprometer suas finanças é não apenas um serviço primordial, mas uma necessidade humana básica."
+        }
+      ],
+      "autor": "Paulo Vion",
+      "cargo": "Fundador e CEO da Consulta Remédios"
+    },
+    {
+      "__resolveType": "site/sections/Footer/EvaluationSection.tsx",
+      "href": "https://survey.consultaremedios.com.br/zs/yKClyK?origin=%2F&transaction=1d00bfa3-20ec-4aee-9788-4617126c74aa",
+      "textButton": "Fazer uma avaliação",
+      "title": "Adorariamos saber sua opinião!"
+    },
+    {
+      "__resolveType": "Footer - Default"
+    },
+    {
+      "__resolveType": "site/sections/Content/PopUpPrivacyPolicy.tsx",
+      "text": "Usamos cookies para melhorar sua experiência na CR. Consulte mais informações em nossa",
+      "href": "/politica-de-privacidade/c",
+      "textHref": "Política de Privacidade."
+    }
+  ],
+  "seo": {
+    "__resolveType": "site/sections/SEO/SeoV2general.tsx",
+    "titleTemplate": "%s",
+    "descriptionTemplate": "%s",
+    "type": "website",
+    "jsonLDs": [],
+    "title": "Quem somos: descubra a visão, missão e valores da CR",
+    "description": "Nascido em 2000, a CR é a plataforma mais utilizada por pacientes, profissionais da saúde e drogarias quando o assunto é remédios, saúde e beleza. Confira!"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

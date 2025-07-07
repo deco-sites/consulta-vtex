@@ -1,0 +1,17 @@
+#    ORA ORA, ALGÚEM CURIOSO POR AQUI?
+#
+#        ,.--.   ,.--.    ,.--..
+#       // \` \ // L` \ // /``\ \
+#       \\ _\ / \\ |. / \\ \../ /
+#        `'--'   `'--'    `'--'
+#
+#    TOME UMA PÍLULA E RESOLVA ISSO!
+#
+
+User-agent: *
+
+User-agent: *
+Disallow: /produto/*
+
+
+Sitemap: https://consultaremedios.com.br/sitemap/sitemap-index.xml

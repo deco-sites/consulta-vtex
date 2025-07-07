@@ -1,0 +1,27 @@
+{
+  "__resolveType": "site/loaders/productListingPageAtributesSubstance.ts",
+  "limit": 24,
+  "operation": "AND",
+  "sort": "RELEVANCE:ASC",
+  "filters": {
+    "attributes": {
+      "id": [],
+      "name": [],
+      "type": [],
+      "value": []
+    },
+    "brandId": [],
+    "categoryId": [],
+    "ean": [],
+    "productId": [],
+    "productVariantId": [],
+    "sameParentAs": [],
+    "sku": [],
+    "stocks": {
+      "dcId": [],
+      "dcName": []
+    }
+  },
+  "pageOffset": 1,
+  "nameAttribute": "Princípio ativo"
+}

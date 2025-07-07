@@ -1,0 +1,21 @@
+{
+  "__resolveType": "site/sections/Product/ProductShelfHome.tsx",
+  "products": {
+    "__resolveType": "List Products Home"
+  },
+  "typeCarrousel": "disfuncaoEretil",
+  "layout": {
+    "loading": "lazy",
+    "headerfontSize": "Small",
+    "headerAlignment": "left",
+    "numberOfSliders": {
+      "desktop": 4,
+      "mobile": 1
+    }
+  },
+  "seeAll": {
+    "href": "/saude-do-homem/disfuncao-eretil/c",
+    "text": "Ver tudo"
+  },
+  "title": "Disfunção erétil"
+}

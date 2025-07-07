@@ -1,0 +1,26 @@
+{
+  "__resolveType": "site/loaders/productListingPageFactory.ts",
+  "limit": 24,
+  "operation": "AND",
+  "sort": "SALES:DESC",
+  "filters": {
+    "attributes": {
+      "id": [],
+      "name": [],
+      "type": [],
+      "value": []
+    },
+    "brandId": [],
+    "categoryId": [],
+    "ean": [],
+    "productId": [],
+    "productVariantId": [],
+    "sameParentAs": [],
+    "sku": [],
+    "stocks": {
+      "dcId": [],
+      "dcName": []
+    }
+  },
+  "pageOffset": 1
+}

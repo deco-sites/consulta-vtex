@@ -1,0 +1,95 @@
+{
+  "__resolveType": "site/sections/Header/Header.tsx",
+  "alerts": [],
+  "searchbar": {
+    "placeholder": "Pesquise tudo na CR! Como remédios, cosméticos, doenças, artigos...",
+    "action": "/busca",
+    "name": "busca",
+    "loader": {
+      "__resolveType": "resolved",
+      "data": {
+        "__resolveType": "site/loaders/suggestion.ts",
+        "searches": [],
+        "products": []
+      }
+    }
+  },
+  "logoPosition": "left",
+  "navItems": {
+    "__resolveType": "navbar"
+  },
+  "logo": {
+    "src": "https://assets.decocache.com/consul-remedio/3e341ee9-6e93-468f-b76a-de4736f14d73/logo-cr.svg",
+    "alt": "Logo",
+    "width": 35,
+    "height": 35
+  },
+  "navItemsSecondary": [
+    {
+      "label": "Gripes e resfriados",
+      "href": "/gripes-e-resfriados/c"
+    },
+    {
+      "label": " Antialérgicos",
+      "href": "/antialergicos/c"
+    },
+    {
+      "label": " Dor de garganta",
+      "href": "/gripes-e-resfriados/dor-de-garganta/c"
+    },
+    {
+      "label": "Diabetes",
+      "href": "/sistema-cardiovascular-circulacao/diabetes/c"
+    },
+    {
+      "label": " Pressão alta",
+      "href": "/pressao-alta/c"
+    },
+    {
+      "href": "/infantil/alimentos/leite-infantil/c",
+      "label": "Leite infantil"
+    },
+    {
+      "label": "Fale com a gente",
+      "href": "https://ajuda.consultaremedios.com.br/portal/pt-br/newticket",
+      "image": "https://data.decoassets.com/consul-remedio/df0159e4-0095-4ab5-aeae-b9807a06b8d8/icon.svg",
+      "target": "_blank"
+    }
+  ],
+  "navItemsSecondaryMobile": [
+    {
+      "label": "Histórico de compra"
+    }
+  ],
+  "navItemsMobile": [
+    {
+      "href": "/account",
+      "label": "Histórico de Compras",
+      "image": "https://assets.decocache.com/consul-remedio/4d13f4b7-52f0-48e5-9514-5671d64f8566/salvar.png"
+    },
+    {
+      "href": "/account/addresses",
+      "label": "Meus endereços",
+      "image": "https://assets.decocache.com/consul-remedio/27936e63-897b-47dc-a7a6-fe8ec9cf0d0a/mapas-e-bandeiras.png"
+    },
+    {
+      "href": "/account/my-data",
+      "label": "Conta",
+      "image": "https://assets.decocache.com/consul-remedio/5706138b-f3b2-43c4-9b1a-e9a915ff2b22/perfil.png"
+    },
+    {
+      "href": "/account/my-data",
+      "label": "Alterar senha",
+      "image": "https://assets.decocache.com/consul-remedio/41522330-60ef-4241-a185-e89b280a776a/acesso.png"
+    },
+    {
+      "target": "_blank",
+      "href": "https://ajuda.consultaremedios.com.br/portal/pt-br/newticket?departmentId=489842000000006907&layoutId=489842000000074011",
+      "label": "Fale com a gente",
+      "image": "https://data.decoassets.com/consul-remedio/0e2bb4a6-e6b8-4e68-b3e2-4f7e5a934cd3/icon.svg"
+    }
+  ],
+  "Redirects": {
+    "__resolveType": "site/loaders/Redirects.ts"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Medicine Page A to Z",
+  "path": "/medicamentos/*",
+  "sections": [
+    {
+      "__resolveType": "Header - Default"
+    },
+    {
+      "__resolveType": "site/sections/ListingFromAtoZ/singlePageMedicine.tsx",
+      "medicines": {
+        "__resolveType": "site/loaders/singlePageFromAtoZMedicine.ts",
+        "token": {},
+        "url": "https://auxiliarapi.consultaremedios.com.br/Product?productTypeId=1&take=3000"
+      }
+    },
+    {
+      "__resolveType": "Footer - Default"
+    },
+    {
+      "__resolveType": "site/sections/Content/PopUpPrivacyPolicy.tsx",
+      "href": "/politica-de-privacidade/c",
+      "text": "Usamos cookies para melhorar sua experiência na CR. Consulte mais informações em nossa ",
+      "textHref": "Política de Privacidade."
+    }
+  ],
+  "seo": {
+    "__resolveType": "site/sections/SEO/SeoV2ListToAaZ.tsx",
+    "titleTemplate": "%s",
+    "descriptionTemplate": "%s",
+    "type": "website",
+    "jsonLDs": [],
+    "title": "Medicamentos",
+    "description": "Veja todos os medicamentos que começam com a letra",
+    "descriptionTwo": " e depois compare preços, leia bulas e descubra onde comprar os medicamentos pelo menor preço.",
+    "jsonLD": {
+      "__resolveType": "site/loaders/singlePageFromAtoZMedicine.ts",
+      "token": {},
+      "url": "https://auxiliarapi.consultaremedios.com.br/Product?productTypeId=1&take=3000"
+    }
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

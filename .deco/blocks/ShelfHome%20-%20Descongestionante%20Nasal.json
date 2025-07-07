@@ -1,0 +1,22 @@
+{
+  "__resolveType": "site/sections/Product/ProductShelfHome.tsx",
+  "products": {
+    "__resolveType": "List Products Home"
+  },
+  "typeCarrousel": "descongestionanteNasal",
+  "layout": {
+    "loading": "lazy",
+    "headerfontSize": "Small",
+    "headerAlignment": "left",
+    "numberOfSliders": {
+      "desktop": 4,
+      "mobile": 1
+    },
+    "showArrows": true
+  },
+  "title": "Descongestionante nasal",
+  "seeAll": {
+    "href": "/gripes-e-resfriados/descongestionante-nasal/c",
+    "text": "Ver Tudo"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "__resolveType": "site/apps/deco/wake.ts",
+  "storefrontToken": {
+    "__resolveType": "website/loaders/secret.ts",
+    "encrypted": "bc9d96ea79ed69e58776ec0e193e22dad7e1321a1366072be2f068310ef30e34ff68f38684fac7b8b9d10b4ab639cd90",
+    "name": "WAKE_STOREFRONT_TOKEN"
+  },
+  "platform": "wake",
+  "account": "Consulta Remédios",
+  "checkoutUrl": "https://www2.consultaremedios.com.br/"
+}

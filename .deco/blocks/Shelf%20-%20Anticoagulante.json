@@ -1,0 +1,48 @@
+{
+  "__resolveType": "site/sections/Product/ProductShelf.tsx",
+  "layout": {
+    "showArrows": true,
+    "numberOfSliders": {
+      "mobile": 1,
+      "desktop": 4
+    },
+    "headerAlignment": "left",
+    "headerfontSize": "Small",
+    "loading": "lazy"
+  },
+  "title": "Anticoagulante",
+  "products": {
+    "__resolveType": "site/loaders/productList.ts",
+    "first": 16,
+    "filters": {
+      "attributes": {
+        "id": [],
+        "name": [],
+        "type": [],
+        "value": []
+      },
+      "brandId": [],
+      "categoryId": [
+        15439
+      ],
+      "ean": [],
+      "productId": [],
+      "productVariantId": [],
+      "sameParentAs": [],
+      "sku": [],
+      "stocks": {
+        "dcId": [],
+        "dcName": []
+      },
+      "prices": {},
+      "available": true,
+      "mainVariant": true
+    },
+    "sortDirection": "ASC",
+    "sortKey": "STOCK"
+  },
+  "seeAll": {
+    "href": "/sistema-cardiovascular-circulacao/anticoagulante/c",
+    "text": "Ver tudo"
+  }
+}

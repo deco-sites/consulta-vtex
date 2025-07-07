@@ -1,0 +1,28 @@
+{
+  "__resolveType": "site/loaders/productListingPageAtributesDisease.ts",
+  "limit": 24,
+  "operation": "AND",
+  "filters": {
+    "attributes": {
+      "id": [],
+      "name": [],
+      "type": [],
+      "value": []
+    },
+    "brandId": [],
+    "categoryId": [],
+    "ean": [],
+    "productId": [],
+    "productVariantId": [],
+    "sameParentAs": [],
+    "sku": [],
+    "stocks": {
+      "dcId": [],
+      "dcName": []
+    },
+    "prices": {}
+  },
+  "pageOffset": 1,
+  "nameAttribute": "Doença",
+  "sort": "NAME:ASC"
+}

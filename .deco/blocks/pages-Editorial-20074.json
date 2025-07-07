@@ -1,0 +1,54 @@
+{
+  "name": "Editorial",
+  "path": "/editorial",
+  "sections": [
+    {
+      "__resolveType": "Header - Default"
+    },
+    {
+      "__resolveType": "site/sections/Editorial/BreadCrumbInstitucional.tsx",
+      "items": [
+        {
+          "label": "Home",
+          "href": "/"
+        },
+        {
+          "label": "Política Editorial",
+          "href": "/editorial"
+        }
+      ]
+    },
+    {
+      "__resolveType": "site/sections/TermosPoliticas/content.tsx",
+      "text": "<div class=\"mx-auto px-4 max-w-7xl\"><div class=\"my-4\"><h1 class=\"text-3xl font-medium mb-2\">Política Editorial e de Conteúdo</h1><p class=\"text-base text-gray-600 mb-4\">Compromisso com a Informação de Qualidade: Entenda Nossas Diretrizes, Princípios e Procedimentos para a Publicação de Conteúdo</p><div class=\"flex items-center justify-center\"><div class=\"max-w-4xl\"><h2 class=\"text-3xl font-medium p-4 mb-2\">Missão e Propósito</h2><p class=\"text-base p-3 mb-4\">Nossa missão é fornecer informações precisas, atualizadas e objetivas sobre saúde, bem-estar e produtos disponíveis no mercado, incluindo medicamentos, alimentos e itens de cuidados pessoais. Procuramos empoderar nossos usuários com o conhecimento necessário para tomar decisões informadas. Os designers e engenheiros da site Consulta Remédios pretendem fornecer aos visitantes um site intuitivo e fácil de usar, fácil de navegar e que forneça acesso rápido à extensa variedade de medicamentos e bancos de dados relacionados que temos disponíveis. Se você tiver problemas com a navegação ou quiser sugerir alterações, envie- nos um e-mail aqui. Revisamos todos os comentários sobre a navegabilidade do site em reuniões semanais. As informações disponíveis no site da CR são exibidas sob vários acordos de licenciamento com vários editores. Para obter informações do nosso banco de dados de medicamentos, contamos com a sólida reputação de nossos parceiros e órgãos governamentais: Anvisa, Farmácias e Lojas Anunciantes.</p><hr class=\"my-6 border-gray-300\"><h2 class=\"text-3xl font-medium p-4 mb-2\">Processo de Revisão Editorial</h2><div class=\"p-4\"><div class=\"mb-4\"><h3 class=\"text-2xl font-medium mb-2\">Desenvolvimento de Conteúdo</h3><p class=\"text-base\">A equipe editorial da Consulta Remédios avalia regularmente todas as informações fornecidas por parceiros editoriais confiáveis e órgãos governamentais como a Anvisa para garantir que o conteúdo seja preciso e atualizado. Cada artigo é revisado por pelo menos um membro de nossa equipe especializada, composta por farmacêuticos, médicos e outros profissionais da área da saúde.</p></div><div class=\"mb-4\"><h3 class=\"text-xl font-medium mb-2\">Status de Revisão e Atualização</h3><p class=\"text-base\">O status de revisão e atualização pode ser encontrado no topo ou no final de cada documento publicado em nosso site. Isso oferece transparência sobre quando o conteúdo foi revisado pela última vez e por quem, permitindo que os usuários avaliem a atualidade das informações.</p></div><div class=\"mb-4\"><h3 class=\"text-xl font-medium mb-2\">Equipe Editorial</h3><p class=\"text-base\">Nossa equipe editorial é composta por uma rede de profissionais altamente qualificados nas áreas de saúde, farmácia e jornalismo médico. Todos são comprometidos com o rigor e a precisão das informações que disponibilizamos.</p></div><div class=\"mb-4\"><h3 class=\"text-xl font-medium mb-2\">Farmacêuticos e Médicos:</h3><p class=\"text-base\">Contribuem com seu profundo conhecimento técnico e clínico, assegurando que o conteúdo seja baseado em evidências e atualizado com as mais recentes diretrizes médicas.</p></div><div class=\"mb-4\"><h3 class=\"text-xl font-medium mb-2\">Jornalistas Especializados:</h3><p class=\"text-base\">Trabalham em estreita colaboração com profissionais de saúde para traduzir informações técnicas em linguagem acessível, garantindo que nossos usuários possam entender e aplicar o conhecimento adquirido.</p></div><div class=\"mb-4\"><h3 class=\"text-xl font-medium mb-2\">Revisores de Conteúdo:</h3><p class=\"text-base\">São responsáveis por verificar a precisão, a imparcialidade e a relevância das informações, além de garantir que todas as fontes sejam credíveis e atualizadas.</p></div></div><hr class=\"my-6 border-gray-300\"><h2 class=\"text-3xl font-semibold px-4 py-6\">Conheça Nossa Equipe Editorial</h2><ul class=\"p-3\"><li class=\"flex items-center\"><img class=\"mr-1 rounded-full\" src=\"https://assets.decocache.com/consul-remedio/bb62cdf7-1d30-4f9d-a1f6-5d324dbfa9f6/avatar-placeholder-_--Change-image-here.png\" alt=\"\" width=\"32\" height=\"32\" data-mce-src=\"https://assets.decocache.com/consul-remedio/bb62cdf7-1d30-4f9d-a1f6-5d324dbfa9f6/avatar-placeholder-_--Change-image-here.png\"> <a class=\"text-[#009999] underline\" href=\"../../../editorial/equipe/karime-halmenschlager-sleiman\" data-mce-href=\"../../../editorial/equipe/karime-halmenschlager-sleiman\">Karime Halmenschlager Sleiman</a></li></ul><div class=\"flex items-center justify-center\"><a class=\"bg-[#009999] hover:bg-teal-900 hover:underline hover:scale-95 transform transition-all duration-200 text-white px-4 py-2 rounded-md font-normal text-xl mb-2\" title=\"Equipe de política editorial\" href=\"../../../editorial/equipe\" data-mce-href=\"../../../editorial/equipe\"> Ver Equipe </a></div><hr class=\"my-6 border-gray-300\"><h2 class=\"text-3xl font-medium px-4 py-6\">Processo de Revisão Editorial</h2><p class=\"text-base p-4 mb-4\">A equipe editorial da ConsultaRemedios.com.br revisa regularmente todas as informações fornecidas por vários parceiros de publicações médicas confiáveis para garantir que o conteúdo seja preciso e atualizado. Cada artigo é revisado por pelo menos um membro da equipe CR. O status de revisão e atualização pode ser encontrado na parte superior ou inferior de cada documento.</p><hr class=\"my-6 border-gray-300\"><h2 class=\"text-3xl font-medium px-4 py-6\">Fontes de Informação</h2><p class=\"text-base p-4 mb-4\">Utilizamos fontes confiáveis, como estudos clínicos, publicações médicas e diretrizes de órgãos reguladores, como a Anvisa. Todas as fontes são citadas e revisadas periodicamente para manter a qualidade das informações.</p><hr class=\"my-6 border-gray-300\"><h2 class=\"text-3xl font-medium px-4 py-6\">Revisão e Atualização</h2><p class=\"text-base p-4 mb-4\">Nosso conteúdo passa por um processo de revisão rigoroso e é atualizado regularmente. Contamos com uma equipe de revisores especializados que verificam a precisão e a relevância das informações.</p><hr class=\"my-6 border-gray-300\"><h2 class=\"text-3xl font-medium px-4 py-6\">Transparência e Divulgação</h2><p class=\"text-base p-4 mb-4\">Fazemos questão de ser transparentes sobre qualquer conflito de interesse e não permitimos que o patrocínio comercial influencie o conteúdo editorial. Toda publicidade ou conteúdo patrocinado é claramente identificado.</p><hr class=\"my-6 border-gray-300\"><h2 class=\"text-3xl font-medium px-4 py-6\">Responsabilidade</h2><p class=\"text-base p-4 mb-4\">A informação disponível na Consulta Remédios tem caráter informativo e não substitui o aconselhamento médico profissional. Recomendamos que consulte um profissional de saúde para diagnóstico e tratamento de qualquer condição médica.</p><hr class=\"my-6 border-gray-300\"><h2 class=\"text-3xl font-medium px-4 py-6\">Feedback dos Usuários</h2><p class=\"text-base p-4 mb-4\">Valorizamos o feedback de nossos usuários e estamos sempre abertos a sugestões para melhorar a qualidade e a precisão das informações. Caso tenha alguma dúvida ou sugestão, entre em contato conosco. Erros e Omissões na Consulta Remédios</p><hr class=\"my-6 border-gray-300\"><h2 class=\"text-3xl font-medium px-4 py-6\">Erros e Omissões na Consulta Remédios</h2><p class=\"text-base p-4 mb-4\">A Consulta Remédios reconhece que, ocasionalmente, podem ocorrer erros e omissões nas informações disponibilizadas. Em conformidade com nossa missão de fornecer informações precisas e atualizadas sobre saúde e produtos, incentivamos nossos usuários a nos alertar imediatamente sobre qualquer erro de conteúdo. Para isso, entre em contato conosco através do nosso canal de suporte. Nosso objetivo é corrigir quaisquer erros no conteúdo do site dentro de 48 horas. As correções recentes e os adendos serão listados em nossa página dedicada a \"Correções e Adendos\", para que você possa verificar as atualizações efetuadas.</p><hr class=\"my-6 border-gray-300\"><p class=\"text-base px-4 py-8\">Atualizado em 19 de setembro de 2023.</p><hr class=\"my-6 border-gray-300\"></div></div></div></div>"
+    },
+    {
+      "__resolveType": "site/sections/Footer/EvaluationSection.tsx",
+      "href": "https://survey.consultaremedios.com.br/zs/yKClyK?origin=%2F&transaction=1d00bfa3-20ec-4aee-9788-4617126c74aa",
+      "textButton": "Fazer uma avaliação",
+      "title": "Adorariamos saber sua opinião!"
+    },
+    {
+      "__resolveType": "Footer - Default"
+    },
+    {
+      "__resolveType": "site/sections/Content/PopUpPrivacyPolicy.tsx",
+      "text": "Usamos cookies para melhorar sua experiência na CR. Consulte mais informações em nossa",
+      "href": "/politica-de-privacidade/c",
+      "textHref": "Política de Privacidade."
+    }
+  ],
+  "seo": {
+    "__resolveType": "site/sections/SEO/SeoV2general.tsx",
+    "title": "Política editorial e de conteúdo do Consulta Remédios",
+    "description": " Aqui na CR, levamos a criação de nossos conteúdos a sério. Conheça nossa política editorial e de conteúdo para saber como nosso processo funciona.",
+    "titleTemplate": "%s",
+    "descriptionTemplate": "%s",
+    "type": "website",
+    "jsonLDs": [],
+    "image": "https://data.decoassets.com/consul-remedio/acc9b254-fb4f-4e71-8ae8-edca85ac9d9c/banner-novo-consulta-remedios-(1).webp",
+    "favicon": "https://assets.decocache.com/consul-remedio/a267a36d-da29-4277-b0c7-8a40df9fa452/favicon-(2).png",
+    "noIndexing": true
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

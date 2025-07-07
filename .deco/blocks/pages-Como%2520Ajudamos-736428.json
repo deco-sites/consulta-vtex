@@ -1,0 +1,79 @@
+{
+  "name": "Como Ajudamos",
+  "path": "/quem-somos/como-ajudamos",
+  "sections": [
+    {
+      "__resolveType": "Header - Default"
+    },
+    {
+      "__resolveType": "site/sections/aboutUs/NavItemsAboutUs.tsx",
+      "items": [
+        {
+          "title": "Sobre a CR",
+          "href": "/quem-somos"
+        },
+        {
+          "title": "Como ajudamos",
+          "href": "/quem-somos/como-ajudamos"
+        },
+        {
+          "title": "No que acreditamos",
+          "href": "/quem-somos/no-que-acreditamos"
+        }
+      ]
+    },
+    {
+      "__resolveType": "site/sections/aboutUs/TopText.tsx",
+      "title": "Como ajudamos",
+      "subtitle": "A Consulta Remédios apoia todos os brasileiros em seus desafios de saúde.",
+      "description": "Desde 2011, ajudamos os brasileiros a economizarem mais de R$ 35 bilhões em medicamentos por meio de nosso site e o aplicativo da Consulta Remédios, que está entre os aplicativos médicos mais baixados tanto na Google Play quanto na App Store da Apple.",
+      "isTop": true
+    },
+    {
+      "__resolveType": "site/sections/aboutUs/ImageAboutUs.tsx",
+      "image": "https://assets.decocache.com/consul-remedio/7aa0c354-c693-478a-8de5-51b6fcb65732/national-cancer-institute-BxXgTQEw1M4-unsplash-1-(1).png",
+      "alt": "Estamos aqui em todas as etapas da sua jornada de saúde."
+    },
+    {
+      "__resolveType": "site/sections/aboutUs/TopText.tsx",
+      "title": "Estamos aqui em todas as etapas da sua jornada de saúde.",
+      "description": "A Consulta Remédios é mais do que um simples marketplace de medicamentos. Com uma ampla rede de vendedores e uma variedade de ofertas, estamos aqui para garantir que você faça economias reais em suas compras. Nossa plataforma acompanha toda a jornada de compra, desde a pesquisa até a satisfação pós-compra, assegurando que você encontre sempre o melhor negócio e tenha uma experiência satisfatória.",
+      "subtitle": "Com nossa crescente linha de produtos e recursos, podemos fornecer ferramentas e suporte para muitos aspectos da sua saúde - desde a avaliação até o tratamento e a educação.",
+      "isTop": false
+    },
+    {
+      "__resolveType": "site/sections/aboutUs/InfoSection.tsx",
+      "title": "A Consulta Remédios está fornecendo aos profissionais de saúde novas ferramentas para cuidar de seus clientes.",
+      "description": "Médicos, enfermeiros, veterinários, dentistas e farmacêuticos entraram na área da saúde para ajudar o máximo de pessoas possível. Juntamente com a tecnologia da Consulta Remédios, eles podem alcançar isso - seja com medicamentos mais acessíveis que têm um impacto comprovado na adesão ao tratamento, ou com a capacidade de avaliar a saúde do paciente via chat ou vídeo.",
+      "image": "https://assets.decocache.com/consul-remedio/213b1f0d-dc42-41af-8cec-47a882c7ca58/image-placeholder-_--Change-image-here.png"
+    },
+    {
+      "__resolveType": "site/sections/Footer/EvaluationSection.tsx",
+      "title": "Adorariamos saber sua opinião!",
+      "textButton": "Fazer uma avaliação",
+      "href": "https://survey.consultaremedios.com.br/zs/yKClyK?origin=%2F&transaction=1d00bfa3-20ec-4aee-9788-4617126c74aa"
+    },
+    {
+      "__resolveType": "Footer - Default"
+    },
+    {
+      "__resolveType": "site/sections/Content/PopUpPrivacyPolicy.tsx",
+      "text": "Usamos cookies para melhorar sua experiência na CR. Consulte mais informações em nossa",
+      "href": "/politica-de-privacidade/c",
+      "textHref": "Política de Privacidade."
+    }
+  ],
+  "seo": {
+    "__resolveType": "site/sections/SEO/SeoV2general.tsx",
+    "title": "Como o Consulta Remédios ajuda os brasileiros a economizarem",
+    "description": "Desde 2011 já ajudamos os brasileiros a economizarem mais de R$ 35 bilhões em medicamentos por meio do nosso site e aplicativo do Consulta Remédios.",
+    "titleTemplate": "%s",
+    "descriptionTemplate": "%s",
+    "type": "website",
+    "jsonLDs": [],
+    "image": "https://data.decoassets.com/consul-remedio/acc9b254-fb4f-4e71-8ae8-edca85ac9d9c/banner-novo-consulta-remedios-(1).webp",
+    "favicon": "https://assets.decocache.com/consul-remedio/a267a36d-da29-4277-b0c7-8a40df9fa452/favicon-(2).png",
+    "noIndexing": true
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

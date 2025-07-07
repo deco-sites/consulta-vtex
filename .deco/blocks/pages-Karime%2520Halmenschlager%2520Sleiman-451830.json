@@ -1,0 +1,66 @@
+{
+  "name": "Karime Halmenschlager Sleiman",
+  "path": "/editorial/equipe/karime-halmenschlager-sleiman",
+  "sections": [
+    {
+      "__resolveType": "Header - Default"
+    },
+    {
+      "__resolveType": "site/sections/Editorial/BreadCrumAndInfos.tsx",
+      "items": [
+        {
+          "label": "Home",
+          "href": "/"
+        },
+        {
+          "label": "Política Editorial",
+          "href": "/editorial"
+        },
+        {
+          "label": "Equipe Editorial",
+          "href": "/editorial/equipe"
+        },
+        {
+          "label": "Karime Halmenschlager Sleiman",
+          "href": "/editorial/equipe/karime-halmenschlager-sleiman"
+        }
+      ],
+      "infos": {
+        "nome": "Karime Halmenschlager Sleiman",
+        "crf": "Farmacêutica Responsável. CRF 39421/PR",
+        "experiencia": "Farmacologia clínica, interação medicamentosa, atenção farmacêutica e biomedicina estética.",
+        "educacao": "Faculdade Paranaense",
+        "foto": "https://assets.decocache.com/consul-remedio/c43907dd-6125-4a10-9fba-cc0487efa0cb/Imagem-do-WhatsApp-de-2025-06-11-a(s)-23.01.51_08ef9cc1.jpg"
+      }
+    },
+    {
+      "__resolveType": "site/sections/TermosPoliticas/content.tsx",
+      "text": "<div class=\"flex items-center justify-center\"><div class=\"max-w-4xl\"><h2 class=\"text-3xl font-medium p-4 mb-2\">Destaques sobre Karime Halmenschlager Sleiman</h2><p class=\"text-base p-3 mb-4\">Karime Halmenschlager Sleiman é Farmacêutica Generalista, formada e certificada em Farmácia pela Faculdade Paranaense no ano de 2023. Pós-Graduanda em Biomedicina Estética pela Universidade Positivo, com ênfase na especialidade de beleza e bem-estar. Durante a experiência acadêmica se interessou pelos estudos de farmacologia clínica e atenção farmacêutica. Além disso, Karime, CRF-PR 39421, é a profissional Farmacêutica responsável técnica pelo maior marketplace farmacêutico do Brasil, a Consulta Remédios. Também participa ativamente da elaboração de conteúdos da área farmacêutica, de saúde e bem-estar.</p><hr class=\"my-6 border-gray-300\"><h2 class=\"text-3xl font-medium p-4 mb-2\">Experiência</h2><div class=\"p-4\"><p class=\"text-base mb-4\">Na Consulta Remédios, Karime Sleiman iniciou sua trajetória profissional como estagiária em 2020 até 2021. Atuou de novembro de 2021 a agosto de 2022 como assistente farmacêutica e em setembro de 2022 foi promovida a analista junior III. Realizou atividades neste cargo até junho de 2024. Se consolidou como farmacêutica responsável na maior plataforma de marketplace farmacêutico do Brasil, a Consulta Remédios.</p><p class=\"text-base mb-4\">Em 2021, durante os meses de junho até outubro, teve ocupação de auxiliar de farmácia na Clínica Heidelberg. Nesta função, desempenhava as atividades como responsável pelo fracionamento, gestão de medicamentos e etiquetagem para garantir a precisão de processos, utilizando em conjunto o sistema de individualização.</p><p class=\"text-base mb-4\">Com relação às análises de prescrição médica, eram feitas e inspecionadas para assegurar o correto fornecimento do tratamento. Além disso, fazia parte das suas atribuições o controle e supervisão do controle do estoque, tanto fisicamente como atualização digital no sistema de controle.</p><p class=\"text-base mb-4\">Na CR desempenha as atividades de coordenação de atividades diárias, envolvendo produção e revisão de bulas, oferece suporte a novos colaboradores e organiza e coordena as revisões de textos de medicamentos e de saúde.</p><p class=\"text-base mb-4\">Além disso, realiza uma comunicação ativa com laboratórios farmacêuticos quando a bula não está disponível na plataforma da ANVISA. Responde e soluciona perguntas do setor comercial relacionadas a medicamentos como um suporte técnico e especializado. Também elabora o mapeamento detalhado de medicamentos.</p><p class=\"text-base mb-4\">Com relação aos resultados de equipe, busca auxiliar o time a alcançar todas as metas estipuladas como uma importante ferramenta para resultados de alta performance. Mensura e atualiza dados governamentais mensalmente, além de também fazer uma curadoria na produção de conteúdo produzido por outras equipes. Participa de vídeos educativos sobre saúde, medicamentos e bem-estar. Em conjunto com o time de conteúdo, contribuiu na elaboração de roteiros detalhados a respeito de medicamentos e princípios ativos de maneira descomplicada para o público final.</p></div><hr class=\"my-6 border-gray-300\"><h2 class=\"text-3xl font-medium p-4 mb-2\">Formação</h2><p class=\"text-base p-3 mb-4\">Karime Halmenschlager Sleiman é formada em Farmácia Generalista pela Faculdade Paranaense em 2023. Atualmente, a farmacêutica responsável pela plataforma é discente da pós-graduação de Biomedicina Estética na Universidade Positivo, com conclusão prevista para o ano de 2025.</p><hr class=\"my-6 border-gray-300\"></div></div>"
+    },
+    {
+      "__resolveType": "site/sections/Footer/EvaluationSection.tsx",
+      "href": "https://survey.consultaremedios.com.br/zs/yKClyK?origin=%2F&transaction=1d00bfa3-20ec-4aee-9788-4617126c74aa",
+      "textButton": "Fazer uma avaliação",
+      "title": "Adorariamos saber sua opinião!"
+    },
+    {
+      "__resolveType": "Footer - Default"
+    },
+    {
+      "__resolveType": "site/sections/Content/PopUpPrivacyPolicy.tsx",
+      "text": "Usamos cookies para melhorar sua experiência na CR. Consulte mais informações em nossa",
+      "href": "/politica-de-privacidade/c",
+      "textHref": "Política de Privacidade."
+    }
+  ],
+  "seo": {
+    "__resolveType": "site/sections/SEO/SeoV2general.tsx",
+    "titleTemplate": "%s",
+    "descriptionTemplate": "%s",
+    "type": "website",
+    "jsonLDs": [],
+    "title": "Karime Halmenschlager Sleiman - Perfil Editorial | CR",
+    "description": "Karime Halmenschlager Sleiman - Perfil Editorial | CR"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

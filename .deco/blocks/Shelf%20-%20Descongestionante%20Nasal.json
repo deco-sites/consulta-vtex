@@ -1,0 +1,45 @@
+{
+  "__resolveType": "site/sections/Product/ProductShelf.tsx",
+  "products": {
+    "__resolveType": "site/loaders/productList.ts",
+    "first": 16,
+    "sortKey": "RANDOM",
+    "filters": {
+      "attributes": {
+        "id": [],
+        "name": [],
+        "type": [],
+        "value": []
+      },
+      "brandId": [],
+      "categoryId": [
+        14975
+      ],
+      "ean": [],
+      "productId": [],
+      "productVariantId": [],
+      "sameParentAs": [],
+      "sku": [],
+      "stocks": {
+        "dcId": [],
+        "dcName": []
+      },
+      "prices": {}
+    },
+    "sortDirection": "ASC"
+  },
+  "seeAll": {
+    "href": "/gripes-e-resfriados/descongestionante-nasal/c",
+    "text": "Ver tudo"
+  },
+  "title": "Descongestionante nasal",
+  "layout": {
+    "numberOfSliders": {
+      "mobile": 1,
+      "desktop": 4
+    },
+    "headerAlignment": "left",
+    "headerfontSize": "Small",
+    "showArrows": true
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Factory",
+  "path": "/fabricante/*",
+  "default": {
+    "possiblePaths": []
+  },
+  "sections": [
+    {
+      "__resolveType": "Header - Default"
+    },
+    {
+      "__resolveType": "site/sections/Product/SearchResult.tsx",
+      "page": {
+        "__resolveType": "Listing Page Factory"
+      },
+      "layout": {
+        "format": "Pagination",
+        "columns": {
+          "mobile": 1,
+          "desktop": 3
+        },
+        "variant": "aside"
+      },
+      "startingPage": 1
+    },
+    {
+      "__resolveType": "Footer - Default"
+    },
+    {
+      "__resolveType": "site/sections/Content/PopUpPrivacyPolicy.tsx",
+      "text": "Usamos cookies para melhorar sua experiência na CR. Consulte mais informações em nossa ",
+      "href": "/politica-de-privacidade/c",
+      "textHref": "Política de Privacidade."
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx",
+  "seo": {
+    "__resolveType": "site/sections/SEO/SeoPLPV2.tsx",
+    "jsonLD": {
+      "__resolveType": "site/loaders/productListingPageFactory.ts",
+      "limit": 24,
+      "operation": "AND",
+      "filters": {
+        "attributes": {
+          "id": [],
+          "name": [],
+          "type": [],
+          "value": []
+        },
+        "brandId": [],
+        "categoryId": [],
+        "ean": [],
+        "productId": [],
+        "productVariantId": [],
+        "sameParentAs": [],
+        "sku": [],
+        "stocks": {
+          "dcId": [],
+          "dcName": []
+        },
+        "prices": {}
+      },
+      "pageOffset": 1
+    }
+  }
+}

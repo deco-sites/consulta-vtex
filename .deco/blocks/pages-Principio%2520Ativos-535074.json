@@ -1,0 +1,40 @@
+{
+  "__resolveType": "website/pages/Page.tsx",
+  "name": "Substance",
+  "path": "/*/pa",
+  "seo": {
+    "__resolveType": "site/sections/SEO/SeoPLPV2.tsx",
+    "jsonLD": {
+      "__resolveType": "Listing Page Substance"
+    }
+  },
+  "sections": [
+    {
+      "__resolveType": "Header - Default"
+    },
+    {
+      "__resolveType": "site/sections/Product/SearchResult.tsx",
+      "page": {
+        "__resolveType": "Listing Page Substance"
+      },
+      "startingPage": 1,
+      "layout": {
+        "columns": {
+          "mobile": 1,
+          "desktop": 3
+        },
+        "variant": "aside",
+        "format": "Pagination"
+      }
+    },
+    {
+      "__resolveType": "Footer - Default"
+    },
+    {
+      "__resolveType": "site/sections/Content/PopUpPrivacyPolicy.tsx",
+      "textHref": "Política de Privacidade.",
+      "href": "/politica-de-privacidade/c",
+      "text": "Usamos cookies para melhorar sua experiência na CR. Consulte mais informações em nossa "
+    }
+  ]
+}

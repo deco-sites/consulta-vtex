@@ -1,0 +1,419 @@
+{
+  "name": "Medicine Page",
+  "path": "/medicamentos",
+  "sections": [
+    {
+      "__resolveType": "Header - Default"
+    },
+    {
+      "__resolveType": "site/sections/ListingFromAtoZ/ContentTop.tsx",
+      "breadcrumb": [
+        {
+          "label": "home",
+          "href": "/"
+        },
+        {
+          "label": "Medicamentos",
+          "href": "/medicamentos"
+        }
+      ],
+      "title": "Medicamentos de A a Z",
+      "description": "Encontre Medicamentos por ordem alfabética de A a Z, com compre online e muito mais na Consulta Remédios. Economize em medicamentos aqui.",
+      "image": "https://assets.decocache.com/consul-remedio/502ac49e-e945-4519-96c3-4e7d981b6b5b/Vector-1.svg"
+    },
+    {
+      "__resolveType": "site/sections/Product/RecentlyAddedProducts.tsx",
+      "products": {
+        "__resolveType": "site/loaders/productList.ts",
+        "first": 20,
+        "sortDirection": "ASC",
+        "sortKey": "RELEASE_DATE",
+        "filters": {
+          "attributes": {
+            "id": [],
+            "name": [],
+            "type": [],
+            "value": []
+          },
+          "brandId": [],
+          "categoryId": [
+            14882
+          ],
+          "ean": [],
+          "productId": [],
+          "productVariantId": [],
+          "sameParentAs": [],
+          "sku": [],
+          "stocks": {
+            "dcId": [],
+            "dcName": []
+          },
+          "prices": {},
+          "mainVariant": true
+        }
+      },
+      "title": "Os 20 últimos Medicamentos cadastrados",
+      "description": "Estes são os Medicamentos que cadastramos na Consulta Remédios"
+    },
+    {
+      "__resolveType": "site/sections/ListingFromAtoZ/ListingFromAtoZMedicine.tsx",
+      "naveguete": {
+        "list": [
+          {
+            "label": "a",
+            "href": "/medicamentos/a"
+          },
+          {
+            "label": "b",
+            "href": "/medicamentos/b"
+          },
+          {
+            "label": "c",
+            "href": "/medicamentos/c"
+          },
+          {
+            "label": "d",
+            "href": "/medicamentos/d"
+          },
+          {
+            "label": "e",
+            "href": "/medicamentos/e"
+          },
+          {
+            "label": "f",
+            "href": "/medicamentos/f"
+          },
+          {
+            "label": "g",
+            "href": "/medicamentos/g"
+          },
+          {
+            "label": "h",
+            "href": "/medicamentos/h"
+          },
+          {
+            "label": "i",
+            "href": "/medicamentos/i"
+          },
+          {
+            "label": "j",
+            "href": "/medicamentos/j"
+          },
+          {
+            "label": "k",
+            "href": "/medicamentos/k"
+          },
+          {
+            "label": "l",
+            "href": "/medicamentos/l"
+          },
+          {
+            "label": "m",
+            "href": "/medicamentos/m"
+          },
+          {
+            "label": "n",
+            "href": "/medicamentos/n"
+          },
+          {
+            "label": "o",
+            "href": "/medicamentos/o"
+          },
+          {
+            "label": "p",
+            "href": "/medicamentos/p"
+          },
+          {
+            "label": "q",
+            "href": "/medicamentos/q"
+          },
+          {
+            "label": "r",
+            "href": "/medicamentos/r"
+          },
+          {
+            "label": "s",
+            "href": "/medicamentos/s"
+          },
+          {
+            "label": "t",
+            "href": "/medicamentos/t"
+          },
+          {
+            "label": "u",
+            "href": "/medicamentos/u"
+          },
+          {
+            "label": "v",
+            "href": "/medicamentos/v"
+          },
+          {
+            "label": "w",
+            "href": "/medicamentos/w"
+          },
+          {
+            "label": "x",
+            "href": "/medicamentos/x"
+          },
+          {
+            "label": "y",
+            "href": "/medicamentos/y"
+          },
+          {
+            "label": "z",
+            "href": "/medicamentos/z"
+          },
+          {
+            "label": "0-9",
+            "href": "/medicamentos/0-9"
+          }
+        ],
+        "title": "Navegue pelas listas de Medicamentos por letras",
+        "subtitle": "Encontre facilmente seus medicamentos começando pela letra"
+      },
+      "medicine": [
+        {
+          "data": {
+            "__resolveType": "site/loaders/ListingFromAtoZ.ts",
+            "token": {},
+            "url": "https://auxiliarapi.consultaremedios.com.br/Product?titleStartsWith=a&productTypeId=1&take=20"
+          },
+          "letter": "a"
+        },
+        {
+          "data": {
+            "__resolveType": "site/loaders/ListingFromAtoZ.ts",
+            "token": {},
+            "url": "https://auxiliarapi.consultaremedios.com.br/Product?titleStartsWith=b&productTypeId=1&take=20"
+          },
+          "letter": "b"
+        },
+        {
+          "data": {
+            "__resolveType": "site/loaders/ListingFromAtoZ.ts",
+            "token": {},
+            "url": "https://auxiliarapi.consultaremedios.com.br/Product?titleStartsWith=c&productTypeId=1&take=20"
+          },
+          "letter": "c"
+        },
+        {
+          "data": {
+            "__resolveType": "site/loaders/ListingFromAtoZ.ts",
+            "token": {},
+            "url": "https://auxiliarapi.consultaremedios.com.br/Product?titleStartsWith=d&productTypeId=1&take=20"
+          },
+          "letter": "d"
+        },
+        {
+          "data": {
+            "__resolveType": "site/loaders/ListingFromAtoZ.ts",
+            "token": {},
+            "url": "https://auxiliarapi.consultaremedios.com.br/Product?titleStartsWith=e&productTypeId=1&take=20"
+          },
+          "letter": "e"
+        },
+        {
+          "data": {
+            "__resolveType": "site/loaders/ListingFromAtoZ.ts",
+            "token": {},
+            "url": "https://auxiliarapi.consultaremedios.com.br/Product?titleStartsWith=f&productTypeId=1&take=20"
+          },
+          "letter": "f"
+        },
+        {
+          "data": {
+            "__resolveType": "site/loaders/ListingFromAtoZ.ts",
+            "token": {},
+            "url": "https://auxiliarapi.consultaremedios.com.br/Product?titleStartsWith=g&productTypeId=1&take=20"
+          },
+          "letter": "g"
+        },
+        {
+          "data": {
+            "__resolveType": "site/loaders/ListingFromAtoZ.ts",
+            "token": {},
+            "url": "https://auxiliarapi.consultaremedios.com.br/Product?titleStartsWith=h&productTypeId=1&take=20"
+          },
+          "letter": "h"
+        },
+        {
+          "data": {
+            "__resolveType": "site/loaders/ListingFromAtoZ.ts",
+            "token": {},
+            "url": "https://auxiliarapi.consultaremedios.com.br/Product?titleStartsWith=i&productTypeId=1&take=20"
+          },
+          "letter": "i"
+        },
+        {
+          "data": {
+            "__resolveType": "site/loaders/ListingFromAtoZ.ts",
+            "token": {},
+            "url": "https://auxiliarapi.consultaremedios.com.br/Product?titleStartsWith=j&productTypeId=1&take=20"
+          },
+          "letter": "j"
+        },
+        {
+          "data": {
+            "__resolveType": "site/loaders/ListingFromAtoZ.ts",
+            "token": {},
+            "url": "https://auxiliarapi.consultaremedios.com.br/Product?titleStartsWith=k&productTypeId=1&take=20"
+          },
+          "letter": "k"
+        },
+        {
+          "data": {
+            "__resolveType": "site/loaders/ListingFromAtoZ.ts",
+            "token": {},
+            "url": "https://auxiliarapi.consultaremedios.com.br/Product?titleStartsWith=l&productTypeId=1&take=20"
+          },
+          "letter": "l"
+        },
+        {
+          "data": {
+            "__resolveType": "site/loaders/ListingFromAtoZ.ts",
+            "token": {},
+            "url": "https://auxiliarapi.consultaremedios.com.br/Product?titleStartsWith=m&productTypeId=1&take=20"
+          },
+          "letter": "m"
+        },
+        {
+          "data": {
+            "__resolveType": "site/loaders/ListingFromAtoZ.ts",
+            "token": {},
+            "url": "https://auxiliarapi.consultaremedios.com.br/Product?titleStartsWith=n&productTypeId=1&take=20"
+          },
+          "letter": "n"
+        },
+        {
+          "data": {
+            "__resolveType": "site/loaders/ListingFromAtoZ.ts",
+            "token": {},
+            "url": "https://auxiliarapi.consultaremedios.com.br/Product?titleStartsWith=o&productTypeId=1&take=20"
+          },
+          "letter": "o"
+        },
+        {
+          "data": {
+            "__resolveType": "site/loaders/ListingFromAtoZ.ts",
+            "token": {},
+            "url": "https://auxiliarapi.consultaremedios.com.br/Product?titleStartsWith=p&productTypeId=1&take=20"
+          },
+          "letter": "p"
+        },
+        {
+          "data": {
+            "__resolveType": "site/loaders/ListingFromAtoZ.ts",
+            "token": {},
+            "url": "https://auxiliarapi.consultaremedios.com.br/Product?titleStartsWith=q&productTypeId=1&take=20"
+          },
+          "letter": "q"
+        },
+        {
+          "data": {
+            "__resolveType": "site/loaders/ListingFromAtoZ.ts",
+            "token": {},
+            "url": "https://auxiliarapi.consultaremedios.com.br/Product?titleStartsWith=r&productTypeId=1&take=20"
+          },
+          "letter": "r"
+        },
+        {
+          "data": {
+            "__resolveType": "site/loaders/ListingFromAtoZ.ts",
+            "token": {},
+            "url": "https://auxiliarapi.consultaremedios.com.br/Product?titleStartsWith=s&productTypeId=1&take=20"
+          },
+          "letter": "s"
+        },
+        {
+          "data": {
+            "__resolveType": "site/loaders/ListingFromAtoZ.ts",
+            "token": {},
+            "url": "https://auxiliarapi.consultaremedios.com.br/Product?titleStartsWith=t&productTypeId=1&take=20"
+          },
+          "letter": "t"
+        },
+        {
+          "data": {
+            "__resolveType": "site/loaders/ListingFromAtoZ.ts",
+            "token": {},
+            "url": "https://auxiliarapi.consultaremedios.com.br/Product?titleStartsWith=u&productTypeId=1&take=20"
+          },
+          "letter": "u"
+        },
+        {
+          "data": {
+            "__resolveType": "site/loaders/ListingFromAtoZ.ts",
+            "token": {},
+            "url": "https://auxiliarapi.consultaremedios.com.br/Product?titleStartsWith=v&productTypeId=1&take=20"
+          },
+          "letter": "v"
+        },
+        {
+          "data": {
+            "__resolveType": "site/loaders/ListingFromAtoZ.ts",
+            "token": {},
+            "url": "https://auxiliarapi.consultaremedios.com.br/Product?titleStartsWith=w&productTypeId=1&take=20"
+          },
+          "letter": "w"
+        },
+        {
+          "data": {
+            "__resolveType": "site/loaders/ListingFromAtoZ.ts",
+            "token": {},
+            "url": "https://auxiliarapi.consultaremedios.com.br/Product?titleStartsWith=x&productTypeId=1&take=20"
+          },
+          "letter": "x"
+        },
+        {
+          "data": {
+            "__resolveType": "site/loaders/ListingFromAtoZ.ts",
+            "token": {},
+            "url": "https://auxiliarapi.consultaremedios.com.br/Product?titleStartsWith=y&productTypeId=1&take=20"
+          },
+          "letter": "y"
+        },
+        {
+          "data": {
+            "__resolveType": "site/loaders/ListingFromAtoZ.ts",
+            "token": {},
+            "url": "https://auxiliarapi.consultaremedios.com.br/Product?titleStartsWith=z&productTypeId=1&take=20"
+          },
+          "letter": "z"
+        },
+        {
+          "data": {
+            "__resolveType": "site/loaders/ListingFromAtoZ.ts",
+            "token": {},
+            "url": "https://auxiliarapi.consultaremedios.com.br/Product?productTypeId=1&take=5000"
+          },
+          "letter": "0-9"
+        }
+      ]
+    },
+    {
+      "__resolveType": "site/sections/Footer/EvaluationSection.tsx",
+      "href": "https://survey.consultaremedios.com.br/zs/yKClyK?origin=%2F&transaction=1d00bfa3-20ec-4aee-9788-4617126c74aa",
+      "textButton": "Fazer uma avaliação",
+      "title": "Adorariamos saber sua opinião!"
+    },
+    {
+      "__resolveType": "Footer - Default"
+    },
+    {
+      "__resolveType": "site/sections/Content/PopUpPrivacyPolicy.tsx",
+      "text": "Usamos cookies para melhorar sua experiência na CR. Consulte mais informações em nossa",
+      "href": "/politica-de-privacidade/c",
+      "textHref": "Política de Privacidade."
+    }
+  ],
+  "seo": {
+    "__resolveType": "site/sections/SEO/SeoV2general.tsx",
+    "titleTemplate": "%s",
+    "descriptionTemplate": "%s",
+    "type": "website",
+    "jsonLDs": [],
+    "title": "Medicamentos por ordem alfabética de A-Z | CR",
+    "description": "Encontre Medicamentos por ordem alfabética de A-Z, compare preços, descubra onde comprar e muito mais na Consulta Remédios. Economize em medicamentos aqui!"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Disease Page P",
+  "path": "/doencas/p",
+  "sections": [
+    {
+      "__resolveType": "Header - Default"
+    },
+    {
+      "__resolveType": "site/sections/ListingFromAtoZ/singlePageDisease.tsx",
+      "disease": {
+        "__resolveType": "site/loaders/singlePageFromAtoZDisease.ts",
+        "token": {},
+        "url": "https://auxiliarapi.consultaremedios.com.br/Disease"
+      }
+    },
+    {
+      "__resolveType": "Footer - Default"
+    },
+    {
+      "__resolveType": "site/sections/Content/PopUpPrivacyPolicy.tsx"
+    }
+  ],
+  "seo": {
+    "__resolveType": "site/sections/SEO/SeoV2ListToAaZ.tsx",
+    "titleTemplate": "%s",
+    "descriptionTemplate": "%s",
+    "type": "website",
+    "jsonLDs": [],
+    "title": "Doenças que começam com a letra",
+    "description": "Veja todas as Doenças que começam com a letra",
+    "descriptionTwo": " e depois compare preços, leia bulas e descubra onde comprar os medicamentos pelo menor preço.",
+    "jsonLD": {
+      "__resolveType": "site/loaders/singlePageFromAtoZDisease.ts",
+      "token": {},
+      "url": "https://auxiliarapi.consultaremedios.com.br/Disease"
+    }
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

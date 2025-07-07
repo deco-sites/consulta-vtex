@@ -1,0 +1,1695 @@
+{
+  "name": "Categorias",
+  "path": "/categorias",
+  "sections": [
+    {
+      "__resolveType": "Header - Default"
+    },
+    {
+      "__resolveType": "site/sections/Category/CategoyPageList.tsx",
+      "layout": {
+        "variation": "Grid"
+      },
+      "categories": [
+        {
+          "subcategories": [
+            {
+              "href": "/acessorios-para-a-saude/porta-comprimidos/c",
+              "label": "Porta-comprimidos"
+            }
+          ],
+          "label": "Acessórios para a Saúde",
+          "icon": "https://assets.decocache.com/consul-remedio/ed1e4b6d-dbdf-4647-8771-3fbe6fdc8585/18D67158B89CD80E58B46DEF2AD24FD4.svg",
+          "href": "/acessorios-para-a-saude/c"
+        },
+        {
+          "subcategories": [
+            {
+              "href": "/alimentos-e-bebidas/balas/c",
+              "label": "Balas"
+            },
+            {
+              "href": "/alimentos-e-bebidas/chicletes/c",
+              "label": "Chicletes"
+            },
+            {
+              "href": "/alimentos-e-bebidas/chocolate/c",
+              "label": "Chocolate"
+            },
+            {
+              "href": "/alimentos-e-bebidas/complemento-alimentar/c",
+              "label": "Complemento Alimentar"
+            },
+            {
+              "href": "/alimentos-e-bebidas/energeticos/c",
+              "label": "Ernegéticos"
+            },
+            {
+              "href": "/alimentos-e-bebidas/extrato-de-propolis/c",
+              "label": "Extrato de própolis"
+            }
+          ],
+          "label": "Alimentos e Bebidas",
+          "href": "/alimentos-e-bebidas/c",
+          "icon": "https://assets.decocache.com/consul-remedio/44bbf0a1-cc48-4f5e-8855-7cc02c9bad01/7C5FB94CBBADC1606E705A90CA6616CB.svg"
+        },
+        {
+          "subcategories": [],
+          "label": "Anestésicos tópicos",
+          "href": "/anestesicos-topicos/c",
+          "icon": "https://assets.decocache.com/consul-remedio/4850d00f-3d62-4583-84a9-d83b72027bbb/77CB74CCC366BD9976DA454823054BF7.svg"
+        },
+        {
+          "subcategories": [],
+          "label": "Antialérgicos",
+          "href": "/antialergicos/c",
+          "icon": "https://assets.decocache.com/consul-remedio/b87f2892-b8cd-49c3-bf59-131ce8a5e9c3/60E1FE7F0E476D89428F2AD9A4252CD0.svg"
+        },
+        {
+          "subcategories": [
+            {
+              "href": "/antifungico/c",
+              "label": "Antifúngico"
+            },
+            {
+              "href": "/antifungico/aspergilose/c",
+              "label": "Aspergilose"
+            },
+            {
+              "href": "/antifungico/candidiase/c",
+              "label": "Candidíase"
+            },
+            {
+              "href": "/antifungico/micose/c",
+              "label": "Micose"
+            }
+          ],
+          "label": "Antifúngico",
+          "href": "/antifungico/c",
+          "icon": "https://assets.decocache.com/consul-remedio/e20a9708-fb77-415d-a176-f76310b8adc8/12C0F9334C0D054B5274CC6147EF1761.svg"
+        },
+        {
+          "subcategories": [],
+          "label": "Antiparasitários",
+          "href": "/antiparasitarios/c",
+          "icon": "https://assets.decocache.com/consul-remedio/2ea276ab-bde6-4ab0-aa5d-e3d4b78a9a49/AE6425A16774F58EF3AD2CB4EEC72E5D.svg"
+        },
+        {
+          "subcategories": [
+            {
+              "href": "/aparelho-digestivo/antiacidos/c",
+              "label": "Antiácidos"
+            },
+            {
+              "href": "/aparelho-digestivo/antigases/c",
+              "label": "Antigases"
+            },
+            {
+              "href": "/aparelho-digestivo/azia/c",
+              "label": "Azia"
+            },
+            {
+              "href": "/aparelho-digestivo/cirrose/c",
+              "label": "Cirrose"
+            },
+            {
+              "href": "/aparelho-digestivo/diarreia/c",
+              "label": "Diarreia"
+            },
+            {
+              "href": "/aparelho-digestivo/digestivos/c",
+              "label": "Digestivos"
+            },
+            {
+              "href": "/aparelho-digestivo/figado/c",
+              "label": "Fígado"
+            },
+            {
+              "href": "/aparelho-digestivo/gastrite/c",
+              "label": "Gastrite"
+            },
+            {
+              "href": "/aparelho-digestivo/hemorroidas/c",
+              "label": "Hemorroidas"
+            },
+            {
+              "href": "/aparelho-digestivo/intolerancia-a-lactose/c",
+              "label": "Intolerância a Lactose"
+            },
+            {
+              "href": "/aparelho-digestivo/laxantes/c",
+              "label": "Laxantes"
+            },
+            {
+              "href": "/aparelho-digestivo/nauseas/c",
+              "label": "Náuseas"
+            },
+            {
+              "href": "/aparelho-digestivo/obesidade/c",
+              "label": "Obesidade"
+            },
+            {
+              "href": "/aparelho-digestivo/refluxo-gastroesofagico/c",
+              "label": "Refluxo Gastroesofágico"
+            },
+            {
+              "href": "/aparelho-digestivo/regulador-intestinal/c",
+              "label": "Regulador Intestinal"
+            },
+            {
+              "href": "/aparelho-digestivo/reidratantes-orais/c",
+              "label": "Reidratantes Orais"
+            },
+            {
+              "href": "/aparelho-digestivo/restaurador-da-flora-intestinal/c",
+              "label": "Restaurador da Flora Intestinal"
+            },
+            {
+              "href": "/aparelho-digestivo/ulcera/c",
+              "label": "Úlcera"
+            }
+          ],
+          "label": "Aparelho Digestivo",
+          "href": "/aparelho-digestivo/c",
+          "icon": "https://assets.decocache.com/consul-remedio/8c4371bd-260f-4668-93c9-de524c6aa8f7/CFCF0B6C1E2BBF21A4D598247C897317.svg"
+        },
+        {
+          "subcategories": [
+            {
+              "href": "/aparelho-respiratorio/amigdalite/c",
+              "label": "Amigdalite"
+            },
+            {
+              "href": "/aparelho-respiratorio/asma/c",
+              "label": "Asma"
+            },
+            {
+              "href": "/aparelho-respiratorio/bronquite/c",
+              "label": "Bronquite"
+            },
+            {
+              "href": "/aparelho-respiratorio/covid-19-coronavirus/c",
+              "label": "COVID-19 (Coronavírus)"
+            },
+            {
+              "href": "/aparelho-respiratorio/dpoc/c",
+              "label": "DPOC"
+            },
+            {
+              "href": "/aparelho-respiratorio/embolia-pulmonar/c",
+              "label": "Embolia Pulmonar"
+            },
+            {
+              "href": "/aparelho-respiratorio/parar-de-fumar/c",
+              "label": "Parar de Fumar"
+            },
+            {
+              "href": "/aparelho-respiratorio/pneumonia/c",
+              "label": "Pneumonia"
+            },
+            {
+              "href": "/aparelho-respiratorio/rinite-alergica/c",
+              "label": "Rinite Alérgica"
+            },
+            {
+              "href": "/aparelho-respiratorio/sinusite/c",
+              "label": "Sinusite"
+            },
+            {
+              "href": "/aparelho-respiratorio/tuberculose/c",
+              "label": "Tuberculose"
+            }
+          ],
+          "label": "Aparelho Respiratório",
+          "href": "/aparelho-respiratorio/c",
+          "icon": "https://assets.decocache.com/consul-remedio/15b042d5-e7a8-42dd-853d-35c5491ed778/9E8B57D5266612944E4D6D23589050F1.svg"
+        },
+        {
+          "subcategories": [
+            {
+              "href": "/cancer/basocelular/c",
+              "label": "Câncer Basocelular"
+            },
+            {
+              "href": "/cancer/colorretal/c",
+              "label": "Câncer Colorretal"
+            },
+            {
+              "href": "/cancer/bexiga/c",
+              "label": "Câncer de Bexiga"
+            },
+            {
+              "href": "/cancer/cabeca-e-pescoco/c",
+              "label": "Câncer de Cabeça e Pescoço"
+            },
+            {
+              "href": "/cancer/estomago/c",
+              "label": "Câncer de Estômago"
+            },
+            {
+              "href": "/cancer/figado/c",
+              "label": "Câncer de Fígado"
+            },
+            {
+              "href": "/cancer/mama/c",
+              "label": "Câncer de Mama"
+            },
+            {
+              "href": "/cancer/ovario/c",
+              "label": "Câncer de Ovário"
+            },
+            {
+              "href": "/cancer/pancreas/c",
+              "label": "Câncer de Pâncreas"
+            },
+            {
+              "href": "/cancer/pele/c",
+              "label": "Câncer de Pele"
+            },
+            {
+              "href": "/cancer/prostata/c",
+              "label": "Câncer de Próstata"
+            },
+            {
+              "href": "/cancer/pulmao/c",
+              "label": "Câncer de Pulmão"
+            },
+            {
+              "href": "/cancer/testiculo/c",
+              "label": "Câncer de Testículo"
+            },
+            {
+              "href": "/cancer/utero/c",
+              "label": "Câncer de Útero"
+            },
+            {
+              "href": "/cancer/cancer-osseo/c",
+              "label": "Câncer Ósseo"
+            },
+            {
+              "href": "/cancer/renal/c",
+              "label": "Câncer Renal"
+            },
+            {
+              "href": "/cancer/leucemia/c",
+              "label": "Leucemia"
+            },
+            {
+              "href": "/cancer/linfoma/c",
+              "label": "Linfoma"
+            },
+            {
+              "href": "/cancer/melanoma/c",
+              "label": "Melanoma"
+            }
+          ],
+          "label": "Câncer",
+          "href": "/cancer/c",
+          "icon": "https://assets.decocache.com/consul-remedio/5acd1521-2949-4c8d-9146-04cc798086a3/5104F76D37A723F0D9F1D1C841207D77.svg"
+        },
+        {
+          "subcategories": [
+            {
+              "href": "/casa/aromaterapia/c",
+              "label": "Aromaterapia"
+            },
+            {
+              "href": "/casa/bloqueador-de-odores-sanitarios/c",
+              "label": "Bloqueador de Odores Sanitários"
+            },
+            {
+              "href": "/casa/eletronicos/c",
+              "label": "Eletrônicos"
+            },
+            {
+              "href": "/casa/fitness/c",
+              "label": "Fitness"
+            },
+            {
+              "href": "/casa/inseticida/c",
+              "label": "Inseticida"
+            },
+            {
+              "href": "/casa/limpeza/c",
+              "label": "Limpeza Doméstica"
+            },
+            {
+              "href": "/casa/meias/c",
+              "label": "Meias"
+            },
+            {
+              "href": "/casa/roupas-e-acessorios/c",
+              "label": "Roupas e Acessórios"
+            },
+            {
+              "href": "/casa/utensilios-domesticos/c",
+              "label": "Utensílios Domésticos"
+            }
+          ],
+          "label": "Casa",
+          "href": "/casa/c",
+          "icon": "https://assets.decocache.com/consul-remedio/b6331ddd-a990-4e9d-a0c8-61d3c6b83b47/97B28CAD10D96DEE64D126B10806378D.svg"
+        },
+        {
+          "subcategories": [
+            {
+              "href": "/colagenos/colageno-hidrolisado/c",
+              "label": "Colágeno Hidrolisado"
+            },
+            {
+              "href": "/colagenos/colageno-nao-hidrolisado/c",
+              "label": "Colágeno Não Hidrolisado"
+            },
+            {
+              "href": "/colagenos/peptideos-de-colageno/c",
+              "label": "Peptídeos de Colágeno"
+            }
+          ],
+          "label": "Colágenos",
+          "href": "/colagenos/c",
+          "icon": "https://assets.decocache.com/consul-remedio/39cec72b-b720-44b6-8c97-9cba10848917/518450B4140D2F12A081C0F4CC54C678.svg"
+        },
+        {
+          "subcategories": [
+            {
+              "href": "/corpo-e-banho/descolorante-de-pelos/c",
+              "label": "Descolorante de Pelos"
+            },
+            {
+              "href": "/corpo-e-banho/esponjas-e-luvas/c",
+              "label": "Esponjas e Luvas"
+            }
+          ],
+          "label": "Corpo e Banho",
+          "href": "/corpo-e-banho/c",
+          "icon": "https://assets.decocache.com/consul-remedio/e469c8a3-cf07-4cde-a139-4734945fcae7/66A570F1795921125763F3A99E02A521.svg"
+        },
+        {
+          "subcategories": [],
+          "label": "Cruelty-Free",
+          "href": "/cruelty-free/c",
+          "icon": "https://assets.decocache.com/consul-remedio/17d3ec08-7a47-476f-b9c4-899b61fcb21a/A744DA6657E0B40BB75AF628831A9E02.svg"
+        },
+        {
+          "subcategories": [
+            {
+              "href": "/cuidados-pessoais/aparador-de-pelos/c",
+              "label": "Aparador de Pelos"
+            },
+            {
+              "href": "/cuidados-pessoais/cabelos/c",
+              "label": "Cabelos"
+            },
+            {
+              "href": "/cuidados-pessoais/colonias/c",
+              "label": "Colônias"
+            },
+            {
+              "href": "/cuidados-pessoais/corpo-e-banho/c",
+              "label": "Corpo e Banho"
+            },
+            {
+              "href": "/cuidados-pessoais/cuidados-com-a-pele/c",
+              "label": "Cuidados com a Pele"
+            },
+            {
+              "href": "/cuidados-pessoais/cuidados-femininos/c",
+              "label": "Cuidados Femininos"
+            },
+            {
+              "href": "/cuidados-pessoais/cuidados-intimos/c",
+              "label": "Cuidados Íntimos"
+            },
+            {
+              "href": "/cuidados-pessoais/cuidados-masculinos/c",
+              "label": "Cuidados Masculinos"
+            },
+            {
+              "href": "/cuidados-pessoais/infantil/c",
+              "label": "Cuidados Pessoais Infantis"
+            },
+            {
+              "href": "/cuidados-pessoais/geriatricos/c",
+              "label": "Geriátricos"
+            },
+            {
+              "href": "/cuidados-pessoais/hidratantes/c",
+              "label": "Hidratantes"
+            },
+            {
+              "href": "/cuidados-pessoais/higiene-bucal/c",
+              "label": "Higiene Bucal"
+            },
+            {
+              "href": "/cuidados-pessoais/limpeza/c",
+              "label": "Limpeza e Higiene"
+            },
+            {
+              "href": "/cuidados-pessoais/maos-e-pes/c",
+              "label": "Mãos e Pés"
+            },
+            {
+              "href": "/cuidados-pessoais/perfumes/c",
+              "label": "Perfumes"
+            }
+          ],
+          "label": "Cuidados Pessoais",
+          "href": "/cuidados-pessoais/c",
+          "icon": "https://assets.decocache.com/consul-remedio/399e52bf-cdb9-4da0-bd39-86b3e87d1761/712A44BB505CEE67441113AF04045754.svg"
+        },
+        {
+          "subcategories": [],
+          "label": "Dermocosméticos",
+          "href": "/dermocosmeticos/c",
+          "icon": "https://assets.decocache.com/consul-remedio/3db2aef9-543d-4175-8b50-918f82584cf4/E4EEBF606926A0ED18A2041543FC883C.svg"
+        },
+        {
+          "subcategories": [
+            {
+              "href": "/doenca-nos-ouvidos/infeccoes-no-ouvido/c",
+              "label": "Infecções no Ouvido"
+            },
+            {
+              "href": "/doenca-nos-ouvidos/labirintite/c",
+              "label": "Labirintite"
+            },
+            {
+              "href": "/doenca-nos-ouvidos/otite/c",
+              "label": "Otite"
+            },
+            {
+              "href": "/doenca-nos-ouvidos/zumbido/c",
+              "label": "Zumbido"
+            }
+          ],
+          "label": "Doenças nos Ouvidos",
+          "href": "/doenca-nos-ouvidos/c",
+          "icon": "https://assets.decocache.com/consul-remedio/f07ef2b0-af3d-42c3-8448-a17d8a428525/3EF9073C89F6B1A144D2B6A436D6CA1F.svg"
+        },
+        {
+          "subcategories": [
+            {
+              "href": "/doencas-do-sangue/anemia/c",
+              "label": "Anemia"
+            },
+            {
+              "href": "/doencas-do-sangue/hemofilia/c",
+              "label": "Hemofilia"
+            }
+          ],
+          "label": "Doenças do Sangue",
+          "href": "/doencas-do-sangue/c",
+          "icon": "https://assets.decocache.com/consul-remedio/f2cb998b-193e-4ede-b474-2ea4fb23e008/BB547AF0F574CADA3952F5F3A6578000.svg"
+        },
+        {
+          "subcategories": [
+            {
+              "href": "/doencas-dos-olhos/anestesicos/c",
+              "label": "Anestésicos Oftalmológico"
+            },
+            {
+              "href": "/doencas-dos-olhos/anti-inflamatorios/c",
+              "label": "Anti-inflamatórios Oftalmológicos"
+            },
+            {
+              "href": "/doencas-dos-olhos/antialergico/c",
+              "label": "Antialérgico"
+            },
+            {
+              "href": "/doencas-dos-olhos/antibiotico/c",
+              "label": "Antibiótico Oftalmológico"
+            },
+            {
+              "href": "/doencas-dos-olhos/blefarite/c",
+              "label": "Blefarite"
+            },
+            {
+              "href": "/doencas-dos-olhos/conjuntivite/c",
+              "label": "Conjuntivite"
+            },
+            {
+              "href": "/doencas-dos-olhos/glaucoma/c",
+              "label": "Glaucoma"
+            },
+            {
+              "href": "/doencas-dos-olhos/lentes-de-contato/c",
+              "label": "Lentes de Contato"
+            },
+            {
+              "href": "/doencas-dos-olhos/lubrificante-ocular/c",
+              "label": "Lubrificante Ocular"
+            }
+          ],
+          "label": "Doenças dos Olhos",
+          "href": "/doencas-dos-olhos/c",
+          "icon": "https://assets.decocache.com/consul-remedio/89794105-88cb-4b72-a0a9-c330a5013f6e/2AFAA0B9152A443DC9D28144CAB322A5.svg"
+        },
+        {
+          "subcategories": [
+            {
+              "href": "/doencas-dos-ossos/artrite/c",
+              "label": "Artrite"
+            },
+            {
+              "href": "/doencas-dos-ossos/artrose/c",
+              "label": "Artrose"
+            },
+            {
+              "href": "/doencas-dos-ossos/gota/c",
+              "label": "Gota"
+            },
+            {
+              "href": "/doencas-dos-ossos/osteoporose/c",
+              "label": "Osteoporose"
+            },
+            {
+              "href": "/doencas-dos-ossos/reumatismo/c",
+              "label": "Reumatismo"
+            }
+          ],
+          "label": "Doenças dos Ossos",
+          "href": "/doencas-dos-ossos/c",
+          "icon": "https://assets.decocache.com/consul-remedio/0d5a03bf-ed7b-4d3c-bc27-ad04c1591397/B80B46BA07B15E600D3BF8B1E47FF10B.svg"
+        },
+        {
+          "subcategories": [
+            {
+              "href": "/doencas-geneticas/doenca-de-gaucher/c",
+              "label": "Doença de Gaucher"
+            },
+            {
+              "href": "/doencas-geneticas/fibrose-cistica/c",
+              "label": "Fibrose Cística"
+            }
+          ],
+          "label": "Doenças Genéticas",
+          "href": "/doencas-geneticas/c",
+          "icon": "https://assets.decocache.com/consul-remedio/a80a4ff9-00e1-46ec-a076-c9dfc5df58bd/51727C1B3536C4775CE56B09AB195899.svg"
+        },
+        {
+          "subcategories": [
+            {
+              "href": "/dor-febre-e-contusao/analgesico-e-antitermico/c",
+              "label": "Analgésico e Antitérmico"
+            },
+            {
+              "href": "/dor-febre-e-contusao/analgesicos/c",
+              "label": "Analgésicos"
+            },
+            {
+              "href": "/dor-febre-e-contusao/colica/c",
+              "label": "Cólica"
+            },
+            {
+              "href": "/dor-febre-e-contusao/contusao/c",
+              "label": "Contusão"
+            },
+            {
+              "href": "/dor-febre-e-contusao/anti-inflamatorios/c",
+              "label": "Anti-inflamatórios"
+            },
+            {
+              "href": "/dor-febre-e-contusao/dor-de-cabeca-e-enxaqueca/c",
+              "label": "Dor de Cabeça e Enxaqueca"
+            },
+            {
+              "href": "/dor-febre-e-contusao/relaxante-muscular/c",
+              "label": "Relaxante Muscular"
+            }
+          ],
+          "label": "Dor, Febre e Contusão",
+          "href": "/dor-febre-e-contusao/c",
+          "icon": "https://assets.decocache.com/consul-remedio/0ee71c39-5f8a-4bf9-9ece-234386bfdcc8/5FBEF255B20AD9EE6311F8E3A51FADD5.svg"
+        },
+        {
+          "subcategories": [
+            {
+              "href": "/fitoterapicos/calmantes/c",
+              "label": "Calmantes"
+            },
+            {
+              "href": "/fitoterapicos/circulacao/c",
+              "label": "Circulação"
+            },
+            {
+              "href": "/fitoterapicos/estimulante/c",
+              "label": "Estimulante"
+            },
+            {
+              "href": "/fitoterapicos/expectorantes/c",
+              "label": "Expectorante Fitoterápico"
+            },
+            {
+              "href": "/fitoterapicos/anti-inflamatorios/c",
+              "label": "Fitoterápicos Anti-inflamatórios"
+            },
+            {
+              "href": "/fitoterapicos/antivertiginosos/c",
+              "label": "Fitoterápicos Antivertiginosos"
+            },
+            {
+              "href": "/fitoterapicos/digestivos/c",
+              "label": "Fitoterápicos Digestivos"
+            },
+            {
+              "href": "/fitoterapicos/laxantes/c",
+              "label": "Fitoterápicos Laxantes"
+            },
+            {
+              "href": "/fitoterapicos/ansiedade/c",
+              "label": "Fitoterápicos para Ansiedade"
+            },
+            {
+              "href": "/fitoterapicos/menopausa/c",
+              "label": "Fitoterápicos para Menopausa"
+            },
+            {
+              "href": "/fitoterapicos/sistema-urinario/c",
+              "label": "Fitoterápicos para o Sistema Urinário"
+            },
+            {
+              "href": "/fitoterapicos/pele/c",
+              "label": "Fitoterápicos para Pele"
+            },
+            {
+              "href": "/fitoterapicos/saude-da-mulher/c",
+              "label": "Fitoterápicos para Saúde da mulher"
+            },
+            {
+              "href": "/fitoterapicos/saude-do-homem/c",
+              "label": "Fitoterápicos para Saúde do homem"
+            },
+            {
+              "href": "/fitoterapicos/sistema-imunologico/c",
+              "label": "Fitoterápicos para Sistema Imunológico"
+            },
+            {
+              "href": "/fitoterapicos/memoria/c",
+              "label": "Memória"
+            },
+            {
+              "href": "/fitoterapicos/tpm/c",
+              "label": "TPM"
+            }
+          ],
+          "label": "Fitoterápicos",
+          "href": "/fitoterapicos/c",
+          "icon": "https://assets.decocache.com/consul-remedio/4c9d0b79-02be-4b57-a4a4-6bbf2dc72721/ADF89C61D35D67D5DA845884DE9FC653.svg"
+        },
+        {
+          "subcategories": [],
+          "label": "Florais",
+          "href": "/florais/c",
+          "icon": "https://assets.decocache.com/consul-remedio/9c34ca70-d179-43fc-a9c2-758511f80374/9DEB5DD7CF5A6BC37CBC1F23D0D9A5BB.svg"
+        },
+        {
+          "subcategories": [
+            {
+              "href": "/gravidez-e-amamentacao/amamentacao/c",
+              "label": "Amamentação"
+            },
+            {
+              "href": "/gravidez-e-amamentacao/hidratantes/c",
+              "label": "Hidratantes para Gestantes"
+            }
+          ],
+          "label": "Gravidez e Amamentação",
+          "href": "/gravidez-e-amamentacao/c",
+          "icon": "https://assets.decocache.com/consul-remedio/402eb417-9dea-49f9-9cc5-2ca69f595a50/132D4D2EDB8567E319931825F2C4EE58.svg"
+        },
+        {
+          "subcategories": [
+            {
+              "href": "/gripes-e-resfriados/antigripais/c",
+              "label": "Antigripais"
+            },
+            {
+              "href": "/gripes-e-resfriados/antiviral/c",
+              "label": "Antiviral"
+            },
+            {
+              "href": "/gripes-e-resfriados/descongestionante-nasal/c",
+              "label": "Descongestionante Nasal"
+            },
+            {
+              "href": "/gripes-e-resfriados/dor-de-garganta/c",
+              "label": "Dor de Garganta"
+            },
+            {
+              "href": "/gripes-e-resfriados/expectorante/c",
+              "label": "Expectorante"
+            },
+            {
+              "href": "/gripes-e-resfriados/faringite/c",
+              "label": "Faringite"
+            },
+            {
+              "href": "/gripes-e-resfriados/tosse/c",
+              "label": "Tosse"
+            }
+          ],
+          "label": "Gripes e Resfriados",
+          "href": "/gripes-e-resfriados/c",
+          "icon": "https://assets.decocache.com/consul-remedio/566b3aa3-e578-4605-bdef-b8672c806b90/9C466C3306B2923CAA3BC210DA8C0DDC.svg"
+        },
+        {
+          "subcategories": [
+            {
+              "href": "/homeopaticos/contusoes-e-inflamacao/c",
+              "label": "Contusões e inflamação"
+            },
+            {
+              "href": "/homeopaticos/disturbios-intestinais/c",
+              "label": "Distúrbios intestinais"
+            },
+            {
+              "href": "/homeopaticos/dores-articulares/c",
+              "label": "Dores articulares"
+            },
+            {
+              "href": "/homeopaticos/gripe-e-resfriado/c",
+              "label": "Gripe e resfriado"
+            },
+            {
+              "href": "/homeopaticos/ansiedade/c",
+              "label": "Homeopáticos para Ansiedade"
+            },
+            {
+              "href": "/homeopaticos/hemorroidas/c",
+              "label": "Homeopáticos para Hemorroidas"
+            },
+            {
+              "href": "/homeopaticos/pele-e-mucosa/c",
+              "label": "Homeopáticos para Pele e Mucosa"
+            },
+            {
+              "href": "/homeopaticos/saude-da-mulher/c",
+              "label": "Homeopáticos para Saúde da mulher"
+            },
+            {
+              "href": "/homeopaticos/tosse/c",
+              "label": "Homeopáticos para Tosse"
+            },
+            {
+              "href": "/homeopaticos/sinusite-e-bronquite/c",
+              "label": "Sinusite e bronquite"
+            }
+          ],
+          "label": "Homeopáticos",
+          "href": "/homeopaticos/c",
+          "icon": "https://assets.decocache.com/consul-remedio/63fc63c3-ac48-4f79-b278-354ea65b1970/410B344A3C5D55713E371E21BC486AEA.svg"
+        },
+        {
+          "subcategories": [
+            {
+              "href": "/infantil/acessorios/c",
+              "label": "Acessórios Infantis"
+            },
+            {
+              "href": "/infantil/alimentos/c",
+              "label": "Alimentos"
+            },
+            {
+              "href": "/infantil/brinquedos/c",
+              "label": "Brinquedos"
+            },
+            {
+              "href": "/infantil/cabelos/c",
+              "label": "Cabelo Infantil"
+            },
+            {
+              "href": "/infantil/corpo-e-banho/c",
+              "label": "Corpo e Banho Infantil"
+            },
+            {
+              "href": "/infantil/creme-para-assaduras/c",
+              "label": "Creme para Assaduras"
+            },
+            {
+              "href": "/infantil/fralda/c",
+              "label": "Fralda"
+            },
+            {
+              "href": "/infantil/lencos-umedecidos/c",
+              "label": "Lenços Umedecidos"
+            },
+            {
+              "href": "/infantil/maquiagem/c",
+              "label": "Maquiagem Infantil"
+            },
+            {
+              "href": "/infantil/repelentes/c",
+              "label": "Repelente Infantil"
+            },
+            {
+              "href": "/infantil/suplementos/c",
+              "label": "Suplementos"
+            }
+          ],
+          "label": "Infantil",
+          "href": "/infantil/c",
+          "icon": "https://assets.decocache.com/consul-remedio/49eca9fe-0849-44c0-a19c-cb44bd99b461/B4B862B170A5C90439C5F5F3B662BEF3.svg"
+        },
+        {
+          "subcategories": [
+            {
+              "href": "/infeccoes/antibioticos/c",
+              "label": "Antibióticos"
+            },
+            {
+              "href": "/infeccoes/corticoide/c",
+              "label": "Corticoide"
+            }
+          ],
+          "label": "Infecções",
+          "href": "/infeccoes/c",
+          "icon": "https://assets.decocache.com/consul-remedio/9e73c131-1c6d-4247-9a13-cc85699ea8fd/B0864DE38DA86B0AF0EDCC220A881F60.svg"
+        },
+        {
+          "subcategories": [
+            {
+              "href": "/infectologia/dsts/c",
+              "label": "DSTs"
+            },
+            {
+              "href": "/infectologia/hepatite/c",
+              "label": "Hepatite"
+            },
+            {
+              "href": "/infectologia/meningite/c",
+              "label": "Meningite"
+            }
+          ],
+          "label": "Infectologia",
+          "href": "/infectologia/c",
+          "icon": "https://assets.decocache.com/consul-remedio/e58d145d-ec27-47ef-9205-5415d2848590/F2DB908EB0868168ED03A02322E423E4.svg"
+        },
+        {
+          "subcategories": [],
+          "label": "Inibidores hormonais",
+          "href": "/inibidores-hormonais/c",
+          "icon": "https://assets.decocache.com/consul-remedio/8815930f-3ac4-4f09-912d-622ebe82abaf/7BFEBF035778ECEE2DF86129F8A1969B.svg"
+        },
+        {
+          "subcategories": [
+            {
+              "href": "/maquiagem/acessorios/c",
+              "label": "Acessórios de Maquiagem"
+            },
+            {
+              "href": "/maquiagem/boca/c",
+              "label": "Boca"
+            },
+            {
+              "href": "/maquiagem/olhos-e-sobrancelhas/c",
+              "label": "Olhos e Sobrancelhas"
+            },
+            {
+              "href": "/maquiagem/paleta-de-maquiagem/c",
+              "label": "Paleta de Maquiagem"
+            },
+            {
+              "href": "/maquiagem/rosto/c",
+              "label": "Rosto"
+            }
+          ],
+          "label": "Maquiagem",
+          "href": "/maquiagem/c",
+          "icon": "https://assets.decocache.com/consul-remedio/e01fd0a2-578e-40a5-a462-dea6cd38e2c2/D328D1090AFE7966B3C18E5B940FD360.svg"
+        },
+        {
+          "subcategories": [],
+          "label": "Medicamentos para Diagnósticos",
+          "href": "/medicamentos-para-diagnosticos/c",
+          "icon": "https://assets.decocache.com/consul-remedio/f70bab81-0f06-490c-9e01-abc9c4a3cd94/D632EE44AB45B7D31263BCCEEA73AE79.svg"
+        },
+        {
+          "subcategories": [
+            {
+              "href": "/ortopedia/almofadas/c",
+              "label": "Almofadas"
+            },
+            {
+              "href": "/ortopedia/andadores/c",
+              "label": "Andadores"
+            },
+            {
+              "href": "/ortopedia/bolsas-termicas/c",
+              "label": "Bolsas Térmicas"
+            },
+            {
+              "href": "/ortopedia/cintas-modeladoras/c",
+              "label": "Cintas Modeladoras"
+            },
+            {
+              "href": "/ortopedia/coluna/c",
+              "label": "Coluna"
+            },
+            {
+              "href": "/ortopedia/joelho/c",
+              "label": "Joelho"
+            },
+            {
+              "href": "/ortopedia/meias-de-compressao/c",
+              "label": "Meias de Compressão"
+            },
+            {
+              "href": "/ortopedia/muletas/c",
+              "label": "Muletas"
+            },
+            {
+              "href": "/ortopedia/ombro-braco-e-cotovelo/c",
+              "label": "Ombro, braço e cotovelo"
+            },
+            {
+              "href": "/ortopedia/pes/c",
+              "label": "Pés"
+            },
+            {
+              "href": "/ortopedia/punhos-maos-e-dedos/c",
+              "label": "Punhos, mãos e dedos"
+            },
+            {
+              "href": "/ortopedia/quadril-e-coxa/c",
+              "label": "Quadril e coxa"
+            },
+            {
+              "href": "/ortopedia/tornozelo-e-panturrilha/c",
+              "label": "Tornozelo e panturrilha"
+            }
+          ],
+          "label": "Ortopedia",
+          "href": "/ortopedia/c",
+          "icon": "https://assets.decocache.com/consul-remedio/a3b81b3e-45c7-4c1d-a2bf-4ae4a397e9fa/6CCC814EBDC45BE81FCDD07278ABF2B0.svg"
+        },
+        {
+          "subcategories": [
+            {
+              "href": "/pele-e-mucosa/acne/c",
+              "label": "Acne"
+            },
+            {
+              "href": "/pele-e-mucosa/aftas/c",
+              "label": "Aftas"
+            },
+            {
+              "href": "/pele-e-mucosa/assaduras/c",
+              "label": "Assaduras"
+            },
+            {
+              "href": "/pele-e-mucosa/calos/c",
+              "label": "Calos"
+            },
+            {
+              "href": "/pele-e-mucosa/dermatites/c",
+              "label": "Dermatites"
+            },
+            {
+              "href": "/pele-e-mucosa/eczema/c",
+              "label": "Eczema"
+            },
+            {
+              "href": "/pele-e-mucosa/feridas/c",
+              "label": "Feridas"
+            },
+            {
+              "href": "/pele-e-mucosa/foliculite/c",
+              "label": "Foliculite"
+            },
+            {
+              "href": "/pele-e-mucosa/hanseniase/c",
+              "label": "Hanseníase"
+            },
+            {
+              "href": "/pele-e-mucosa/herpes/c",
+              "label": "Herpes"
+            },
+            {
+              "href": "/pele-e-mucosa/lupus/c",
+              "label": "Lúpus"
+            },
+            {
+              "href": "/pele-e-mucosa/melasmas/c",
+              "label": "Melasmas"
+            },
+            {
+              "href": "/pele-e-mucosa/psoriase/c",
+              "label": "Psoríase"
+            },
+            {
+              "href": "/pele-e-mucosa/queimaduras/c",
+              "label": "Queimaduras"
+            },
+            {
+              "href": "/pele-e-mucosa/queloides-e-cicatrizantes/c",
+              "label": "Quelóides e Cicatrizantes"
+            },
+            {
+              "href": "/pele-e-mucosa/sarna/c",
+              "label": "Sarna"
+            },
+            {
+              "href": "/pele-e-mucosa/verrugas/c",
+              "label": "Verrugas"
+            }
+          ],
+          "label": "Pele e Mucosa",
+          "href": "/pele-e-mucosa/c",
+          "icon": "https://assets.decocache.com/consul-remedio/011f47b3-c37f-4904-b053-fb3b31369bfa/51B00BF97632EAAE3B94DAB4C267F2B8.svg"
+        },
+        {
+          "subcategories": [
+            {
+              "href": "/pet-shop/aves/c",
+              "label": "Aves"
+            },
+            {
+              "href": "/pet-shop/cachorros/c",
+              "label": "Cachorros"
+            },
+            {
+              "href": "/pet-shop/cavalos/c",
+              "label": "Cavalos"
+            },
+            {
+              "href": "/pet-shop/cuidados-pos-cirurgicos/c",
+              "label": "Cuidados Pós-Cirúrgicos Veterinários"
+            },
+            {
+              "href": "/pet-shop/gatos/c",
+              "label": "Gatos"
+            },
+            {
+              "href": "/pet-shop/homeopaticos-e-florais/c",
+              "label": "Homeopáticos e Florais Veterinários"
+            },
+            {
+              "href": "/pet-shop/medicamentos-veterinarios/c",
+              "label": "Medicamentos Veterinários"
+            },
+            {
+              "href": "/pet-shop/peixes/c",
+              "label": "Peixes"
+            },
+            {
+              "href": "/pet-shop/higiene-bucal/c",
+              "label": "Produtos de Higiene Bucal Veterinários"
+            },
+            {
+              "href": "/pet-shop/repteis/c",
+              "label": "Produtos para Répteis"
+            },
+            {
+              "href": "/pet-shop/roedores/c",
+              "label": "Produtos para Roedores"
+            },
+            {
+              "href": "/pet-shop/suplemento-alimentar/c",
+              "label": "Suplemento Alimentar Veterinário"
+            },
+            {
+              "href": "/pet-shop/vitaminas-e-minerais/c",
+              "label": "Vitaminas e Minerais Veterinários"
+            }
+          ],
+          "label": "Pet Shop",
+          "href": "/pet-shop/c",
+          "icon": "https://assets.decocache.com/consul-remedio/a7ecd851-36e3-4393-adf2-037008fb60bc/908E6D718E9225A504A82F13C0CEE4AC.svg"
+        },
+        {
+          "subcategories": [],
+          "label": "Piolhos",
+          "href": "/piolhos/c",
+          "icon": "https://assets.decocache.com/consul-remedio/5993908b-e55e-4682-9d3f-2b22e2865305/3630A26BD8A83176C90278F823A48177.svg"
+        },
+        {
+          "subcategories": [
+            {
+              "href": "/pressao-alta/antihipertensivo/c",
+              "label": "Antihipertensivo"
+            },
+            {
+              "href": "/pressao-alta/diureticos/c",
+              "label": "Diuréticos"
+            }
+          ],
+          "label": "Pressão Alta",
+          "href": "/pressao-alta/c",
+          "icon": "https://assets.decocache.com/consul-remedio/67f3c060-1e8f-48bd-bf70-ba288e51e72a/E3032C25E069FA18F69273A5A68F469F.svg"
+        },
+        {
+          "subcategories": [
+            {
+              "href": "/primeiros-socorros/antissepticos/c",
+              "label": "Antissépticos"
+            },
+            {
+              "href": "/primeiros-socorros/ataduras-e-bandagens/c",
+              "label": "Ataduras e Bandagens"
+            },
+            {
+              "href": "/primeiros-socorros/bolsa-de-agua-e-compressa/c",
+              "label": "Bolsa de Água e Compressa"
+            },
+            {
+              "href": "/primeiros-socorros/curativos-esparadrapos-e-gazes/c",
+              "label": "Curativos, Esparadrapos e Gazes"
+            },
+            {
+              "href": "/primeiros-socorros/luvas-e-mascaras/c",
+              "label": "Luvas e Máscaras"
+            }
+          ],
+          "label": "Primeiros Socorros",
+          "href": "/primeiros-socorros/c",
+          "icon": "https://assets.decocache.com/consul-remedio/58cf567f-c00e-4af9-b735-801998f0bbdf/A6C3FC04982F5ABDE61532476D8C1971.svg"
+        },
+        {
+          "subcategories": [
+            {
+              "href": "Ácido hialurônico",
+              "label": "Ácido hialurônico"
+            },
+            {
+              "href": "Toxina botulínica",
+              "label": "Toxina botulínica"
+            }
+          ],
+          "label": "Procedimentos estéticos",
+          "href": "Procedimentos estéticos",
+          "icon": "https://assets.decocache.com/consul-remedio/d3580feb-89f2-4fb7-8afb-89d02d0c6106/658D2A697C0C3CECF6985BE7EE55E55D.svg"
+        },
+        {
+          "subcategories": [
+            {
+              "href": "/produtos-hospitalares/agua-para-injetaveis-diluentes/c",
+              "label": "Água para Injetáveis (diluentes)"
+            },
+            {
+              "href": "/produtos-hospitalares/agulhas/c",
+              "label": "Agulhas Hospitalares"
+            },
+            {
+              "href": "/produtos-hospitalares/disturbios-eletroliticos/c",
+              "label": "Distúrbios eletrolíticos"
+            },
+            {
+              "href": "/produtos-hospitalares/edema-cerebral/c",
+              "label": "Edema cerebral"
+            },
+            {
+              "href": "/produtos-hospitalares/hemodialise/c",
+              "label": "Hemodiálise"
+            },
+            {
+              "href": "/produtos-hospitalares/hipotensao/c",
+              "label": "Hipotensão"
+            },
+            {
+              "href": "/produtos-hospitalares/nutricao-enteral/c",
+              "label": "Nutrição Enteral"
+            },
+            {
+              "href": "/produtos-hospitalares/nutricao-parenteral/c",
+              "label": "Nutrição Parenteral"
+            },
+            {
+              "href": "/produtos-hospitalares/reidratantes/c",
+              "label": "Reidratantes"
+            },
+            {
+              "href": "/produtos-hospitalares/reversao-da-sedacao/c",
+              "label": "Reversão da sedação"
+            },
+            {
+              "href": "/produtos-hospitalares/seringas/c",
+              "label": "Seringas Hospitalares"
+            },
+            {
+              "href": "/produtos-hospitalares/soros/c",
+              "label": "Soros Hospitalares"
+            }
+          ],
+          "label": "Produtos Hospitalares",
+          "href": "/produtos-hospitalares/c",
+          "icon": "https://assets.decocache.com/consul-remedio/5fc1eb4b-1747-4d89-a9e5-f3ea03d72448/337819036F962A6398ADEC97E123A7E3.svg"
+        },
+        {
+          "subcategories": [],
+          "label": "Reposição Hormonal",
+          "href": "/reposicao-hormonal/c",
+          "icon": "https://assets.decocache.com/consul-remedio/87f01c27-cf11-4431-9c3b-5aa9f72b63bb/0CE29ADE125ED65DD038BB6632F45C4E.svg"
+        },
+        {
+          "subcategories": [
+            {
+              "href": "/saude-da-mulher/anticoncepcionais/c",
+              "label": "Anticoncepcionais"
+            },
+            {
+              "href": "/saude-da-mulher/colica-menstrual/c",
+              "label": "Cólica menstrual"
+            },
+            {
+              "href": "/saude-da-mulher/endometriose/c",
+              "label": "Endometriose"
+            },
+            {
+              "href": "/saude-da-mulher/ginecologicos/c",
+              "label": "Ginecológicos"
+            },
+            {
+              "href": "/saude-da-mulher/gravidez/c",
+              "label": "Gravidez"
+            },
+            {
+              "href": "/saude-da-mulher/menopausa/c",
+              "label": "Menopausa"
+            },
+            {
+              "href": "/saude-da-mulher/pilula-do-dia-seguinte/c",
+              "label": "Pílula do dia seguinte"
+            }
+          ],
+          "label": "Saúde da Mulher",
+          "href": "/saude-da-mulher/c",
+          "icon": "https://assets.decocache.com/consul-remedio/2c560663-2825-4177-b029-c131fa6b61a8/CE6E867E9D9D7BC8D733458E3800C66A.svg"
+        },
+        {
+          "subcategories": [
+            {
+              "href": "/saude-do-homem/disfuncao-eretil/c",
+              "label": "Disfunção Erétil"
+            },
+            {
+              "href": "/saude-do-homem/prostata-aumentada/c",
+              "label": "Próstata Aumentada"
+            },
+            {
+              "href": "/saude-do-homem/queda-de-cabelo-e-calvicie/c",
+              "label": "Queda de Cabelo e Calvície"
+            }
+          ],
+          "label": "Saúde do Homem",
+          "href": "/saude-do-homem/c",
+          "icon": "https://assets.decocache.com/consul-remedio/7aa2b197-4eca-4ad4-8c51-1c9898ca0808/E6081AD09DE5716C119A9AAD2733BF1C.svg"
+        },
+        {
+          "subcategories": [],
+          "label": "Sem Glúten",
+          "href": "/sem-gluten/c",
+          "icon": "https://assets.decocache.com/consul-remedio/8ec9639d-ae44-439f-ae9d-dbad5dcfd553/B9DC082982B4AB8BCA0A2E59BB886B0C.svg"
+        },
+        {
+          "subcategories": [],
+          "label": "Sem Lactose",
+          "href": "/sem-lactose/c",
+          "icon": "https://assets.decocache.com/consul-remedio/522e1712-f1e3-4d72-9f80-c9943a17066e/588B6EBC861DFC343D6278D11C3FF736.svg"
+        },
+        {
+          "subcategories": [
+            {
+              "href": "/sistema-cardiovascular-circulacao/angina/c",
+              "label": "Angina"
+            },
+            {
+              "href": "/sistema-cardiovascular-circulacao/anticoagulante/c",
+              "label": "Anticoagulante"
+            },
+            {
+              "href": "/sistema-cardiovascular-circulacao/arritmia/c",
+              "label": "Arritmia"
+            },
+            {
+              "href": "/sistema-cardiovascular-circulacao/aterosclerose/c",
+              "label": "Aterosclerose"
+            },
+            {
+              "href": "/sistema-cardiovascular-circulacao/colesterol/c",
+              "label": "Colesterol"
+            },
+            {
+              "href": "/sistema-cardiovascular-circulacao/diabetes/c",
+              "label": "Diabetes"
+            },
+            {
+              "href": "/sistema-cardiovascular-circulacao/infarto/c",
+              "label": "Infarto"
+            },
+            {
+              "href": "/sistema-cardiovascular-circulacao/insuficiencia-cardiaca/c",
+              "label": "Insuficiência Cardíaca"
+            },
+            {
+              "href": "/sistema-cardiovascular-circulacao/insuficiencia-venosa/c",
+              "label": "Insuficiência Venosa"
+            },
+            {
+              "href": "/sistema-cardiovascular-circulacao/triglicerideos/c",
+              "label": "Triglicerídeos"
+            }
+          ],
+          "label": "Sistema Cardiovascular (Circulação)",
+          "href": "/sistema-cardiovascular-circulacao/c",
+          "icon": "https://assets.decocache.com/consul-remedio/22d02f0d-94fb-4a77-a322-e43e759e1450/2A87BC74AD1E81D24727E3FC10A4C7D0.svg"
+        },
+        {
+          "subcategories": [
+            {
+              "href": "/sistema-imunologico/imunoestimulantes/c",
+              "label": "Imunoestimulantes"
+            },
+            {
+              "href": "/sistema-imunologico/imunossupressores/c",
+              "label": "Imunossupressores"
+            }
+          ],
+          "label": "Sistema Imunológico",
+          "href": "/sistema-imunologico/c",
+          "icon": "https://assets.decocache.com/consul-remedio/ee1bf7c0-b42d-4baf-b83a-b026cd59a7eb/C99E0C3E6A7F6E1B05309B388AE8C62A.svg"
+        },
+        {
+          "subcategories": [
+            {
+              "href": "/sistema-nervoso-central/acidente-vascular-cerebral/c",
+              "label": "Acidente Vascular Cerebral"
+            },
+            {
+              "href": "/sistema-nervoso-central/alcoolismo/c",
+              "label": "Alcoolismo"
+            },
+            {
+              "href": "/sistema-nervoso-central/alzheimer/c",
+              "label": "Alzheimer"
+            },
+            {
+              "href": "/sistema-nervoso-central/anestesicos/c",
+              "label": "Anestésicos"
+            },
+            {
+              "href": "/sistema-nervoso-central/ansiedade/c",
+              "label": "Ansiedade"
+            },
+            {
+              "href": "/sistema-nervoso-central/antidepressivos/c",
+              "label": "Antidepressivos"
+            },
+            {
+              "href": "/sistema-nervoso-central/antipsicotico/c",
+              "label": "Antipsicótico"
+            },
+            {
+              "href": "/sistema-nervoso-central/antivertiginosos/c",
+              "label": "Antivertiginosos"
+            },
+            {
+              "href": "/sistema-nervoso-central/convulsao-e-epilepsia/c",
+              "label": "Convulsão e Epilepsia"
+            },
+            {
+              "href": "/sistema-nervoso-central/disturbios-cerebrais/c",
+              "label": "Distúrbios Cerebrais"
+            },
+            {
+              "href": "/sistema-nervoso-central/esclerose-multipla/c",
+              "label": "Esclerose Múltipla"
+            },
+            {
+              "href": "/sistema-nervoso-central/esquizofrenia/c",
+              "label": "Esquizofrenia"
+            },
+            {
+              "href": "/sistema-nervoso-central/insonia/c",
+              "label": "Insônia"
+            },
+            {
+              "href": "/sistema-nervoso-central/parkinson/c",
+              "label": "Parkinson"
+            },
+            {
+              "href": "/sistema-nervoso-central/sedativos/c",
+              "label": "Sedativos"
+            },
+            {
+              "href": "/sistema-nervoso-central/toc/c",
+              "label": "TOC"
+            },
+            {
+              "href": "/sistema-nervoso-central/transtorno-bipolar/c",
+              "label": "Transtorno Bipolar"
+            },
+            {
+              "href": "/sistema-nervoso-central/transtorno-do-deficit-de-atencao/c",
+              "label": "Transtorno do Déficit de Atenção"
+            }
+          ],
+          "label": "Sistema Nervoso Central",
+          "href": "/sistema-nervoso-central/c",
+          "icon": "https://assets.decocache.com/consul-remedio/5e5c99be-3a07-4b7d-b8ce-2ebfffe26e3d/EDD14312F1F8297639F635DC5B62D1B3.svg"
+        },
+        {
+          "subcategories": [
+            {
+              "href": "/sistema-urinario/cistite/c",
+              "label": "Cistite"
+            },
+            {
+              "href": "/sistema-urinario/disturbios-urinarios/c",
+              "label": "Distúrbios Urinários"
+            },
+            {
+              "href": "/sistema-urinario/infeccao-urinaria/c",
+              "label": "Infecção Urinária"
+            }
+          ],
+          "label": "Sistema Urinário",
+          "href": "/sistema-urinario/c",
+          "icon": "https://assets.decocache.com/consul-remedio/00765284-cc67-471b-b274-d84bc556a728/2DEBC6C77177547D90DDD0B886D87086.svg"
+        },
+        {
+          "subcategories": [
+            {
+              "href": "/soros-e-injetaveis/agulhas/c",
+              "label": "Agulhas"
+            },
+            {
+              "href": "/soros-e-injetaveis/seringas/c",
+              "label": "Seringas"
+            },
+            {
+              "href": "/soros-e-injetaveis/soros/c",
+              "label": "Soros"
+            }
+          ],
+          "label": "Soros e Injetáveis",
+          "href": "/soros-e-injetaveis/c",
+          "icon": "https://assets.decocache.com/consul-remedio/4c076be7-e88e-4bed-b183-82c0f4a69fe6/AD2285368CBAA5FA2043F3B3F357142E.svg"
+        },
+        {
+          "subcategories": [],
+          "label": "Suplemento Enteral",
+          "href": "/suplemento-enteral/c",
+          "icon": "https://assets.decocache.com/consul-remedio/67e85f51-4b4b-4376-95e0-d8f387083192/FCC4560346BF5060137CF69BD906F542.svg"
+        },
+        {
+          "subcategories": [],
+          "label": "Teste Covid-19 (Coronavírus)",
+          "href": "/teste-covid-19-coronavirus/c",
+          "icon": "https://assets.decocache.com/consul-remedio/c7410539-3d06-4973-8bab-431c903a334c/CF509BF1305C99A735BB391E63AF591D.svg"
+        },
+        {
+          "subcategories": [
+            {
+              "href": "/testes-e-aparelhos/aparelho-para-pressao-arterial/c",
+              "label": "Aparelho para Pressão Arterial"
+            },
+            {
+              "href": "/testes-e-aparelhos/balanca/c",
+              "label": "Balança"
+            },
+            {
+              "href": "/testes-e-aparelhos/coletor-de-exame-e-urina/c",
+              "label": "Coletor de Exame e Urina"
+            },
+            {
+              "href": "/testes-e-aparelhos/inaladores-e-nebulizadores/c",
+              "label": "Inaladores e Nebulizadores"
+            },
+            {
+              "href": "/testes-e-aparelhos/termometros/c",
+              "label": "Termômetros"
+            },
+            {
+              "href": "/testes-e-aparelhos/teste-de-gravidez/c",
+              "label": "Teste de Gravidez"
+            },
+            {
+              "href": "/testes-e-aparelhos/tiras-e-aparelhos-para-glicemia/c",
+              "label": "Tiras e Aparelhos para Glicemia"
+            },
+            {
+              "href": "/testes-e-aparelhos/umidificador-de-ar/c",
+              "label": "Umidificador de Ar"
+            }
+          ],
+          "label": "Testes e Aparelhos",
+          "href": "/testes-e-aparelhos/c",
+          "icon": "https://assets.decocache.com/consul-remedio/215405c5-7d8b-485e-8f12-06079457a712/C8835A330F9887E21D666DB40BFD97EE.svg"
+        },
+        {
+          "subcategories": [
+            {
+              "href": "/tireoide/hipertiroidismo/c",
+              "label": "Hipertiroidismo"
+            },
+            {
+              "href": "/tireoide/hipotireoidismo/c",
+              "label": "Hipotireoidismo"
+            }
+          ],
+          "label": "Tireoide",
+          "href": "/tireoide/c",
+          "icon": "https://assets.decocache.com/consul-remedio/fd81b34a-9b0e-42d2-85b4-268efe8e284c/3C44405D138BB0DAB19DB9252407CB63.svg"
+        },
+        {
+          "subcategories": [
+            {
+              "href": "/tratamentos/corpo/c",
+              "label": "Corpo"
+            },
+            {
+              "href": "/tratamentos/gravidas/c",
+              "label": "Grávidas"
+            },
+            {
+              "href": "/tratamentos/pele/c",
+              "label": "Tratamento de Pele"
+            },
+            {
+              "href": "/tratamentos/rosto/c",
+              "label": "Tratamento Facial"
+            }
+          ],
+          "label": "Tratamentos",
+          "href": "/tratamentos/c",
+          "icon": "https://assets.decocache.com/consul-remedio/d2933326-4826-4535-8836-8b8771f19c9c/30B002F5BEFACBDC154A5AEB257504D4.svg"
+        },
+        {
+          "subcategories": [
+            {
+              "href": "/vacinas/vacina-antitetanica/c",
+              "label": "Vacina Antitetânica"
+            },
+            {
+              "href": "/vacinas/vacina-catapora/c",
+              "label": "Vacina Catapora"
+            },
+            {
+              "href": "/vacinas/vacina-dtp/c",
+              "label": "Vacina DTP"
+            },
+            {
+              "href": "/vacinas/vacina-gripe/c",
+              "label": "Vacina Gripe"
+            },
+            {
+              "href": "/vacinas/vacina-hepatite/c",
+              "label": "Vacina Hepatite"
+            },
+            {
+              "href": "/vacinas/vacina-meningite/c",
+              "label": "Vacina Meningite"
+            },
+            {
+              "href": "/vacinas/vacina-pneumonia/c",
+              "label": "Vacina Pneumonia"
+            },
+            {
+              "href": "/vacinas/vacina-poliomielite/c",
+              "label": "Vacina Poliomielite"
+            }
+          ],
+          "label": "Vacinas",
+          "href": "/vacinas/c",
+          "icon": "https://assets.decocache.com/consul-remedio/b6b80299-bc88-487a-90b5-bec6edc7b89f/5D5F578107E01FB56837D1A2EEAB87A0.svg"
+        },
+        {
+          "subcategories": [],
+          "label": "Veganos",
+          "href": "/veganos/c",
+          "icon": "https://assets.decocache.com/consul-remedio/442efcf3-4c1e-4e01-b1dc-18e8e89b79e4/FAA588A5FF76114AE79DA32C580530D5.svg"
+        },
+        {
+          "subcategories": [
+            {
+              "href": "/vitaminas-e-minerais/antioxidante/c",
+              "label": "Antioxidante"
+            },
+            {
+              "href": "/vitaminas-e-minerais/cansaco/c",
+              "label": "Cansaço"
+            },
+            {
+              "href": "/vitaminas-e-minerais/estimulante-do-apetite/c",
+              "label": "Estimulante do Apetite"
+            },
+            {
+              "href": "/vitaminas-e-minerais/polivitaminico/c",
+              "label": "Polivitamínico"
+            },
+            {
+              "href": "/vitaminas-e-minerais/suplemento-vitaminico/c",
+              "label": "Suplemento Vitamínico"
+            },
+            {
+              "href": "/vitaminas-e-minerais/vitamina-a/c",
+              "label": "Vitamina A"
+            },
+            {
+              "href": "/vitaminas-e-minerais/vitamina-b/c",
+              "label": "Vitamina B"
+            },
+            {
+              "href": "/vitaminas-e-minerais/vitamina-c/c",
+              "label": "Vitamina C"
+            },
+            {
+              "href": "/vitaminas-e-minerais/vitamina-d/c",
+              "label": "Vitamina D"
+            },
+            {
+              "href": "/vitaminas-e-minerais/vitamina-e/c",
+              "label": "Vitamina E"
+            },
+            {
+              "href": "/vitaminas-e-minerais/vitamina-k/c",
+              "label": "Vitamina K"
+            }
+          ],
+          "label": "Vitaminas e Minerais",
+          "href": "/vitaminas-e-minerais/c",
+          "icon": "https://assets.decocache.com/consul-remedio/2e6b81e7-4ffc-4897-baf1-b5c9d4417cfd/E95E2241F2990A2AFE5098BE0E105A93.svg"
+        }
+      ]
+    },
+    {
+      "__resolveType": "Footer - Default"
+    },
+    {
+      "__resolveType": "site/sections/Content/PopUpPrivacyPolicy.tsx",
+      "text": "Usamos cookies para melhorar sua experiência na CR. Consulte mais informações em nossa ",
+      "href": "/politica-de-privacidade/c",
+      "textHref": "Política de Privacidade."
+    }
+  ],
+  "seo": {
+    "__resolveType": "site/sections/SEO/SeoV2general.tsx",
+    "titleTemplate": "%s",
+    "descriptionTemplate": "%s",
+    "type": "website",
+    "jsonLDs": [],
+    "title": "Todas as Categorias do CR",
+    "description": "Confira a lista completa de categorias existentes no site do Consulta Remédios. Navegue pelas categorias para encontrar as melhores ofertas para você!"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

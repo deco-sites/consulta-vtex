@@ -1,0 +1,117 @@
+{
+  "name": "No Que Acreditamos",
+  "path": "/quem-somos/no-que-acreditamos",
+  "sections": [
+    {
+      "__resolveType": "Header - Default"
+    },
+    {
+      "__resolveType": "site/sections/aboutUs/NavItemsAboutUs.tsx",
+      "items": [
+        {
+          "title": "Sobre a CR",
+          "href": "/quem-somos"
+        },
+        {
+          "title": "Como ajudamos",
+          "href": "/quem-somos/como-ajudamos"
+        },
+        {
+          "title": "No que acreditamos",
+          "href": "/quem-somos/no-que-acreditamos"
+        }
+      ]
+    },
+    {
+      "__resolveType": "site/sections/aboutUs/TopText.tsx",
+      "title": "No que acreditamos",
+      "subtitle": "Somos uma empresa centrada no cliente.",
+      "description": "Isso significa garantir que todos os nossos produtos e recursos sejam construídos pensando em você. Essa abordagem orienta como operamos, tomamos decisões em todos os nossos negócios e trabalhamos em novas ideias para nossos clientes.",
+      "isTop": true
+    },
+    {
+      "__resolveType": "site/sections/aboutUs/ImageAboutUs.tsx",
+      "image": "https://assets.decocache.com/consul-remedio/70c98de6-9ab7-4b59-9b43-245a16d15c0a/national-cancer-institute-BxXgTQEw1M4-unsplash-1-(2).png",
+      "alt": "Estamos aqui em todas as etapas da sua jornada de saúde."
+    },
+    {
+      "__resolveType": "site/sections/aboutUs/TextAboutUs.tsx",
+      "text": "A Consulta Remédios é construída com base nos seguintes princípios nos quais todo cliente pode confiar:"
+    },
+    {
+      "__resolveType": "site/sections/aboutUs/BlockInfo.tsx",
+      "items": [
+        {
+          "information": [],
+          "title": "Empoderamento",
+          "subtitle": "Nós fornecemos as ferramentas para que você possa escolher como gerenciar o seu cuidado.",
+          "description": "Acreditamos que quando você pode comparar opções de medicamentos com base em pesquisa especializada, conveniência e preço, você está capacitado a tomar decisões melhores sobre sua saúde. Com essas ferramentas você tem a chance de tomar as rédeas da sua saúde em suas próprias mãos.",
+          "image": "https://assets.decocache.com/consul-remedio/63ed1078-4569-4355-a74b-d2ef5ec2349c/image-placeholder-_--Change-image-here-(1).png"
+        },
+        {
+          "information": [],
+          "title": "Assistência",
+          "subtitle": "Nós ajudamos você a navegar pelos complexos sistemas de saúde.",
+          "description": "Pode parecer que seu médico é o único que realmente está do seu lado. Mas aqui na Consulta Remédios, também estamos ao seu lado. Enquanto todas as farmácias estão divulgando promoções e descontos, nós estamos aqui para lhe dar a transparência. Além de economizar dinheiro para você, também temos uma equipe de Assistência ao Paciente pronta para lhe ajudar.",
+          "image": "https://assets.decocache.com/consul-remedio/a0e2409b-d6a1-4a83-a976-9b1697b38709/image-placeholder-_--Change-image-here-(2).png"
+        },
+        {
+          "information": [
+            {
+              "text": "Taxas de Indicação: Conectamos varejistas a você, o cliente. Quando você usa a Consulta Remédios, economiza dinheiro em suas compras, e nós recebemos uma taxa de indicação dos parceiros com quem negociamos. Este modelo é similar ao de outros marketplaces e não envolve subsídios de planos de saúde, algo incomum no Brasil."
+            },
+            {
+              "text": "Taxa de Serviço: Em nossas transações, cobramos uma taxa de serviço dos compradores. Uma porcentagem do valor da compra realizada pelo usuário por meio da Consulta Remédios é cobrada pela CR, garantindo a manutenção e melhoria contínua de nossos serviços."
+            },
+            {
+              "text": "Visitas de Cuidados: Ao conectar pacientes a profissionais de saúde certificados, mantemos uma parte da taxa da consulta. Isso é justificado pela plataforma segura e pela infraestrutura técnica que fornecemos, garantindo uma experiência confiável e eficiente para os usuários."
+            },
+            {
+              "text": "Publicidade: Ganhamos receita através de anúncios online e programas patrocinados em nossos sites e aplicativos móveis, além de plataformas de terceiros. Conectamos nossos usuários a serviços fornecidos por fabricantes e outros terceiros que acreditamos ser úteis. Podemos usar e compartilhar suas informações com terceiros para ajudar a conectá-lo com publicidade e mensagens relevantes para serviços que possam ser do seu interesse."
+            }
+          ],
+          "title": "Transparência",
+          "subtitle": "Somos transparentes e honestos.",
+          "description": "Na Consulta Remédios (CR), acreditamos na transparência em todos os aspectos. Isso começa com a oferta de ferramentas que fornecem informações claras e transparentes sobre preços de medicamentos, perfumaria, cosméticos, alimentos e produtos de saúde, além de como sustentamos nossas operações. Na CR, mantemos nossa transparência operacional por meio de quatro canais principais:",
+          "image": "https://assets.decocache.com/consul-remedio/b4d153ef-8285-408d-be97-b84abde20f75/image-placeholder-_--Change-image-here-(3).png"
+        }
+      ]
+    },
+    {
+      "__resolveType": "site/sections/aboutUs/TopText.tsx",
+      "title": "Nosso impacto",
+      "subtitle": "Contribuindo para que cada pessoa tenha acesso ao cuidado necessário para manter sua saúde em dia.",
+      "description": "Em 2023, milhões de brasileiros não puderam custear o cuidado de que precisavam. Estamos empenhados em reduzir essa disparidade de acesso. Já ajudamos a economizar mais de R$ 35 bilhões em medicamentos para os brasileiros.",
+      "isTop": false
+    },
+    {
+      "__resolveType": "site/sections/aboutUs/ImageAboutUs.tsx",
+      "image": "https://assets.decocache.com/consul-remedio/01b8c088-7717-4e2a-9b6e-4d72d22065b0/national-cancer-institute-BxXgTQEw1M4-unsplash-1-(3).png"
+    },
+    {
+      "__resolveType": "site/sections/Footer/EvaluationSection.tsx",
+      "href": "https://survey.consultaremedios.com.br/zs/yKClyK?origin=%2F&transaction=1d00bfa3-20ec-4aee-9788-4617126c74aa",
+      "textButton": "Fazer uma avaliação",
+      "title": "Adorariamos saber sua opinião!"
+    },
+    {
+      "__resolveType": "Footer - Default"
+    },
+    {
+      "__resolveType": "site/sections/Content/PopUpPrivacyPolicy.tsx",
+      "text": "Usamos cookies para melhorar sua experiência na CR. Consulte mais informações em nossa",
+      "href": "/politica-de-privacidade/c",
+      "textHref": "Política de Privacidade."
+    }
+  ],
+  "seo": {
+    "__resolveType": "site/sections/SEO/SeoV2general.tsx",
+    "titleTemplate": "%s",
+    "descriptionTemplate": "%s",
+    "type": "website",
+    "jsonLDs": [],
+    "title": "No que acreditamos no Consulta Remédios",
+    "description": "Contribuímos para que cada pessoa tenha acesso ao cuidado necessário para manter a saúde em dia. Veja no que acreditamos e os princípios do CR."
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

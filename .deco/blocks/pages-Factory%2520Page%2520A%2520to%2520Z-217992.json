@@ -1,0 +1,42 @@
+{
+  "name": "Factory Page A to Z",
+  "path": "/fabricantes/*",
+  "sections": [
+    {
+      "__resolveType": "Header - Default"
+    },
+    {
+      "__resolveType": "site/sections/ListingFromAtoZ/singlePageFactory.tsx",
+      "factory": {
+        "__resolveType": "site/loaders/singlePageFromAtoZfactory.ts",
+        "token": {},
+        "url": "https://auxiliarapi.consultaremedios.com.br/Factory?&take=4000"
+      }
+    },
+    {
+      "__resolveType": "Footer - Default"
+    },
+    {
+      "__resolveType": "site/sections/Content/PopUpPrivacyPolicy.tsx",
+      "text": "Usamos cookies para melhorar sua experiência na CR. Consulte mais informações em nossa ",
+      "href": "/politica-de-privacidade/c",
+      "textHref": "Política de Privacidade."
+    }
+  ],
+  "seo": {
+    "__resolveType": "site/sections/SEO/SeoV2ListToAaZ.tsx",
+    "titleTemplate": "%s",
+    "descriptionTemplate": "%s",
+    "type": "website",
+    "jsonLDs": [],
+    "title": "Fabricantes",
+    "description": "Veja todos os fabricantes que começam com a letra",
+    "descriptionTwo": " e depois compare preços, leia bulas e descubra onde comprar os medicamentos pelo menor preço.",
+    "jsonLD": {
+      "__resolveType": "site/loaders/singlePageFromAtoZfactory.ts",
+      "token": {},
+      "url": "https://auxiliarapi.consultaremedios.com.br/Factory?&take=4000"
+    }
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

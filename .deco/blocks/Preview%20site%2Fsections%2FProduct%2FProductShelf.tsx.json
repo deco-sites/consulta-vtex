@@ -1,0 +1,37 @@
+{
+  "__resolveType": "site/sections/Product/ProductShelf.tsx",
+  "layout": {
+    "numberOfSliders": {
+      "mobile": 1,
+      "desktop": 1
+    },
+    "headerAlignment": "center",
+    "headerfontSize": "Normal"
+  },
+  "products": {
+    "__resolveType": "site/loaders/productList.ts",
+    "first": 12,
+    "sortDirection": "ASC",
+    "sortKey": "DISCOUNT",
+    "filters": {
+      "attributes": {
+        "id": [],
+        "name": [],
+        "type": [],
+        "value": []
+      },
+      "brandId": [],
+      "categoryId": [],
+      "ean": [],
+      "productId": [],
+      "productVariantId": [],
+      "sameParentAs": [],
+      "sku": [],
+      "stocks": {
+        "dcId": [],
+        "dcName": []
+      },
+      "prices": {}
+    }
+  }
+}

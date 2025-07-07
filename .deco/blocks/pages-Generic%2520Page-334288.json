@@ -1,0 +1,171 @@
+{
+  "name": "Generic Page",
+  "path": "/genericos",
+  "sections": [
+    {
+      "__resolveType": "Header - Default"
+    },
+    {
+      "__resolveType": "site/sections/ListingFromAtoZ/ContentTop.tsx",
+      "title": "Tudo sobre medicamentos genéricos",
+      "description": "Aprenda sobre medicamentos genéricos tire suas dúvidas e compre com economia real aqui na Consulta Remédios.",
+      "image": "https://assets.decocache.com/consul-remedio/2d096c0c-4fb2-49e7-95ba-c433343ab01f/Vector-4.svg",
+      "breadcrumb": [
+        {
+          "label": "home",
+          "href": "/"
+        },
+        {
+          "label": "Medicamentos Genéricos",
+          "href": "/genericos"
+        }
+      ]
+    },
+    {
+      "__resolveType": "site/sections/TermosPoliticas/content.tsx",
+      "text": "<div class=\"mx-auto px-4 max-w-7xl\"><div class=\"my-4\"><div class=\"flex items-center justify-center\"><div class=\"max-w-4xl\"><h2 class=\"text-3xl font-medium mt-10 mb-2\">Perguntas frequentes sobre Genéricos</h2><hr class=\"my-6 border-gray-300\"><div class=\"flex flex-col lg:flex-row gap-4 py-6\"><div class=\"flex items-center mb-4\"><img class=\"mr-1 rounded-full\" src=\"https://assets.decocache.com/consul-remedio/da8acda2-26ac-4ea6-abb6-782f4946e766/avatar.svg\" alt=\"Karime Halmenschlager Sleiman\" width=\"32\" height=\"32\" data-mce-src=\"https://assets.decocache.com/consul-remedio/da8acda2-26ac-4ea6-abb6-782f4946e766/avatar.svg\"> <span class=\"text-sm text-gray-600\">Escrito por: <a class=\"underline\" href=\"../../../editorial/equipe/karime-halmenschlager-sleiman\" data-mce-href=\"../../../editorial/equipe/karime-halmenschlager-sleiman\">Karime Halmenschlager Sleiman</a>. <br>Atualizado em: 07 de Maio de 2021.</span></div><div class=\"flex items-center mb-6\"><img class=\"mr-1 rounded-full\" src=\"https://assets.decocache.com/consul-remedio/da8acda2-26ac-4ea6-abb6-782f4946e766/avatar.svg\" alt=\"Karime Halmenschlager Sleiman\" width=\"32\" height=\"32\" data-mce-src=\"https://assets.decocache.com/consul-remedio/da8acda2-26ac-4ea6-abb6-782f4946e766/avatar.svg\"> <span class=\"text-sm text-gray-600\">Revisado clinicamente por: <a class=\"underline\" href=\"../../../editorial/equipe/karime-halmenschlager-sleiman\" data-mce-href=\"../../../editorial/equipe/karime-halmenschlager-sleiman\">Karime Halmenschlager Sleiman</a>. <br>Atualizado em: 07 de Maio de 2021.</span></div></div><ul class=\"m-0 p-0\"><li><h3 class=\"text-3xl font-medium mb-6\">1. O que é um medicamento genérico?</h3><p class=\"text-base mb-4\">Um medicamento genérico é aquele que contém o mesmo princípio ativo, na mesma dose e forma farmacêutica, e com a mesma via de administração que o medicamento de referência registrado na Anvisa. Ele pode ser comercializado após a expiração da proteção patentária do medicamento de referência, seguindo a RDC Anvisa nº 327/2019, que estabelece os requisitos para o registro de medicamentos genéricos.</p><hr class=\"my-6 border-gray-300\"></li><li><h3 class=\"text-3xl font-medium py-8\">2. Os medicamentos genéricos são tão seguros quanto os medicamentos de marca?</h3><p class=\"text-base mb-4\">Sim, os genéricos são tão seguros e eficazes quanto os medicamentos de marca. Eles passam por rigorosos processos de avaliação pela Anvisa antes de serem aprovados, incluindo testes de bioequivalência, que garantem a mesma eficácia terapêutica do medicamento de referência, conforme estipulado pela RDC nº 327/2019.</p><hr class=\"my-6 border-gray-300\"></li><li><h3 class=\"text-3xl font-medium py-8\">3. Por que os medicamentos genéricos são mais baratos?</h3><p class=\"text-base mb-4\">Os genéricos são mais baratos principalmente porque os fabricantes não têm os altos custos associados ao desenvolvimento de um novo medicamento, incluindo pesquisa, desenvolvimento e marketing. Além disso, a competição no mercado de genéricos contribui para a redução dos preços.</p><hr class=\"my-6 border-gray-300\"></li><li><h3 class=\"text-3xl font-medium py-8\">4. Os medicamentos genéricos são sempre mais baratos?</h3><p class=\"text-base mb-4\">Embora geralmente sejam mais acessíveis, podem existir variações de preços devido a fatores como custos de produção, políticas de preços dos fabricantes e a dinâmica de mercado. Entretanto, por lei, devem ser oferecidos a preços inferiores aos dos medicamentos de marca.</p><hr class=\"my-6 border-gray-300\"></li><li><h3 class=\"text-3xl font-medium py-8\">5. Por que os medicamentos genéricos e de marca têm aparências diferentes?</h3><p class=\"text-base mb-4\">A legislação permite diferenças na aparência para não infringir patentes de design e para facilitar a identificação do medicamento como genérico. Isso inclui cor, forma e marcações, mas não afeta a segurança ou eficácia do medicamento.</p><hr class=\"my-6 border-gray-300\"></li><li><h3 class=\"text-3xl font-medium py-8\">6. Todo medicamento de marca possui um medicamento genérico?</h3><p class=\"text-base mb-4\">Não necessariamente. Um genérico só pode ser desenvolvido após a expiração da patente do medicamento de marca e se houver interesse por parte dos fabricantes em produzi-lo, seguindo as regulamentações da Anvisa.</p><hr class=\"my-6 border-gray-300\"></li><li><h3 class=\"text-3xl font-medium py-8\">7. O que são \"genéricos de marca\"?</h3><p class=\"text-base mb-4\">Genéricos de marca, ou \"branded generics\", são essencialmente medicamentos genéricos comercializados com uma marca própria. São aprovados pela Anvisa da mesma forma que outros genéricos, mas são vendidos sob um nome comercial escolhido pelo fabricante.</p><hr class=\"my-6 border-gray-300\"></li><li><h3 class=\"text-3xl font-medium py-8\">8. Quem pode desenvolver um genérico de marca?</h3><p class=\"text-base mb-4\">Qualquer empresa farmacêutica que cumpra com as exigências regulatórias da Anvisa para a produção e comercialização de medicamentos genéricos pode desenvolver e vender genéricos de marca.</p><hr class=\"my-6 border-gray-300\"></li><li><h3 class=\"text-3xl font-medium py-8\">9. Os genéricos de marca são mais caros que os genéricos?</h3><p class=\"text-base mb-4\">Eles podem ser um pouco mais caros que os genéricos tradicionais devido ao marketing e ao posicionamento de marca, mas ainda assim costumam ser mais acessíveis que os medicamentos de referência.</p><hr class=\"my-6 border-gray-300\"></li><li><h3 class=\"text-3xl font-medium py-8\">10. O que são genéricos autorizados?</h3><p class=\"text-base mb-4\">Genéricos autorizados são medicamentos genéricos produzidos sob um acordo entre o detentor da autorização de comercialização do medicamento original e outro fabricante. Isso permite a comercialização do medicamento genérico com a marca do autorizante, mantendo a conformidade com as regulamentações da Anvisa.</p><hr class=\"my-6 border-gray-300\"></li><li><h3 class=\"text-3xl font-medium py-8\">11. Onde mais posso obter informações sobre medicamentos genéricos?</h3><p class=\"text-base mb-4\">Informações confiáveis sobre medicamentos genéricos podem ser obtidas através de diversos recursos. A Anvisa (Agência Nacional de Vigilância Sanitária) é a principal fonte de informação regulatória e técnica no Brasil, disponível em seu site oficial. Além disso, organizações de saúde pública, associações farmacêuticas e entidades educacionais também fornecem dados e orientações sobre o uso e a regulamentação de medicamentos genéricos. Para informações mais específicas ou atualizações regulatórias, consultar o portal da Anvisa é sempre recomendado, onde documentos, resoluções e notícias são regularmente publicados para orientar consumidores e profissionais da saúde.</p><hr class=\"mt-6 border-gray-300\"></li></ul></div></div></div></div>"
+    },
+    {
+      "__resolveType": "site/sections/ListingFromAtoZ/ListingFromAtoZGeneric.tsx",
+      "naveguete": {
+        "title": "Navegue pelas listas de Medicamentos Genéricos por letras",
+        "list": [
+          {
+            "label": "a",
+            "href": "/genericos/a"
+          },
+          {
+            "label": "b",
+            "href": "/genericos/b"
+          },
+          {
+            "label": "c",
+            "href": "/genericos/c"
+          },
+          {
+            "label": "d",
+            "href": "/genericos/d"
+          },
+          {
+            "label": "e",
+            "href": "/genericos/e"
+          },
+          {
+            "label": "f",
+            "href": "/genericos/f"
+          },
+          {
+            "label": "g",
+            "href": "/genericos/g"
+          },
+          {
+            "label": "h",
+            "href": "/genericos/h"
+          },
+          {
+            "href": "/genericos/i",
+            "label": "i"
+          },
+          {
+            "label": "j",
+            "href": "/genericos/j"
+          },
+          {
+            "label": "k",
+            "href": "/genericos/k"
+          },
+          {
+            "label": "l",
+            "href": "/genericos/l"
+          },
+          {
+            "label": "m",
+            "href": "/genericos/m"
+          },
+          {
+            "label": "n",
+            "href": "/genericos/n"
+          },
+          {
+            "label": "o",
+            "href": "/genericos/o"
+          },
+          {
+            "label": "p",
+            "href": "/genericos/p"
+          },
+          {
+            "label": "q",
+            "href": "/genericos/q"
+          },
+          {
+            "label": "r",
+            "href": "/genericos/r"
+          },
+          {
+            "label": "s",
+            "href": "/genericos/s"
+          },
+          {
+            "label": "t",
+            "href": "/genericos/t"
+          },
+          {
+            "label": "u",
+            "href": "/genericos/u"
+          },
+          {
+            "label": "v",
+            "href": "/genericos/v"
+          },
+          {
+            "label": "w",
+            "href": "/genericos/w"
+          },
+          {
+            "label": "x",
+            "href": "/genericos/x"
+          },
+          {
+            "label": "y",
+            "href": "/genericos/y"
+          },
+          {
+            "label": "z",
+            "href": "/genericos/z"
+          }
+        ]
+      },
+      "generic": {
+        "__resolveType": "site/loaders/ListingFromAtoZ.ts",
+        "token": {},
+        "url": "https://auxiliarapi.consultaremedios.com.br/Product?productTypeId=1&take=500&classificationId=1"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Footer/EvaluationSection.tsx",
+      "href": "https://survey.consultaremedios.com.br/zs/yKClyK?origin=%2F&transaction=1d00bfa3-20ec-4aee-9788-4617126c74aa",
+      "textButton": "Fazer uma avaliação",
+      "title": "Adorariamos saber sua opinião!"
+    },
+    {
+      "__resolveType": "Footer - Default"
+    },
+    {
+      "__resolveType": "site/sections/Content/PopUpPrivacyPolicy.tsx",
+      "text": "Usamos cookies para melhorar sua experiência na CR. Consulte mais informações em nossa",
+      "href": "/politica-de-privacidade/c",
+      "textHref": "Política de Privacidade."
+    }
+  ],
+  "seo": {
+    "__resolveType": "site/sections/SEO/SeoV2general.tsx",
+    "titleTemplate": "%s",
+    "descriptionTemplate": "%s",
+    "type": "website",
+    "jsonLDs": [],
+    "title": "Genéricos com menor preço por ordem alfabética de A-Z | CR",
+    "description": "Encontre Genéricos por ordem alfabética de A-Z, compare preços, descubra onde comprar e muito mais na Consulta Remédios. Economize em medicamentos aqui!"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

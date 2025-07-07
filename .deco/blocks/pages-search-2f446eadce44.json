@@ -1,0 +1,43 @@
+{
+  "name": "Search",
+  "path": "/b/*",
+  "sections": [
+    {
+      "__resolveType": "Header - Default"
+    },
+    {
+      "__resolveType": "site/sections/Product/SearchResult.tsx",
+      "page": {
+        "__resolveType": "Listing Page Category"
+      },
+      "startingPage": 1,
+      "layout": {
+        "format": "Pagination",
+        "variant": "aside",
+        "columns": {
+          "mobile": 1,
+          "desktop": 3
+        }
+      }
+    },
+    {
+      "__resolveType": "Footer - Default"
+    },
+    {
+      "__resolveType": "site/sections/Content/PopUpPrivacyPolicy.tsx",
+      "text": "Usamos cookies para melhorar sua experiência na CR. Consulte mais informações em nossa ",
+      "href": "/politica-de-privacidade/c",
+      "textHref": "Política de Privacidade."
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx",
+  "seo": {
+    "__resolveType": "site/sections/SEO/SeoPLPV2.tsx",
+    "configJsonLD": {
+      "removeVideos": false
+    },
+    "jsonLD": {
+      "__resolveType": "Listing Page Category"
+    }
+  }
+}

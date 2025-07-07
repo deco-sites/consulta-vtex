@@ -1,0 +1,114 @@
+{
+  "seo": {
+    "type": "website",
+    "jsonLDs": [],
+    "noIndexing": false,
+    "descriptionTemplate": "%s",
+    "image": "https://data.decoassets.com/consul-remedio/acc9b254-fb4f-4e71-8ae8-edca85ac9d9c/banner-novo-consulta-remedios-(1).webp",
+    "favicon": "https://assets.decocache.com/consul-remedio/a267a36d-da29-4277-b0c7-8a40df9fa452/favicon-(2).png",
+    "description": "Consulta Rémedios",
+    "title": "Consulta Rémedios",
+    "titleTemplate": "%s "
+  },
+  "theme": {
+    "__resolveType": "Serene Coastline"
+  },
+  "global": [
+    {
+      "__resolveType": "analytics/sections/Analytics/DecoAnalytics.tsx"
+    },
+    {
+      "__resolveType": "website/sections/Analytics/Analytics.tsx",
+      "trackingIds": [
+        "GTM-WTG292"
+      ],
+      "disableAutomaticEventPush": false
+    }
+  ],
+  "routes": [
+    {
+      "__resolveType": "website/loaders/pages.ts"
+    },
+    {
+      "__resolveType": "wake/loaders/proxy.ts",
+      "extraPathsToProxy": [
+        "/checkout",
+        "/checkout/*",
+        "/account",
+        "/account/*",
+        "/login/*",
+        "/login",
+        "/login/Sair"
+      ],
+      "excludePathsFromDecoSiteMap": [],
+      "includeSiteMap": []
+    }
+  ],
+  "caching": {
+    "directives": [
+      {
+        "name": "max-age",
+        "value": 36000
+      }
+    ],
+    "enabled": false
+  },
+  "commerce": {
+    "platform": "wake",
+    "storefrontToken": {
+      "__resolveType": "website/loaders/secret.ts",
+      "encrypted": "bc9d96ea79ed69e58776ec0e193e22dad7e1321a1366072be2f068310ef30e34ff68f38684fac7b8b9d10b4ab639cd90",
+      "name": "WAKE_STOREFRONT_TOKEN"
+    },
+    "token": {
+      "__resolveType": "website/loaders/secret.ts",
+      "encrypted": "afeccba106c5e9164a92ac856ae69ceb22855ccd87aa689dfe70396f368d679fb3086e0e6bcdfee0fce38a2a83490179",
+      "name": "API_TOKEN"
+    },
+    "account": "Consulta Rémedio",
+    "checkoutUrl": "https://www2.consultaremedios.com.br/"
+  },
+  "platform": "wake",
+  "__resolveType": "site/apps/site.ts",
+  "firstByteThresholdMS": false,
+  "abTesting": {
+    "replaces": [],
+    "includeScriptsToHead": {
+      "includes": []
+    },
+    "includeScriptsToBody": {
+      "includes": []
+    }
+  },
+  "flavor": {
+    "framework": "fresh"
+  },
+  "storefrontToken": {},
+  "errorPage": {
+    "__resolveType": "website/pages/Page.tsx",
+    "sections": [
+      {
+        "__resolveType": "website/sections/Rendering/Lazy.tsx",
+        "section": {
+          "__resolveType": "Header - Default"
+        }
+      },
+      {
+        "__resolveType": "website/sections/Rendering/Lazy.tsx",
+        "section": {
+          "__resolveType": "site/sections/Product/NotFound.tsx"
+        }
+      },
+      {
+        "__resolveType": "website/sections/Rendering/Lazy.tsx",
+        "section": {
+          "__resolveType": "Footer - Default"
+        }
+      }
+    ],
+    "name": "Not Found",
+    "path": "/*"
+  },
+  "whilelistURLs": [],
+  "whitelistPatterns": []
+}

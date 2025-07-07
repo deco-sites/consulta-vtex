@@ -1,0 +1,42 @@
+{
+  "name": "Wishlist",
+  "path": "/favoritos",
+  "sections": [
+    {
+      "__resolveType": "Header - Default"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Product/ProductShelfWishlist.tsx",
+        "products": {
+          "__resolveType": "site/loaders/productListWishlist.ts",
+          "getVariations": false
+        },
+        "title": "Meus Favoritos",
+        "layout": {
+          "numberOfSliders": {
+            "mobile": 1,
+            "desktop": 4
+          },
+          "headerAlignment": "center",
+          "headerfontSize": "Large",
+          "showArrows": true
+        }
+      }
+    },
+    {
+      "__resolveType": "Footer - Default"
+    },
+    {
+      "__resolveType": "site/sections/Content/PopUpPrivacyPolicy.tsx",
+      "textHref": "Política de Privacidade.",
+      "href": "/politica-de-privacidade/c",
+      "text": "Usamos cookies para melhorar sua experiência na CR. Consulte mais informações em nossa "
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

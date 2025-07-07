@@ -1,0 +1,168 @@
+{
+  "path": "/principios-ativos",
+  "sections": [
+    {
+      "__resolveType": "Header - Default"
+    },
+    {
+      "__resolveType": "site/sections/ListingFromAtoZ/ContentTop.tsx",
+      "breadcrumb": [
+        {
+          "label": "home",
+          "href": "/"
+        },
+        {
+          "label": "Princípios Ativos",
+          "href": "/principios-ativos"
+        }
+      ],
+      "title": "Tudo sobre Princípios Ativos de medicamentos",
+      "description": "Descubra tudo sobre princípios ativos de medicamentos na Consulta Remédios: Seu guia completo para entender composições farmacêuticas e escolher o remédio certo!",
+      "image": "https://assets.decocache.com/consul-remedio/2f29ece2-3230-466f-b142-99fddd601e5b/consultaremedios-a-z-medico.svg"
+    },
+    {
+      "__resolveType": "site/sections/TermosPoliticas/content.tsx",
+      "text": "<div class=\"mx-auto px-4 max-w-7xl\"><div class=\"my-4\"><div class=\"flex items-center justify-center\"><div class=\"max-w-4xl\"><div class=\"flex flex-col lg:flex-row gap-4 py-6\"><div class=\"flex items-center mb-4\"><img class=\"mr-1 rounded-full\" src=\"https://assets.decocache.com/consul-remedio/da8acda2-26ac-4ea6-abb6-782f4946e766/avatar.svg\" alt=\"Karime Halmenschlager Sleiman\" width=\"32\" height=\"32\" data-mce-src=\"https://assets.decocache.com/consul-remedio/da8acda2-26ac-4ea6-abb6-782f4946e766/avatar.svg\"> <span class=\"text-sm text-gray-600\">Escrito por: <a class=\"underline\" href=\"../../../editorial/equipe/karime-halmenschlager-sleiman\" data-mce-href=\"../../../editorial/equipe/karime-halmenschlager-sleiman\">Karime Halmenschlager Sleiman</a>. <br>Atualizado em: 07 de Maio de 2021.</span></div><div class=\"flex items-center mb-6\"><img class=\"mr-1 rounded-full\" src=\"https://assets.decocache.com/consul-remedio/da8acda2-26ac-4ea6-abb6-782f4946e766/avatar.svg\" alt=\"Karime Halmenschlager Sleiman\" width=\"32\" height=\"32\" data-mce-src=\"https://assets.decocache.com/consul-remedio/da8acda2-26ac-4ea6-abb6-782f4946e766/avatar.svg\"> <span class=\"text-sm text-gray-600\">Revisado clinicamente por: <a class=\"underline\" href=\"../../../editorial/equipe/karime-halmenschlager-sleiman\" data-mce-href=\"../../../editorial/equipe/karime-halmenschlager-sleiman\">Karime Halmenschlager Sleiman</a>. <br>Atualizado em: 07 de Maio de 2021.</span></div></div><h2 class=\"text-3xl font-medium mb-4\">O que são princípios ativos em medicamentos?</h2><p class=\"text-base mb-4\">O Princípio Ativo é o componente fundamental que dá eficácia a um medicamento, sendo o responsável pelo efeito terapêutico desejado. Esse elemento é crucial tanto em medicamentos de marca quanto em genéricos, e serve como a base pela qual a dosagem, segurança e qualidade do medicamento são determinadas.</p><p class=\"text-base mb-4\">Tal como acontece com medicamentos genéricos, o princípio ativo tem regras rigorosas para aprovação e comercialização. No Brasil, a Anvisa é responsável pela regulamentação e controle da qualidade desses componentes, garantindo que atendam a padrões internacionais de segurança e eficácia.</p><p class=\"text-base mb-4\">Compreender os princípios ativos é essencial para fazer escolhas informadas sobre medicamentos, sejam eles de marca ou genéricos. Frequentemente, o princípio ativo é indicado na embalagem do medicamento e também disponível em bulas, permitindo ao consumidor entender melhor o que está tomando.</p><p class=\"text-base mb-4\">A Consulta Remédios oferece um guia completo para você entender os diferentes princípios ativos disponíveis no mercado, incluindo suas indicações, efeitos colaterais e interações medicamentosas.</p><p class=\"text-base mb-4\">Os princípios ativos podem ser derivados de fontes naturais ou sintetizados em laboratório, enfatizando a ampla gama de abordagens na busca por soluções terapêuticas eficazes. Além dos princípios ativos, os medicamentos contêm excipientes, substâncias que não possuem atividade terapêutica mas são fundamentais para garantir a forma física do medicamento, sua estabilidade e biodisponibilidade.</p><p class=\"text-base mb-4\">Esta informação adicional destaca a complexidade e a importância de todos os componentes de um medicamento, não apenas para a eficácia terapêutica, mas também para a segurança e a qualidade do produto final. Conhecer o princípio ativo e entender seu papel é apenas o começo do processo de tomada de decisão informada sobre tratamentos médicos.</p><hr class=\"my-6 border-gray-300\"><h2 class=\"text-3xl font-medium py-6\">O que são princípios ativos em 2 min?</h2><p class=\"text-base mb-4\">Assista o vídeo abaixo que preparamos para tirar todas as suas dúvidas sobre os Princípios Ativos dos Medicamentos.</p><div class=\"my-4\"><div class=\"rounded-lg overflow-hidden\"><div class=\"flex items-center justify-center\"><iframe id=\"video\" class=\"w-full\" src=\"https://www.youtube.com/embed/2onVrDAzfsc\" width=\"768\" height=\"433\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\" data-mce-src=\"https://www.youtube.com/embed/2onVrDAzfsc\"></iframe></div></div></div><hr class=\"my-6 border-gray-300\"><h2 class=\"text-3xl font-medium py-6\">Como posso economizar em medicamentos baseado nos princípios ativos?</h2><p class=\"text-base mb-4\">Entender os princípios ativos dos medicamentos é uma ferramenta poderosa para economizar em suas despesas farmacêuticas. Aqui estão algumas estratégias aprofundadas para maximizar suas economias:</p><ul class=\"m-0 p-0 list-none\"><li class=\"mb-4\"><h3 class=\"text-2xl font-medium mb-2 pl-0 p-4\">1. Comparação entre Genéricos e Medicamentos de Marca:</h3><p class=\"text-base mb-4\">Identificar o princípio ativo de um medicamento permite comparar entre suas versões genéricas e de marca. Os genéricos, rigorosamente testados pela Anvisa para garantir sua segurança e eficácia, oferecem uma alternativa mais acessível sem comprometer a qualidade do tratamento.</p></li><li class=\"mb-4\"><h3 class=\"text-2xl font-medium mb-2 pl-0 p-4\">2. Compra em Quantidades Maiores:</h3><p class=\"text-base mb-4\">Adquirir medicamentos em doses maiores para dividir conforme a necessidade pode resultar em economias significativas. Essa prática deve ser sempre discutida com um profissional de saúde para assegurar a adequação e segurança da dosagem.</p></li><li class=\"mb-4\"><h3 class=\"text-2xl font-medium mb-2 pl-0 p-4\">3. Utilização de Ferramentas de Comparação Online:</h3><p class=\"text-base mb-4\">Plataformas como a Consulta Remédios facilitam a comparação de preços de medicamentos com o mesmo princípio ativo em diversas farmácias. Com mais de duas décadas de experiência, garantimos a confiabilidade das lojas parceiras, além de oferecer suporte ao consumidor em qualquer situação.</p></li><li class=\"mb-4\"><h3 class=\"text-2xl font-medium mb-2 pl-0 p-4\">4. Exploração de Substitutos Terapêuticos:</h3><p class=\"text-base mb-4\">Discutir com seu médico a possibilidade de substituir seu medicamento atual por outro com princípio ativo diferente, mas com eficácia similar, pode revelar opções mais econômicas. Lembre-se, essa substituição deve ser feita sob orientação médica, pois não é permitida diretamente na farmácia.</p></li><li class=\"mb-4\"><h3 class=\"text-2xl font-medium mb-2 pl-0 p-4\">5. Participação em Programas de Desconto e Fidelidade:</h3><p class=\"text-base mb-4\">Investigar e participar de programas de fidelidade ou descontos oferecidos pelos fabricantes pode levar a economias consideráveis em medicamentos prescritos.</p></li><li class=\"mb-4\"><h3 class=\"text-2xl font-medium mb-2 pl-0 p-4\">6. Manutenção de Consultas Médicas Regulares:</h3><p class=\"text-base mb-4\">Ajustes na medicação podem ser necessários ao longo do tempo, e manter as consultas médicas permite otimizar o tratamento, evitando gastos desnecessários com medicamentos ineficazes ou inadequados.</p></li><li class=\"mb-4\"><h3 class=\"text-2xl font-medium mb-2 pl-0 p-4\">7. Compras em Atacado na Consulta Remédios:</h3><p class=\"text-base mb-4\">Aproveitar a compra em atacado através da Consulta Remédios é uma estratégia eficiente para economizar, especialmente para medicamentos de uso contínuo. Nossa plataforma oferece descontos progressivos, reduzindo o custo por dose ao aumentar a quantidade comprada.</p><p class=\"text-base mb-4\">Além dessas dicas, é importante manter-se informado sobre as novidades do mercado farmacêutico e legislação vigente, o que pode abrir novas oportunidades de economia. A educação contínua sobre os medicamentos e seus princípios ativos é fundamental para uma gestão eficaz da saúde e do orçamento.</p><p class=\"text-base mb-4\">Com estas estratégias refinadas, esperamos que você encontre maneiras efetivas de economizar em medicamentos, fazendo escolhas informadas e aproveitando as melhores ofertas disponíveis.</p></li></ul></div></div></div></div>"
+    },
+    {
+      "__resolveType": "site/sections/ListingFromAtoZ/ListingFromAtoZSubstance.tsx",
+      "substances": {
+        "__resolveType": "site/loaders/ListingFromAtoZ.ts",
+        "url": "https://auxiliarapi.consultaremedios.com.br/Substance?take=3000",
+        "token": {
+          "__resolveType": "website/loaders/secret.ts",
+          "encrypted": "a88a86e0d467e3f968028e8756744ac458dfa2935b1d8481549d8fa68e85575f8f478614a6793cd729cb526ef4723ded0464441d1ed3025cf841411563de66ab2e459d12c7d0df73e951363e3d433988"
+        }
+      },
+      "naveguete": {
+        "title": "Navegue pelas listas de Princípios Ativos por letras",
+        "list": [
+          {
+            "label": "a",
+            "href": "/principios-ativos/a"
+          },
+          {
+            "label": "b",
+            "href": "/principios-ativos/b"
+          },
+          {
+            "label": "c",
+            "href": "/principios-ativos/c"
+          },
+          {
+            "label": "d",
+            "href": "/principios-ativos/d"
+          },
+          {
+            "label": "e",
+            "href": "/principios-ativos/e"
+          },
+          {
+            "label": "f",
+            "href": "/principios-ativos/f"
+          },
+          {
+            "label": "g",
+            "href": "/principios-ativos/g"
+          },
+          {
+            "label": "h",
+            "href": "/principios-ativos/h"
+          },
+          {
+            "label": "i",
+            "href": "/principios-ativos/i"
+          },
+          {
+            "label": "j",
+            "href": "/principios-ativos/j"
+          },
+          {
+            "label": "k",
+            "href": "/principios-ativos/k"
+          },
+          {
+            "label": "l",
+            "href": "/principios-ativos/l"
+          },
+          {
+            "label": "m",
+            "href": "/principios-ativos/m"
+          },
+          {
+            "label": "n",
+            "href": "/principios-ativos/n"
+          },
+          {
+            "label": "o",
+            "href": "/principios-ativos/o"
+          },
+          {
+            "label": "p",
+            "href": "/principios-ativos/p"
+          },
+          {
+            "label": "q",
+            "href": "/principios-ativos/q"
+          },
+          {
+            "label": "r",
+            "href": "/principios-ativos/r"
+          },
+          {
+            "label": "s",
+            "href": "/principios-ativos/s"
+          },
+          {
+            "label": "t",
+            "href": "/principios-ativos/t"
+          },
+          {
+            "label": "u",
+            "href": "/principios-ativos/u"
+          },
+          {
+            "label": "v",
+            "href": "/principios-ativos/v"
+          },
+          {
+            "label": "z",
+            "href": "/principios-ativos/z"
+          },
+          {
+            "label": "0-9",
+            "href": "/principios-ativos/0-9"
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "site/sections/Footer/EvaluationSection.tsx",
+      "title": "Adorariamos saber sua opinião!",
+      "textButton": "Fazer uma avaliação",
+      "href": "https://survey.consultaremedios.com.br/zs/yKClyK?origin=%2F&transaction=1d00bfa3-20ec-4aee-9788-4617126c74aa"
+    },
+    {
+      "__resolveType": "Footer - Default"
+    },
+    {
+      "__resolveType": "site/sections/Content/PopUpPrivacyPolicy.tsx",
+      "text": "Usamos cookies para melhorar sua experiência na CR. Consulte mais informações em nossa",
+      "href": "/politica-de-privacidade/c",
+      "textHref": "Política de Privacidade."
+    }
+  ],
+  "seo": {
+    "__resolveType": "site/sections/SEO/SeoV2general.tsx",
+    "title": "Princípios ativos por ordem alfabética de A a Z | CR",
+    "description": "Encontre princípios ativos por ordem alfabética, compare preços, leia a bula, descubra os genéricos e onde comprar. Economize em medicamento aqui!",
+    "jsonLD": null,
+    "canonical": "",
+    "titleTemplate": "%s",
+    "descriptionTemplate": "%s",
+    "type": "website",
+    "jsonLDs": []
+  },
+  "__resolveType": "website/pages/Page.tsx",
+  "name": "Substanace Page"
+}

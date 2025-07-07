@@ -1,0 +1,76 @@
+{
+  "name": "Product Page Main",
+  "path": "/:product/p",
+  "sections": [
+    {
+      "__resolveType": "Header - Default"
+    },
+    {
+      "__resolveType": "site/sections/Product/ProductDetailsMain.tsx",
+      "page": {
+        "__resolveType": "Product Details Main"
+      },
+      "contentPageMain": {
+        "__resolveType": "Product Loader"
+      },
+      "contentPage": {
+        "__resolveType": "site/loaders/ContentProductPage.ts",
+        "product": {
+          "__resolveType": "website/functions/requestToParam.ts",
+          "param": "product"
+        },
+        "slug": {
+          "__resolveType": "website/functions/requestToParam.ts",
+          "param": "slug"
+        }
+      }
+    },
+    {
+      "__resolveType": "site/sections/Product/ProductShelfRecommendation.tsx",
+      "pageProduct": {
+        "__resolveType": "Product Details Main"
+      },
+      "layout": {
+        "numberOfSliders": {
+          "mobile": 1,
+          "desktop": 6
+        },
+        "showArrows": true
+      }
+    },
+    {
+      "__resolveType": "site/sections/Product/ContentProductMainPage.tsx",
+      "contentPage": {
+        "__resolveType": "Product Details Main"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Product/RelatedProductsSection.tsx",
+      "page": {
+        "__resolveType": "Product Details Main"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Product/Konfidency.tsx",
+      "page": {
+        "__resolveType": "Product Details Main"
+      }
+    },
+    {
+      "__resolveType": "Footer - Default"
+    },
+    {
+      "__resolveType": "site/sections/Content/PopUpPrivacyPolicy.tsx",
+      "text": "Usamos cookies para melhorar sua experiência na CR. Consulte mais informações em nossa",
+      "href": "/politica-de-privacidade/c",
+      "textHref": "Política de Privacidade."
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx",
+  "seo": {
+    "jsonLD": {
+      "__resolveType": "Product Details Main"
+    },
+    "__resolveType": "site/sections/SEO/SeoProductPDP.tsx"
+  }
+}

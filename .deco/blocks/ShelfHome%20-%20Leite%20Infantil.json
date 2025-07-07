@@ -1,0 +1,22 @@
+{
+  "__resolveType": "site/sections/Product/ProductShelfHome.tsx",
+  "products": {
+    "__resolveType": "List Products Home"
+  },
+  "typeCarrousel": "leiteInfantil",
+  "layout": {
+    "loading": "lazy",
+    "headerfontSize": "Small",
+    "headerAlignment": "left",
+    "numberOfSliders": {
+      "desktop": 4,
+      "mobile": 1
+    },
+    "showArrows": true
+  },
+  "seeAll": {
+    "href": "/infantil/alimentos/leite-infantil/c",
+    "text": "Ver tudo"
+  },
+  "title": "Leite infantil"
+}

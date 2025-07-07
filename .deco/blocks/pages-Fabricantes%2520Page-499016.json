@@ -1,0 +1,169 @@
+{
+  "name": "Fabricantes Page",
+  "path": "/fabricantes",
+  "sections": [
+    {
+      "__resolveType": "Header - Default"
+    },
+    {
+      "__resolveType": "site/sections/ListingFromAtoZ/ContentTop.tsx",
+      "breadcrumb": [
+        {
+          "label": "home",
+          "href": "/"
+        },
+        {
+          "label": "Fabricantes",
+          "href": "/fabricantes"
+        }
+      ],
+      "title": "Lista de Fabricantes confiáveis na Consulta Remédios",
+      "description": "Descubra e conheça os fabricantes dos produtos cadastrados na Consulta Remédios: Seu guia completo para conhecer quem produz seus produtos!",
+      "image": "https://assets.decocache.com/consul-remedio/2f29ece2-3230-466f-b142-99fddd601e5b/consultaremedios-a-z-medico.svg"
+    },
+    {
+      "__resolveType": "site/sections/TermosPoliticas/content.tsx",
+      "text": "<div class=\"mx-auto px-4 max-w-7xl\"><div class=\"my-4\"><div class=\"flex items-center justify-center\"><div class=\"max-w-4xl\"><div class=\"flex flex-col lg:flex-row gap-4 py-6\"><div class=\"flex items-center mb-4\"><img class=\"mr-1 rounded-full\" src=\"https://assets.decocache.com/consul-remedio/da8acda2-26ac-4ea6-abb6-782f4946e766/avatar.svg\" alt=\"Karime Halmenschlager Sleiman\" width=\"32\" height=\"32\" data-mce-src=\"https://assets.decocache.com/consul-remedio/da8acda2-26ac-4ea6-abb6-782f4946e766/avatar.svg\"> <span class=\"text-sm text-gray-600\">Escrito por: <a class=\"underline\" href=\"../../../editorial/equipe/karime-halmenschlager-sleiman\" data-mce-href=\"../../../editorial/equipe/karime-halmenschlager-sleiman\">Karime Halmenschlager Sleiman</a>. <br>Atualizado em: 07 de Maio de 2021.</span></div><div class=\"flex items-center mb-6\"><img class=\"mr-1 rounded-full\" src=\"https://assets.decocache.com/consul-remedio/da8acda2-26ac-4ea6-abb6-782f4946e766/avatar.svg\" alt=\"Karime Halmenschlager Sleiman\" width=\"32\" height=\"32\" data-mce-src=\"https://assets.decocache.com/consul-remedio/da8acda2-26ac-4ea6-abb6-782f4946e766/avatar.svg\"> <span class=\"text-sm text-gray-600\">Revisado clinicamente por: <a class=\"underline\" href=\"../../../editorial/equipe/karime-halmenschlager-sleiman\" data-mce-href=\"../../../editorial/equipe/karime-halmenschlager-sleiman\">Karime Halmenschlager Sleiman</a>. <br>Atualizado em: 07 de Maio de 2021.</span></div></div><h2 class=\"text-3xl font-medium mb-4\">Por que conhecer o fabricante é essencial?</h2><p class=\"text-base mb-4\">Escolher o medicamento certo vai além de conhecer o princípio ativo; é também sobre confiar no fabricante. Na Consulta Remédios, reunimos uma lista abrangente de todos os fabricantes dos produtos cadastrados para que você faça suas escolhas com total confiança. Confira as dicas abaixo!</p><h2 class=\"text-3xl font-medium py-6\">Por que é importante conhecer o fabricante?</h2><p class=\"text-base mb-4\">Assista o vídeo abaixo que preparamos para tirar todas as suas dúvidas sobre os Princípios Ativos dos Medicamentos.</p><h2 class=\"text-3xl font-medium py-6\">Como Utilizar a Lista de Fabricantes na Consulta Remédios:</h2><h3 class=\"text-2xl font-medium mb-2 pl-0 p-4\">Pesquise por Nome ou Categoria:</h3><p class=\"text-base mb-4\">Encontre rapidamente fabricantes de interesse usando nossas ferramentas de busca.</p><h3 class=\"text-2xl font-medium mb-2 pl-0 p-4\">Compare e Avalie:</h3><p class=\"text-base mb-4\">Leia avaliações e compare as opções disponíveis.</p><h3 class=\"text-2xl font-medium mb-2 pl-0 p-4\">Verifique Certificações:</h3><p class=\"text-base mb-4\">Muitos fabricantes têm selos de qualidade e certificações que validam seus produtos.</p><h3 class=\"text-2xl font-medium mb-2 pl-0 p-4\">Leia Informações Detalhadas:</h3><p class=\"text-base mb-4\">Oferecemos perfis aprofundados que incluem história da empresa, produtos principais e outras informações relevantes.</p><p class=\"text-base mb-4\">Na CR, tornamos fácil para você fazer escolhas informadas. Acesse nossa lista completa de fabricantes e encontre os fornecedores que melhor atendem às suas necessidades.</p><hr class=\"my-6 border-gray-300\"><h2 class=\"text-3xl font-medium py-6\">Como fazemos a curadoria dos fabricantes em 2 min?:</h2><p class=\"text-base mb-4\">Assista o vídeo abaixo que preparamos para explicar por que fazemos uma curadoria cuidadosa dos fabricantes.</p><div><iframe id=\"video\" class=\"cr-flex-1\" src=\"https://www.youtube.com/embed/4N_vpVCBjhM\" width=\"768\" height=\"433\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\" data-mce-src=\"https://www.youtube.com/embed/4N_vpVCBjhM\"></iframe></div></div></div></div></div>"
+    },
+    {
+      "__resolveType": "site/sections/ListingFromAtoZ/ListingFromAtoZfactory.tsx",
+      "factory": {
+        "__resolveType": "site/loaders/ListingFromAtoZ.ts",
+        "token": {},
+        "url": "https://auxiliarapi.consultaremedios.com.br/Factory?&take=4000"
+      },
+      "naveguete": {
+        "title": "Navegue pelas lista de Fabricantes por letras",
+        "list": [
+          {
+            "label": "a",
+            "href": "/fabricantes/a"
+          },
+          {
+            "label": "b",
+            "href": "/fabricantes/b"
+          },
+          {
+            "label": "c",
+            "href": "/fabricantes/c"
+          },
+          {
+            "label": "d",
+            "href": "/fabricantes/d"
+          },
+          {
+            "label": "e",
+            "href": "/fabricantes/e"
+          },
+          {
+            "label": "f",
+            "href": "/fabricantes/f"
+          },
+          {
+            "label": "g",
+            "href": "/fabricantes/g"
+          },
+          {
+            "label": "h",
+            "href": "/fabricantes/h"
+          },
+          {
+            "label": "i",
+            "href": "/fabricantes/i"
+          },
+          {
+            "label": "j",
+            "href": "/fabricantes/j"
+          },
+          {
+            "label": "k",
+            "href": "/fabricantes/k"
+          },
+          {
+            "label": "l",
+            "href": "/fabricantes/l"
+          },
+          {
+            "label": "m",
+            "href": "/fabricantes/m"
+          },
+          {
+            "label": "n",
+            "href": "/fabricantes/n"
+          },
+          {
+            "label": "o",
+            "href": "/fabricantes/o"
+          },
+          {
+            "label": "p",
+            "href": "/fabricantes/p"
+          },
+          {
+            "label": "q",
+            "href": "/fabricantes/q"
+          },
+          {
+            "label": "r",
+            "href": "/fabricantes/r"
+          },
+          {
+            "label": "s",
+            "href": "/fabricantes/s"
+          },
+          {
+            "label": "t",
+            "href": "/fabricantes/t"
+          },
+          {
+            "label": "u",
+            "href": "/fabricantes/u"
+          },
+          {
+            "label": "v",
+            "href": "/fabricantes/v"
+          },
+          {
+            "label": "w",
+            "href": "/fabricantes/w"
+          },
+          {
+            "label": "x",
+            "href": "/fabricantes/x"
+          },
+          {
+            "label": "y",
+            "href": "/fabricantes/y"
+          },
+          {
+            "label": "z",
+            "href": "/fabricantes/z"
+          },
+          {
+            "label": "0-9",
+            "href": "/fabricantes/0-9"
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "Footer - Default"
+    },
+    {
+      "__resolveType": "site/sections/Content/PopUpPrivacyPolicy.tsx",
+      "text": "Usamos cookies para melhorar sua experiência na CR. Consulte mais informações em nossa",
+      "href": "/politica-de-privacidade/c",
+      "textHref": "Política de Privacidade."
+    }
+  ],
+  "seo": {
+    "__resolveType": "site/sections/SEO/SeoV2general.tsx",
+    "titleTemplate": "%s",
+    "descriptionTemplate": "%s",
+    "type": "website",
+    "jsonLDs": [],
+    "title": "Fabricantes de medicamentos e cosméticos | CR",
+    "description": "Encontre fabricantes de medicamentos, cosméticos e perfumaria por ordem alfabética e confira informações de contato e localização. Economize em medicamento aqui!"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

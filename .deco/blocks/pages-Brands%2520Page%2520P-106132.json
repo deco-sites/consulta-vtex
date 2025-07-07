@@ -1,0 +1,42 @@
+{
+  "name": "Brands Page P",
+  "path": "/marcas/p",
+  "sections": [
+    {
+      "__resolveType": "Header - Default"
+    },
+    {
+      "__resolveType": "site/sections/ListingFromAtoZ/singlePageBrand.tsx",
+      "brands": {
+        "__resolveType": "site/loaders/singlePageFromAtoZBrand.ts",
+        "token": {},
+        "url": "https://auxiliarapi.consultaremedios.com.br/Brand?take=7000"
+      }
+    },
+    {
+      "__resolveType": "Footer - Default"
+    },
+    {
+      "__resolveType": "site/sections/Content/PopUpPrivacyPolicy.tsx",
+      "textHref": "Política de Privacidade.",
+      "href": "/politica-de-privacidade/c",
+      "text": "Usamos cookies para melhorar sua experiência na CR. Consulte mais informações em nossa "
+    }
+  ],
+  "seo": {
+    "__resolveType": "site/sections/SEO/SeoV2ListToAaZ.tsx",
+    "titleTemplate": "%s",
+    "descriptionTemplate": "%s",
+    "type": "website",
+    "jsonLDs": [],
+    "title": "Marcas",
+    "description": "Veja todos as marcas que começam com a letra",
+    "descriptionTwo": " e depois compare preços, leia bulas e descubra qual farmácia comprar remédios com menor preço.",
+    "jsonLD": {
+      "__resolveType": "site/loaders/singlePageFromAtoZBrand.ts",
+      "token": {},
+      "url": "https://auxiliarapi.consultaremedios.com.br/Brand?take=7000"
+    }
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

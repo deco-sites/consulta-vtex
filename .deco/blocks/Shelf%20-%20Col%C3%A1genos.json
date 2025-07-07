@@ -1,0 +1,47 @@
+{
+  "__resolveType": "site/sections/Product/ProductShelf.tsx",
+  "products": {
+    "__resolveType": "site/loaders/productList.ts",
+    "first": 16,
+    "filters": {
+      "attributes": {
+        "id": [],
+        "name": [],
+        "type": [],
+        "value": []
+      },
+      "brandId": [],
+      "categoryId": [
+        14887
+      ],
+      "ean": [],
+      "productId": [],
+      "productVariantId": [],
+      "sameParentAs": [],
+      "sku": [],
+      "stocks": {
+        "dcId": [],
+        "dcName": []
+      },
+      "prices": {},
+      "available": true
+    },
+    "sortDirection": "DESC",
+    "sortKey": "RANDOM"
+  },
+  "layout": {
+    "numberOfSliders": {
+      "mobile": 1,
+      "desktop": 4
+    },
+    "headerAlignment": "left",
+    "headerfontSize": "Small",
+    "showArrows": true,
+    "loading": "lazy"
+  },
+  "title": "Colágeno",
+  "seeAll": {
+    "href": "/colagenos/c",
+    "text": "Ver tudo"
+  }
+}

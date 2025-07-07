@@ -1,0 +1,22 @@
+{
+  "__resolveType": "site/sections/Product/ProductShelfHome.tsx",
+  "products": {
+    "__resolveType": "List Products Home"
+  },
+  "typeCarrousel": "colageno",
+  "layout": {
+    "headerAlignment": "left",
+    "headerfontSize": "Small",
+    "numberOfSliders": {
+      "desktop": 4,
+      "mobile": 1
+    },
+    "showArrows": true,
+    "loading": "lazy"
+  },
+  "title": "Colágeno",
+  "seeAll": {
+    "href": "/colagenos/c",
+    "text": "Ver Tudo"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "__resolveType": "site/loaders/productDetailsLeafllet.ts",
+  "slug": {
+    "__resolveType": "website/functions/requestToParam.ts",
+    "param": "product"
+  },
+  "product": {
+    "__resolveType": "website/functions/requestToParam.ts",
+    "param": "product"
+  }
+}

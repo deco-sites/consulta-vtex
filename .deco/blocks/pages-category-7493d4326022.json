@@ -1,0 +1,56 @@
+{
+  "name": "Category",
+  "path": "/*/c",
+  "default": {
+    "possiblePaths": []
+  },
+  "sections": [
+    {
+      "__resolveType": "Header - Default"
+    },
+    {
+      "__resolveType": "site/sections/Product/SearchResult.tsx",
+      "page": {
+        "__resolveType": "Listing Page Category"
+      },
+      "layout": {
+        "format": "Pagination",
+        "columns": {
+          "mobile": 1,
+          "desktop": 3
+        },
+        "variant": "aside"
+      },
+      "startingPage": 1
+    },
+    {
+      "__resolveType": "Footer - Default"
+    },
+    {
+      "__resolveType": "site/sections/Content/PopUpPrivacyPolicy.tsx",
+      "text": "Usamos cookies para melhorar sua experiência na CR. Consulte mais informações em nossa ",
+      "textHref": "Política de Privacidade.",
+      "href": "/politica-de-privacidade/c"
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx",
+  "seo": {
+    "__resolveType": "site/sections/SEO/SeoPLPV2.tsx",
+    "jsonLD": {
+      "__resolveType": "Listing Page Category",
+      "@type": "ProductListingPage",
+      "breadcrumb": {
+        "@type": "BreadcrumbList"
+      },
+      "products": [],
+      "pageInfo": {
+        "pageTypes": []
+      },
+      "sortOptions": []
+    },
+    "noIndexing": true,
+    "configJsonLD": {
+      "ignoreStructuredData": true
+    }
+  }
+}

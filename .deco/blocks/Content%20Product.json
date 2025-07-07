@@ -1,0 +1,11 @@
+{
+  "__resolveType": "site/loaders/ContentProductPage.ts",
+  "slug": {
+    "__resolveType": "website/functions/requestToParam.ts",
+    "param": "slug"
+  },
+  "product": {
+    "__resolveType": "website/functions/requestToParam.ts",
+    "param": "product"
+  }
+}

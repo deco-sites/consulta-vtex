@@ -1,0 +1,160 @@
+{
+  "name": "Medication References",
+  "path": "/medicamentos-referencia",
+  "sections": [
+    {
+      "__resolveType": "Header - Default"
+    },
+    {
+      "__resolveType": "site/sections/ListingFromAtoZ/ContentTop.tsx",
+      "title": "Tudo sobre medicamentos de referência",
+      "description": "Aprenda sobre medicamentos de referência e as diversas maneiras de economizar com eles, como Programas de Beneficios de Medicamentos (PBM) e economias reais pela CR.",
+      "breadcrumb": [
+        {
+          "label": "home",
+          "href": "/"
+        },
+        {
+          "label": " Medicamentos de Referência",
+          "href": "/medicamentos-referencia"
+        }
+      ],
+      "image": "https://assets.decocache.com/consul-remedio/2d096c0c-4fb2-49e7-95ba-c433343ab01f/Vector-4.svg"
+    },
+    {
+      "__resolveType": "site/sections/TermosPoliticas/content.tsx",
+      "text": "<div class=\"mx-auto px-4 max-w-7xl\"><div class=\"my-4\"><div class=\"flex items-center justify-center\"><div class=\"max-w-4xl\"><div class=\"flex flex-col lg:flex-row gap-4 py-6\"><div class=\"flex items-center mb-4\"><img class=\"mr-1 rounded-full\" src=\"https://assets.decocache.com/consul-remedio/da8acda2-26ac-4ea6-abb6-782f4946e766/avatar.svg\" alt=\"Karime Halmenschlager Sleiman\" width=\"32\" height=\"32\" data-mce-src=\"https://assets.decocache.com/consul-remedio/da8acda2-26ac-4ea6-abb6-782f4946e766/avatar.svg\"> <span class=\"text-sm text-gray-600\">Escrito por: <a class=\"underline\" href=\"../../../editorial/equipe/karime-halmenschlager-sleiman\" data-mce-href=\"../../../editorial/equipe/karime-halmenschlager-sleiman\">Karime Halmenschlager Sleiman</a>. <br>Atualizado em: 07 de Maio de 2021. </span></div><div class=\"flex items-center mb-6\"><img class=\"mr-1 rounded-full\" src=\"https://assets.decocache.com/consul-remedio/da8acda2-26ac-4ea6-abb6-782f4946e766/avatar.svg\" alt=\"Karime Halmenschlager Sleiman\" width=\"32\" height=\"32\" data-mce-src=\"https://assets.decocache.com/consul-remedio/da8acda2-26ac-4ea6-abb6-782f4946e766/avatar.svg\"> <span class=\"text-sm text-gray-600\">Revisado clinicamente por: <a class=\"underline\" href=\"../../../editorial/equipe/karime-halmenschlager-sleiman\" data-mce-href=\"../../../editorial/equipe/karime-halmenschlager-sleiman\">Karime Halmenschlager Sleiman</a>. <br>Atualizado em: 07 de Maio de 2021. </span></div></div><h2 class=\"text-3xl font-medium mb-4\">O que são medicamentos Referência (Marca)</h2><p class=\"text-base mb-4\">Medicamento de Referência (lei 6360/76) é um produto inovador, registrado na Anvisa, tendo aprovação para ser comercializado no Brasil. Sua eficácia, segurança e qualidade foram comprovadas cientificamente junto ao órgão na ocasião do seu registro.</p><p class=\"text-base mb-4\">O medicamento de referência é um status conferido ao medicamento que ingressa na Lista de Medicamentos de Referência e se torna parâmetro de eficácia terapêutica, segurança e qualidade para o registro dos medicamentos genéricos e similares.</p><hr class=\"my-6 border-gray-300\"><h2 class=\"text-3xl font-medium py-6\">Medicamentos de Marca versus Medicamentos Genéricos</h2><p class=\"text-base mb-4\">Ambos os medicamentos de marca e genéricos devem ser aprovados pela Anvisa antes de serem prescritos aos pacientes. Um medicamento de marca é aprovado depois que a Anvisa determina que é seguro e eficaz com base em dados de ensaios clínicos. Uma vez aprovado, fica protegido por patentes para que outros medicamentos com os mesmos princípios ativos não possam ser produzidos.</p><p class=\"text-base mb-4\">Já os medicamentos genéricos ficam disponíveis assim que essas patentes e o período de exclusividade terminam. Eles têm os mesmos ingredientes ativos e estão disponíveis na mesma dosagem, forma farmacêutica e via de administração que seus equivalentes de marca. Medicamentos genéricos também possuem a mesma característica de biodisponibilidade e bioequivalência do medicamento referência.</p><hr class=\"my-6 border-gray-300\"><h2 class=\"text-3xl font-medium py-6\">O que são Medicamentos Referência em 2 min?</h2><p class=\"text-base mb-4\">Assista ao vídeo abaixo que preparamos para tirar todas as suas dúvidas sobre os medicamentos de referência.</p><div class=\"my-4\"><div class=\"rounded-lg overflow-hidden\"><div class=\"flex items-center justify-center\"><iframe id=\"video\" class=\"w-full\" src=\"https://www.youtube.com/embed/L4IzGCba6r4\" width=\"768\" height=\"433\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\" data-mce-src=\"https://www.youtube.com/embed/L4IzGCba6r4\"></iframe></div></div></div><hr class=\"my-6 border-gray-300\"><h2 class=\"text-3xl font-medium py-6\">Como posso economizar nas compras de Medicamentos Referência (PBM)?</h2><p class=\"text-base mb-4\">Medicamentos de Referência muitas vezes podem ser caros, apesar da CR oferecer milhares de ofertas de farmácias em todo o Brasil, o que favorece e traz clareza na hora de você comprar seus produtos, existem os Programas de Benefícios de Medicamentos, popularmente conhecidos como PBM's, tais programas são opções oferecidas pela indústria farmacêutica proprietária do medicamento e que podem lhe ajudar a economizar em seus medicamentos.</p><p class=\"text-base mb-4\">O valor da economia dependerá do medicamento, do programa da indústria e da sua disponibilidade. Tais opções de economia muitas vezes não podem ser combinadas, entretanto, aqui na CR você sabe exatamente o quanto pagará para ter uma saúde em dia, muitas vezes, os descontos encontrados aqui são até maiores que os oferecidos pelos PBM's, não deixe de fazer sua pesquisa.</p><hr class=\"my-6 border-gray-300\"></div></div></div></div>"
+    },
+    {
+      "__resolveType": "site/sections/ListingFromAtoZ/ListingFromAtoZMedicationReferences.tsx",
+      "naveguete": {
+        "list": [
+          {
+            "label": "a",
+            "href": "/medicamentos-referencia/a"
+          },
+          {
+            "label": "b",
+            "href": "/medicamentos-referencia/b"
+          },
+          {
+            "label": "c",
+            "href": "/medicamentos-referencia/c"
+          },
+          {
+            "label": "d",
+            "href": "/medicamentos-referencia/d"
+          },
+          {
+            "label": "e",
+            "href": "/medicamentos-referencia/e"
+          },
+          {
+            "label": "f",
+            "href": "/medicamentos-referencia/f"
+          },
+          {
+            "label": "g",
+            "href": "/medicamentos-referencia/g"
+          },
+          {
+            "label": "h",
+            "href": "/medicamentos-referencia/h"
+          },
+          {
+            "label": "i",
+            "href": "/medicamentos-referencia/i"
+          },
+          {
+            "label": "k",
+            "href": "/medicamentos-referencia/k"
+          },
+          {
+            "label": "l",
+            "href": "/medicamentos-referencia/l"
+          },
+          {
+            "label": "m",
+            "href": "/medicamentos-referencia/m"
+          },
+          {
+            "label": "n",
+            "href": "/medicamentos-referencia/n"
+          },
+          {
+            "label": "o",
+            "href": "/medicamentos-referencia/o"
+          },
+          {
+            "href": "/medicamentos-referencia/p",
+            "label": "p"
+          },
+          {
+            "label": "r",
+            "href": "/medicamentos-referencia/r"
+          },
+          {
+            "label": "s",
+            "href": "/medicamentos-referencia/s"
+          },
+          {
+            "label": "t",
+            "href": "/medicamentos-referencia/t"
+          },
+          {
+            "label": "u",
+            "href": "/medicamentos-referencia/u"
+          },
+          {
+            "label": "v",
+            "href": "/medicamentos-referencia/v"
+          },
+          {
+            "label": "x",
+            "href": "/medicamentos-referencia/x"
+          },
+          {
+            "label": "z",
+            "href": "/medicamentos-referencia/z"
+          }
+        ],
+        "title": "Navegue pelas listas de Medicamentos Referências por letras"
+      },
+      "medicationReferences": {
+        "__resolveType": "site/loaders/ListingFromAtoZ.ts",
+        "token": {},
+        "url": "https://auxiliarapi.consultaremedios.com.br/Product?productTypeId=1&take=150&classificationId=1"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Footer/EvaluationSection.tsx",
+      "title": "Adorariamos saber sua opinião!",
+      "textButton": "Fazer uma avaliação",
+      "href": "https://survey.consultaremedios.com.br/zs/yKClyK?origin=%2F&transaction=1d00bfa3-20ec-4aee-9788-4617126c74aa"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer - Default"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Content/PopUpPrivacyPolicy.tsx",
+      "text": "Usamos cookies para melhorar sua experiência na CR. Consulte mais informações em nossa",
+      "href": "/politica-de-privacidade/c",
+      "textHref": "Política de Privacidade."
+    }
+  ],
+  "seo": {
+    "__resolveType": "site/sections/SEO/SeoV2general.tsx",
+    "titleTemplate": "%s",
+    "descriptionTemplate": "%s",
+    "type": "website",
+    "jsonLDs": [],
+    "title": "Medicamentos Referência por ordem alfabética de A-Z | CR",
+    "description": "Encontre Medicamentos Referência por ordem alfabética de A-Z, compare preços, descubra onde comprar e muito mais na Consulta Remédios!",
+    "image": "https://data.decoassets.com/consul-remedio/acc9b254-fb4f-4e71-8ae8-edca85ac9d9c/banner-novo-consulta-remedios-(1).webp",
+    "favicon": "https://assets.decocache.com/consul-remedio/a267a36d-da29-4277-b0c7-8a40df9fa452/favicon-(2).png"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

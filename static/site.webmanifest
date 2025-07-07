@@ -1,0 +1,24 @@
+{
+  "theme_color": "#5f9b9a",
+  "background_color": "#a3adcc",
+  "display": "fullscreen",
+  "scope": "/",
+  "start_url": "/",
+  "id": "/?source=pwa",
+  "name": "Consulta Remédios",
+  "short_name": "Consulta Remédios",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    }
+  ],
+  "description": "Consulta Remédios"
+}

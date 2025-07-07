@@ -1,0 +1,165 @@
+{
+  "name": "Brands Page",
+  "path": "/marcas",
+  "sections": [
+    {
+      "__resolveType": "Header - Default"
+    },
+    {
+      "__resolveType": "site/sections/ListingFromAtoZ/ContentTop.tsx",
+      "breadcrumb": [
+        {
+          "label": "home",
+          "href": "/"
+        },
+        {
+          "label": "Marcas",
+          "href": "/marcas"
+        }
+      ],
+      "title": "Lista das melhores marcas em saúde e bem-estar na Consulta Remédios",
+      "description": "Do essencial ao especializado: navegue por um universo de marcas que vão além dos medicamentos. de cuidados pessoais a alimentos, seu guia definitivo para compras inteligentes.",
+      "image": "https://assets.decocache.com/consul-remedio/2f29ece2-3230-466f-b142-99fddd601e5b/consultaremedios-a-z-medico.svg"
+    },
+    {
+      "__resolveType": "site/sections/ListingFromAtoZ/ListingFromAtoZbrand.tsx",
+      "brands": {
+        "__resolveType": "site/loaders/ListingFromAtoZ.ts",
+        "token": {},
+        "url": "https://auxiliarapi.consultaremedios.com.br/Brand?take=7000"
+      },
+      "naveguete": {
+        "title": "Navegue pelas lista de Marcas por letras",
+        "list": [
+          {
+            "label": "a",
+            "href": "/marcas/a"
+          },
+          {
+            "label": "b",
+            "href": "/marcas/b"
+          },
+          {
+            "label": "c",
+            "href": "/marcas/c"
+          },
+          {
+            "label": "d",
+            "href": "/marcas/d"
+          },
+          {
+            "label": "e",
+            "href": "/marcas/e"
+          },
+          {
+            "label": "f",
+            "href": "/marcas/f"
+          },
+          {
+            "label": "g",
+            "href": "/marcas/g"
+          },
+          {
+            "label": "h",
+            "href": "/marcas/h"
+          },
+          {
+            "label": "i",
+            "href": "/marcas/i"
+          },
+          {
+            "label": "j",
+            "href": "/marcas/j"
+          },
+          {
+            "label": "k",
+            "href": "/marcas/k"
+          },
+          {
+            "label": "l",
+            "href": "/marcas/l"
+          },
+          {
+            "label": "m",
+            "href": "/marcas/m"
+          },
+          {
+            "label": "n",
+            "href": "/marcas/n"
+          },
+          {
+            "label": "o",
+            "href": "/marcas/o"
+          },
+          {
+            "label": "p",
+            "href": "/marcas/p"
+          },
+          {
+            "label": "q",
+            "href": "/marcas/q"
+          },
+          {
+            "label": "r",
+            "href": "/marcas/r"
+          },
+          {
+            "label": "s",
+            "href": "/marcas/s"
+          },
+          {
+            "label": "t",
+            "href": "/marcas/t"
+          },
+          {
+            "label": "u",
+            "href": "/marcas/u"
+          },
+          {
+            "label": "v",
+            "href": "/marcas/v"
+          },
+          {
+            "label": "w",
+            "href": "/marcas/w"
+          },
+          {
+            "label": "x",
+            "href": "/marcas/x"
+          },
+          {
+            "label": "y",
+            "href": "/marcas/y"
+          },
+          {
+            "label": "z",
+            "href": "/marcas/z"
+          },
+          {
+            "label": "0-9",
+            "href": "/marcas/0-9"
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "Footer - Default"
+    },
+    {
+      "__resolveType": "site/sections/Content/PopUpPrivacyPolicy.tsx",
+      "text": "Usamos cookies para melhorar sua experiência na CR. Consulte mais informações em nossa",
+      "href": "/politica-de-privacidade/c",
+      "textHref": "Política de Privacidade."
+    }
+  ],
+  "seo": {
+    "__resolveType": "site/sections/SEO/SeoV2general.tsx",
+    "titleTemplate": "%s",
+    "descriptionTemplate": "%s",
+    "type": "website",
+    "jsonLDs": [],
+    "title": "Marcas A-Z de produtos de Beleza e Saúde | CR",
+    "description": "Navegue por marcas e compare preços de medicamentos e cosméticos. Economize com a CR, compare e compre produtos de beleza e saúde!"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

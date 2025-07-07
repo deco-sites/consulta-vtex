@@ -1,0 +1,8 @@
+{
+  "__resolveType": "site/loaders/productDetailsPage.ts",
+  "product": {
+    "__resolveType": "website/functions/requestToParam.ts",
+    "param": "product"
+  },
+  "slug": "paracetamol-fosfato-de-codeina-germed-pharma"
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Sellers",
+  "path": "/lojas/*",
+  "sections": [
+    {
+      "__resolveType": "Header - Default"
+    },
+    {
+      "__resolveType": "site/sections/Product/SearchResult.tsx",
+      "page": {
+        "__resolveType": "site/loaders/productListingPageAtributesSeller.ts",
+        "limit": 24,
+        "nameAttribute": "Vendedores",
+        "operation": "AND",
+        "filters": {
+          "attributes": {
+            "id": [],
+            "name": [],
+            "type": [],
+            "value": []
+          },
+          "brandId": [],
+          "categoryId": [],
+          "ean": [],
+          "productId": [],
+          "productVariantId": [],
+          "sameParentAs": [],
+          "sku": [],
+          "stocks": {
+            "dcId": [],
+            "dcName": []
+          },
+          "prices": {}
+        },
+        "pageOffset": 1
+      },
+      "layout": {
+        "variant": "aside",
+        "columns": {
+          "mobile": 1,
+          "desktop": 3
+        },
+        "format": "Pagination"
+      },
+      "startingPage": 1
+    },
+    {
+      "__resolveType": "Footer - Default"
+    },
+    {
+      "__resolveType": "site/sections/Content/PopUpPrivacyPolicy.tsx",
+      "textHref": "Política de Privacidade.",
+      "href": "/politica-de-privacidade/c",
+      "text": "Usamos cookies para melhorar sua experiência na CR. Consulte mais informações em nossa "
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

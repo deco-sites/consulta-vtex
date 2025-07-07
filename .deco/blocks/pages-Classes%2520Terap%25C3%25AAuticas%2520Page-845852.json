@@ -1,0 +1,137 @@
+{
+  "name": "Classes Terapêuticas Page",
+  "path": "/classes-terapeuticas",
+  "sections": [
+    {
+      "__resolveType": "Header - Default"
+    },
+    {
+      "__resolveType": "site/sections/ListingFromAtoZ/ListingFromAtoZTherapeuticClass.tsx",
+      "naveguete": {
+        "title": "Navegue pelas lista de Classes Terapêuticas por letras",
+        "list": [
+          {
+            "label": "a",
+            "href": "/classes-terapeuticas/a"
+          },
+          {
+            "label": "b",
+            "href": "/classes-terapeuticas/b"
+          },
+          {
+            "label": "c",
+            "href": "/classes-terapeuticas/c"
+          },
+          {
+            "label": "d",
+            "href": "/classes-terapeuticas/d"
+          },
+          {
+            "label": "e",
+            "href": "/classes-terapeuticas/e"
+          },
+          {
+            "label": "f",
+            "href": "/classes-terapeuticas/f"
+          },
+          {
+            "label": "g",
+            "href": "/classes-terapeuticas/g"
+          },
+          {
+            "label": "h",
+            "href": "/classes-terapeuticas/h"
+          },
+          {
+            "label": "i",
+            "href": "/classes-terapeuticas/i"
+          },
+          {
+            "label": "l",
+            "href": "/classes-terapeuticas/l"
+          },
+          {
+            "label": "m",
+            "href": "/classes-terapeuticas/"
+          },
+          {
+            "label": "n",
+            "href": "/classes-terapeuticas/n"
+          },
+          {
+            "label": "o",
+            "href": "/classes-terapeuticas/o"
+          },
+          {
+            "label": "p",
+            "href": "/classes-terapeuticas/p"
+          },
+          {
+            "label": "q",
+            "href": "/classes-terapeuticas/q"
+          },
+          {
+            "label": "r",
+            "href": "/classes-terapeuticas/s"
+          },
+          {
+            "label": "s",
+            "href": "/classes-terapeuticas/s"
+          },
+          {
+            "label": "t",
+            "href": "/classes-terapeuticas/t"
+          },
+          {
+            "label": "u",
+            "href": "/classes-terapeuticas/u"
+          },
+          {
+            "label": "v",
+            "href": "/classes-terapeuticas/v"
+          }
+        ]
+      },
+      "title": "Lista de Classes Terapêuticas de A a Z",
+      "description": "Os medicamentos podem ser agrupados em uma ou mais classificações, pelo tipo químico de seu princípio ativo ou pela forma como são utilizados no tratamento de uma doença.",
+      "breadcrumb": [
+        {
+          "label": "home",
+          "href": "/"
+        },
+        {
+          "label": " Classes Terapêuticas",
+          "href": "/classes-terapeuticas"
+        }
+      ],
+      "therapeuticClass": {
+        "__resolveType": "site/loaders/ListingFromAtoZ.ts",
+        "token": {
+          "__resolveType": "website/loaders/secret.ts",
+          "name": "Authorization",
+          "encrypted": "9eb723eb715a0c63582ba768105193171c4c548b24751889e7e07027c1d69df74ffa1960e3e4a5d10661640a0d6f447e192702ffd071026bdd9dae5bf55cac78ef593c886c1d94237ac1868e561008b5"
+        },
+        "url": "https://auxiliarapi.consultaremedios.com.br/TherapeuticClass?skip=0&take=1000"
+      }
+    },
+    {
+      "__resolveType": "Footer - Default"
+    },
+    {
+      "__resolveType": "site/sections/Content/PopUpPrivacyPolicy.tsx",
+      "text": "Usamos cookies para melhorar sua experiência na CR. Consulte mais informações em nossa ",
+      "href": "/politica-de-privacidade/c",
+      "textHref": "Política de Privacidade."
+    }
+  ],
+  "seo": {
+    "__resolveType": "site/sections/SEO/SeoV2general.tsx",
+    "titleTemplate": "%s",
+    "descriptionTemplate": "%s",
+    "type": "website",
+    "jsonLDs": [],
+    "title": "Encontre medicamentos por classe terapêutica de A a Z | CR",
+    "description": "Encontre Medicamentos por Classe Terapêutica de A a Z, compare preços, leia a bula e descubra onde comprar. Economize em medicamentos, clique aqui!"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

@@ -1,0 +1,22 @@
+{
+  "__resolveType": "site/sections/Product/ProductShelfHome.tsx",
+  "products": {
+    "__resolveType": "List Products Home"
+  },
+  "typeCarrousel": "diabetes",
+  "layout": {
+    "headerfontSize": "Small",
+    "headerAlignment": "left",
+    "loading": "lazy",
+    "showArrows": true,
+    "numberOfSliders": {
+      "mobile": 1,
+      "desktop": 4
+    }
+  },
+  "seeAll": {
+    "href": "/sistema-cardiovascular-circulacao/diabetes/c",
+    "text": "Ver tudo"
+  },
+  "title": "Diabetes"
+}

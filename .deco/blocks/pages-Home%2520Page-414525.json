@@ -1,0 +1,295 @@
+{
+  "name": "Home Page",
+  "path": "/",
+  "sections": [
+    {
+      "__resolveType": "Header - Default"
+    },
+    {
+      "__resolveType": "site/sections/SEO/ProductDataHome.tsx"
+    },
+    {
+      "__resolveType": "site/sections/Banners/Banner.tsx",
+      "images": {
+        "mobile": "https://data.decoassets.com/consul-remedio/acc9b254-fb4f-4e71-8ae8-edca85ac9d9c/banner-novo-consulta-remedios-(1).webp",
+        "desktop": "https://data.decoassets.com/consul-remedio/acc9b254-fb4f-4e71-8ae8-edca85ac9d9c/banner-novo-consulta-remedios-(1).webp"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Content/titleH1.tsx",
+      "title": "Consulta Rémedios"
+    },
+    {
+      "__resolveType": "site/sections/Banners/BannerSlider.tsx",
+      "items": [
+        {
+          "image": "https://cr-net-public-prod.s3.amazonaws.com/category_image/60E1FE7F0E476D89428F2AD9A4252CD0.svg",
+          "href": "/antialergicos/c",
+          "label": "Antialérgicos"
+        },
+        {
+          "href": "/antifungico/c",
+          "label": "Antifúngico",
+          "image": "https://cr-net-public-prod.s3.amazonaws.com/category_image/12C0F9334C0D054B5274CC6147EF1761.svg"
+        },
+        {
+          "href": "/colagenos/c",
+          "label": "Colágenos",
+          "image": "https://cr-net-public-prod.s3.amazonaws.com/category_image/518450B4140D2F12A081C0F4CC54C678.svg"
+        },
+        {
+          "href": "/acessorios-para-a-saude/c",
+          "label": "Acessórios para a Saúde",
+          "image": "https://cr-net-public-prod.s3.amazonaws.com/category_image/18D67158B89CD80E58B46DEF2AD24FD4.svg"
+        },
+        {
+          "href": "/dor-febre-e-contusao/c",
+          "label": "Dor, Febre e Contusão",
+          "image": "https://cr-net-public-prod.s3.amazonaws.com/category_image/5FBEF255B20AD9EE6311F8E3A51FADD5.svg"
+        },
+        {
+          "image": "https://cr-net-public-prod.s3.amazonaws.com/category_image/2AFAA0B9152A443DC9D28144CAB322A5.svg",
+          "label": "Doenças dos Olhos",
+          "href": "/doencas-dos-olhos/c"
+        },
+        {
+          "image": "https://cr-net-public-prod.s3.amazonaws.com/category_image/9C466C3306B2923CAA3BC210DA8C0DDC.svg",
+          "href": "/gripes-e-resfriados/c",
+          "label": "Gripes e Resfriados"
+        },
+        {
+          "image": "https://cr-net-public-prod.s3.amazonaws.com/category_image/410B344A3C5D55713E371E21BC486AEA.svg",
+          "label": "Homeopáticos",
+          "href": "/homeopaticos/c"
+        },
+        {
+          "image": "https://cr-net-public-prod.s3.amazonaws.com/category_image/D328D1090AFE7966B3C18E5B940FD360.svg",
+          "label": "Maquiagem",
+          "href": "/maquiagem/c"
+        },
+        {
+          "image": "https://cr-net-public-prod.s3.amazonaws.com/category_image/3EF9073C89F6B1A144D2B6A436D6CA1F.svg",
+          "label": "Doença nos Ouvidos",
+          "href": "/doenca-nos-ouvidos/c"
+        },
+        {
+          "image": "https://cr-net-public-prod.s3.amazonaws.com/category_image/6CCC814EBDC45BE81FCDD07278ABF2B0.svg",
+          "label": "Ortopedia",
+          "href": "/ortopedia/c"
+        },
+        {
+          "image": "https://cr-net-public-prod.s3.amazonaws.com/category_image/CE6E867E9D9D7BC8D733458E3800C66A.svg",
+          "label": "Saúde da Mulher",
+          "href": "/saude-da-mulher/c"
+        },
+        {
+          "image": "https://cr-net-public-prod.s3.amazonaws.com/category_image/7BFEBF035778ECEE2DF86129F8A1969B.svg",
+          "href": "/inibidores-hormonais/c",
+          "label": "Inibidores hormonais"
+        },
+        {
+          "image": "https://cr-net-public-prod.s3.amazonaws.com/category_image/E3032C25E069FA18F69273A5A68F469F.svg",
+          "href": "/pressao-alta/c",
+          "label": "Pressão Alta"
+        },
+        {
+          "image": "https://cr-net-public-prod.s3.amazonaws.com/category_image/77CB74CCC366BD9976DA454823054BF7.svg",
+          "href": "/anestesicos-topicos/c",
+          "label": "Anestésicos tópicos"
+        },
+        {
+          "image": "https://cr-net-public-prod.s3.amazonaws.com/category_image/F2DB908EB0868168ED03A02322E423E4.svg",
+          "href": "/infectologia/c",
+          "label": "Infectologia"
+        },
+        {
+          "href": "/fitoterapicos/c",
+          "image": "https://cr-net-public-prod.s3.amazonaws.com/category_image/ADF89C61D35D67D5DA845884DE9FC653.svg",
+          "label": "Fitoterápicos"
+        },
+        {
+          "href": "/doencas-do-sangue/c",
+          "image": "https://cr-net-public-prod.s3.amazonaws.com/category_image/BB547AF0F574CADA3952F5F3A6578000.svg",
+          "label": "Doenças do Sangue"
+        },
+        {
+          "image": "https://cr-net-public-prod.s3.amazonaws.com/category_image/A744DA6657E0B40BB75AF628831A9E02.svg",
+          "href": "/cruelty-free/c",
+          "label": "Cruelty-Free"
+        },
+        {
+          "label": "Tireoide",
+          "image": "https://cr-net-public-prod.s3.amazonaws.com/category_image/3C44405D138BB0DAB19DB9252407CB63.svg",
+          "href": "#"
+        }
+      ]
+    },
+    {
+      "__resolveType": "ShelfHome - Anticoagulante"
+    },
+    {
+      "__resolveType": "ShelfHome - Colágeno"
+    },
+    {
+      "__resolveType": "ShelfHome - Descongestionante Nasal"
+    },
+    {
+      "__resolveType": "ShelfHome -Diabetes"
+    },
+    {
+      "__resolveType": "ShelfHome - Disfunção erétil"
+    },
+    {
+      "__resolveType": "ShelfHome - Leite Infantil"
+    },
+    {
+      "__resolveType": "ShelfHome - Medicamentos Alto Custo"
+    },
+    {
+      "__resolveType": "ShelfHome - Parar de Fumar"
+    },
+    {
+      "__resolveType": "site/sections/Category/CategoryAZ.tsx",
+      "title": "Navegue pelas listas de Medicamentos por letras",
+      "href": "/medicamentos",
+      "description": "Encontre facilmente os Medicamentos começando pela letra",
+      "items": [
+        {
+          "label": "A",
+          "href": "/medicamentos/a"
+        },
+        {
+          "label": "B",
+          "href": "/medicamentos/b"
+        },
+        {
+          "label": "C",
+          "href": "/medicamentos/c"
+        },
+        {
+          "label": "D",
+          "href": "/medicamentos/d"
+        },
+        {
+          "label": "E",
+          "href": "/medicamentos/e"
+        },
+        {
+          "label": "F",
+          "href": "/medicamentos/f"
+        },
+        {
+          "label": "G",
+          "href": "/medicamentos/g"
+        },
+        {
+          "href": "/medicamentos/h",
+          "label": "H"
+        },
+        {
+          "label": "I",
+          "href": "/medicamentos/i"
+        },
+        {
+          "label": "J",
+          "href": "/medicamentos/j"
+        },
+        {
+          "href": "/medicamentos/k",
+          "label": "K"
+        },
+        {
+          "href": "/medicamentos/l",
+          "label": "L"
+        },
+        {
+          "href": "/medicamentos/m",
+          "label": "M"
+        },
+        {
+          "label": "N",
+          "href": "/medicamentos/n"
+        },
+        {
+          "label": "O",
+          "href": "/medicamentos/o"
+        },
+        {
+          "label": "P",
+          "href": "/medicamentos/p"
+        },
+        {
+          "label": "Q",
+          "href": "/medicamentos/q"
+        },
+        {
+          "label": "R",
+          "href": "/medicamentos/r"
+        },
+        {
+          "href": "/medicamentos/s",
+          "label": "S"
+        },
+        {
+          "href": "/medicamentos/t",
+          "label": "T"
+        },
+        {
+          "label": "U",
+          "href": "/medicamentos/u"
+        },
+        {
+          "label": "V",
+          "href": "/medicamentos/v"
+        },
+        {
+          "label": "W",
+          "href": "/medicamentos/w"
+        },
+        {
+          "label": "X",
+          "href": "/medicamentos/x"
+        },
+        {
+          "label": "Y",
+          "href": "/medicamentos/y"
+        },
+        {
+          "label": "Z",
+          "href": "/medicamentos/z"
+        },
+        {
+          "label": "0-9",
+          "href": "/medicamentos/0-9"
+        }
+      ]
+    },
+    {
+      "__resolveType": "site/sections/Footer/EvaluationSection.tsx",
+      "title": "Adorariamos saber sua opinião!",
+      "href": "https://survey.consultaremedios.com.br/zs/yKClyK?origin=%2F&transaction=1d00bfa3-20ec-4aee-9788-4617126c74aa",
+      "textButton": "Fazer uma avaliação"
+    },
+    {
+      "__resolveType": "Footer - Default"
+    },
+    {
+      "__resolveType": "site/sections/Content/PopUpPrivacyPolicy.tsx",
+      "text": "Usamos cookies para melhorar sua experiência na CR. Consulte mais informações em nossa ",
+      "href": "/politica-de-privacidade/c",
+      "textHref": "Política de Privacidade."
+    }
+  ],
+  "seo": {
+    "__resolveType": "site/sections/SEO/SeoV2general.tsx",
+    "title": "Consulta Remédios: compre online nas farmácias de todo Brasil",
+    "description": "   \t Na Consulta Remédios você pode comprar online ou pelo televendas nas  melhores farmácias do Brasil. Entrega pelos Correios, motoboy ou delivery.",
+    "canonical": "https://consultaremedios.com.br/",
+    "favicon": "https://assets.decocache.com/consul-remedio/a267a36d-da29-4277-b0c7-8a40df9fa452/favicon-(2).png",
+    "titleTemplate": "%s",
+    "descriptionTemplate": "%s",
+    "type": "website",
+    "jsonLDs": []
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

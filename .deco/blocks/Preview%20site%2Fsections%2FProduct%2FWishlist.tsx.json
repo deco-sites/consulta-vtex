@@ -1,0 +1,17 @@
+{
+  "__resolveType": "site/sections/Product/Wishlist.tsx",
+  "page": {
+    "__resolveType": "vtex/loaders/product/wishlist.ts",
+    "count": 12,
+    "offset": 0
+  },
+  "layout": {
+    "variant": "aside",
+    "columns": {
+      "mobile": 1,
+      "desktop": 2
+    },
+    "format": "Show More"
+  },
+  "startingPage": 0
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Equipe Editorial",
+  "path": "/editorial/equipe",
+  "sections": [
+    {
+      "__resolveType": "Header - Default"
+    },
+    {
+      "__resolveType": "site/sections/Editorial/BreadCrumbInstitucional.tsx",
+      "items": [
+        {
+          "label": "Home",
+          "href": "/"
+        },
+        {
+          "label": "Política Editorial",
+          "href": "/editorial"
+        },
+        {
+          "label": "Equipe Editorial",
+          "href": "/editorial/equipe"
+        }
+      ]
+    },
+    {
+      "__resolveType": "site/sections/TermosPoliticas/content.tsx",
+      "text": "<div class=\"mx-auto px-4 max-w-7xl\"><div class=\"my-4\"><h1 class=\"text-3xl font-medium mb-2\">Equipe Editorial</h1><p class=\"mb-4\">Formada equipe editorial é formada por especialistas comprometidos com a precisão e qualidade da informação em saúde. Nosso objetivo é fornecer informações atualizadas e revisadas para ajudá-lo a tomar decisões informadas.</p><p class=\"mt-4 mb-10\">Nosso objetivo é fornecer informações atualizadas e revisadas para ajudá-lo a tomar decisões informadas.</p><div class=\"flex items-center justify-center\"><div class=\"max-w-4xl px-2\"><h2 class=\"text-3xl mb-2 font-medium\">Profissionais Credenciados</h2><p class=\"mb-4\">A equipe editorial da Consulta Remédios é composta por farmacêuticos e médicos registrados, dedicados à melhoria contínua da qualidade e usabilidade do site. Nossos profissionais revisam e atualizam regularmente os conteúdos para assegurar informações confiáveis e atuais. Apresentamos os profissionais dedicados que compõem o time da Consulta Remédios. Eles são o coração do nosso compromisso com a qualidade e precisão da informação em saúde.</p><hr class=\"my-6 border-gray-300\"><ul class=\"py-6 px-2\"><li class=\"flex items-center\"><img class=\"mr-1 rounded-full\" src=\"https://assets.decocache.com/consul-remedio/bb62cdf7-1d30-4f9d-a1f6-5d324dbfa9f6/avatar-placeholder-_--Change-image-here.png\" alt=\"\" width=\"32\" height=\"32\" data-mce-src=\"https://assets.decocache.com/consul-remedio/bb62cdf7-1d30-4f9d-a1f6-5d324dbfa9f6/avatar-placeholder-_--Change-image-here.png\"> <a class=\"text-[#009999] underline\" href=\"../../../editorial/equipe/karime-halmenschlager-sleiman\" data-mce-href=\"../../../editorial/equipe/karime-halmenschlager-sleiman\">Karime Halmenschlager Sleiman</a></li></ul><hr class=\"my-6 border-gray-300\"><p class=\"py-8\">Atualizado em 19 de setembro de 2023.</p><hr class=\"my-6 border-gray-300\"></div></div></div></div>"
+    },
+    {
+      "__resolveType": "site/sections/Footer/EvaluationSection.tsx",
+      "title": "Adorariamos saber sua opinião!",
+      "textButton": "Fazer uma avaliação",
+      "href": "https://survey.consultaremedios.com.br/zs/yKClyK?origin=%2F&transaction=1d00bfa3-20ec-4aee-9788-4617126c74aa"
+    },
+    {
+      "__resolveType": "Footer - Default"
+    }
+  ],
+  "seo": {
+    "__resolveType": "site/sections/SEO/SeoV2general.tsx",
+    "titleTemplate": "%s",
+    "descriptionTemplate": "%s",
+    "type": "website",
+    "jsonLDs": [],
+    "title": "Equipe Editorial  e de conteúdo do Consulta Remédios",
+    "description": " Aqui na CR, levamos a criação de nossos conteúdos a sério. Conheça nossa política editorial e de conteúdo para saber como nosso processo funciona."
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

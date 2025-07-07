@@ -1,0 +1,20 @@
+{
+  "__resolveType": "site/sections/Product/ProductShelfHome.tsx",
+  "products": {
+    "__resolveType": "List Products Home"
+  },
+  "title": "Parar de Fumar",
+  "layout": {
+    "numberOfSliders": {
+      "mobile": 1,
+      "desktop": 4
+    },
+    "headerAlignment": "left",
+    "headerfontSize": "Small",
+    "loading": "lazy"
+  },
+  "typeCarrousel": "pararDeFumar",
+  "seeAll": {
+    "href": "/aparelho-respiratorio/parar-de-fumar/c"
+  }
+}

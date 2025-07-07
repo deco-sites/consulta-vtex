@@ -1,0 +1,47 @@
+{
+  "__resolveType": "site/sections/Product/ProductShelf.tsx",
+  "products": {
+    "__resolveType": "site/loaders/productList.ts",
+    "first": 16,
+    "sortDirection": "ASC",
+    "sortKey": "RANDOM",
+    "filters": {
+      "attributes": {
+        "id": [],
+        "name": [],
+        "type": [],
+        "value": []
+      },
+      "brandId": [],
+      "categoryId": [
+        15436
+      ],
+      "ean": [],
+      "productId": [],
+      "productVariantId": [],
+      "sameParentAs": [],
+      "sku": [],
+      "stocks": {
+        "dcId": [],
+        "dcName": []
+      },
+      "prices": {},
+      "available": true
+    }
+  },
+  "layout": {
+    "showArrows": true,
+    "numberOfSliders": {
+      "mobile": 1,
+      "desktop": 4
+    },
+    "headerAlignment": "left",
+    "headerfontSize": "Small",
+    "loading": "lazy"
+  },
+  "title": "Diabetes",
+  "seeAll": {
+    "href": "/sistema-cardiovascular-circulacao/diabetes/c",
+    "text": "Ver tudo"
+  }
+}

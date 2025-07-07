@@ -1,0 +1,47 @@
+{
+  "__resolveType": "site/sections/Product/ProductShelf.tsx",
+  "products": {
+    "__resolveType": "site/loaders/productList.ts",
+    "first": 16,
+    "sortKey": "RANDOM",
+    "filters": {
+      "attributes": {
+        "id": [],
+        "name": [],
+        "type": [],
+        "value": []
+      },
+      "brandId": [],
+      "categoryId": [
+        15504
+      ],
+      "ean": [],
+      "productId": [],
+      "productVariantId": [],
+      "sameParentAs": [],
+      "sku": [],
+      "stocks": {
+        "dcId": [],
+        "dcName": []
+      },
+      "prices": {},
+      "available": true
+    },
+    "sortDirection": "ASC"
+  },
+  "layout": {
+    "showArrows": true,
+    "numberOfSliders": {
+      "mobile": 1,
+      "desktop": 4
+    },
+    "headerAlignment": "left",
+    "headerfontSize": "Small",
+    "loading": "lazy"
+  },
+  "title": "Medicamentos Alto Custo",
+  "seeAll": {
+    "href": "/campanha/medicamentos-alto-custo/c",
+    "text": "Ver tudo"
+  }
+}

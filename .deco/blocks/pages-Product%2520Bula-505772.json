@@ -1,0 +1,36 @@
+{
+  "name": "Product Bula",
+  "path": "/:product/bula",
+  "sections": [
+    {
+      "__resolveType": "Header - Default"
+    },
+    {
+      "__resolveType": "site/sections/Product/ProductDetailsLeaflet.tsx",
+      "page": {
+        "__resolveType": "Leaflet Product Page"
+      }
+    },
+    {
+      "__resolveType": "Footer - Default"
+    },
+    {
+      "__resolveType": "site/sections/Content/PopUpPrivacyPolicy.tsx",
+      "text": "Usamos cookies para melhorar sua experiência na CR. Consulte mais informações em nossa ",
+      "href": "/politica-de-privacidade/c",
+      "textHref": "Política de Privacidade."
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx",
+  "seo": {
+    "__resolveType": "site/sections/SEO/SeoLeaflet.tsx",
+    "jsonLD": {
+      "__resolveType": "Leaflet Product Page"
+    },
+    "product": {
+      "__resolveType": "website/functions/requestToParam.ts",
+      "param": "product"
+    },
+    "ignoreStructuredData": true
+  }
+}

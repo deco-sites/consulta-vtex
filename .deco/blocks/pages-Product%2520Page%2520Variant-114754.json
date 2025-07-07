@@ -1,0 +1,67 @@
+{
+  "__resolveType": "website/pages/Page.tsx",
+  "name": "Product Page Variant",
+  "path": "/:product/:slug/p",
+  "seo": {
+    "__resolveType": "site/sections/SEO/SeoVariantionPDP.tsx",
+    "jsonLD": {
+      "__resolveType": "Product Details Variant"
+    },
+    "omitVariants": false
+  },
+  "sections": [
+    {
+      "__resolveType": "Header - Default"
+    },
+    {
+      "__resolveType": "site/sections/Product/ProductDetails.tsx",
+      "page": {
+        "__resolveType": "Product Details Variant"
+      },
+      "contentPage": null
+    },
+    {
+      "__resolveType": "site/sections/Product/ContentProductPage.tsx",
+      "contentPage": {
+        "__resolveType": "Product Details Variant"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Product/ProductShelfRecommendation.tsx",
+      "pageProduct": {
+        "__resolveType": "Product Details Variant"
+      },
+      "layout": {
+        "numberOfSliders": {
+          "mobile": 1,
+          "desktop": 6
+        },
+        "showArrows": true
+      }
+    },
+    {
+      "__resolveType": "site/sections/Product/RelatedProductsSection.tsx",
+      "page": {
+        "__resolveType": "Product Details Variant"
+      },
+      "data": {
+        "valueReference": null
+      }
+    },
+    {
+      "__resolveType": "site/sections/Product/Konfidency.tsx",
+      "page": {
+        "__resolveType": "Product Details Variant"
+      }
+    },
+    {
+      "__resolveType": "Footer - Default"
+    },
+    {
+      "__resolveType": "site/sections/Content/PopUpPrivacyPolicy.tsx",
+      "textHref": "Política de Privacidade.",
+      "href": "/politica-de-privacidade/c",
+      "text": "Usamos cookies para melhorar sua experiência na CR. Consulte mais informações em nossa"
+    }
+  ]
+}

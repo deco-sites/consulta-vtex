@@ -1,0 +1,47 @@
+{
+  "__resolveType": "site/sections/Product/ProductShelf.tsx",
+  "products": {
+    "__resolveType": "site/loaders/productList.ts",
+    "first": 16,
+    "sortDirection": "ASC",
+    "sortKey": "RANDOM",
+    "filters": {
+      "attributes": {
+        "id": [],
+        "name": [],
+        "type": [],
+        "value": []
+      },
+      "brandId": [],
+      "categoryId": [
+        15080
+      ],
+      "ean": [],
+      "productId": [],
+      "productVariantId": [],
+      "sameParentAs": [],
+      "sku": [],
+      "stocks": {
+        "dcId": [],
+        "dcName": []
+      },
+      "prices": {},
+      "available": true
+    }
+  },
+  "layout": {
+    "showArrows": true,
+    "numberOfSliders": {
+      "mobile": 1,
+      "desktop": 4
+    },
+    "headerAlignment": "left",
+    "headerfontSize": "Small",
+    "loading": "lazy"
+  },
+  "title": "Parar de Fumar",
+  "seeAll": {
+    "href": "/aparelho-respiratorio/parar-de-fumar/c",
+    "text": "Ver tudo"
+  }
+}

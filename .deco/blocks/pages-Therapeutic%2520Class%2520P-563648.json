@@ -1,0 +1,43 @@
+{
+  "name": "Therapeutic Class P",
+  "path": "/classes-terapeuticas/p",
+  "sections": [
+    {
+      "__resolveType": "Header - Default"
+    },
+    {
+      "__resolveType": "site/sections/ListingFromAtoZ/singlePageTherapeuticClass.tsx",
+      "therapeuticClass": {
+        "__resolveType": "site/loaders/singlePageFromAtoZTherapeuticClass.ts",
+        "token": {},
+        "url": "https://auxiliarapi.consultaremedios.com.br/TherapeuticClass"
+      }
+    },
+    {
+      "__resolveType": "Footer - Default"
+    },
+    {
+      "__resolveType": "site/sections/Content/PopUpPrivacyPolicy.tsx",
+      "textHref": "Política de Privacidade.",
+      "href": "/politica-de-privacidade/c",
+      "text": "Usamos cookies para melhorar sua experiência na CR. Consulte mais informações em nossa "
+    }
+  ],
+  "seo": {
+    "__resolveType": "site/sections/SEO/SeoV2ListToAaZ.tsx",
+    "titleTemplate": "%s",
+    "descriptionTemplate": "%s",
+    "type": "website",
+    "jsonLDs": [],
+    "title": "Lista de classes terapêuticas",
+    "description": "Encontre classes terapêuticas que começam com a letra",
+    "descriptionTwo": ", compare preços, leia a bula e descubra onde comprar. Economize em medicamentos, clique aqui!",
+    "noIndexing": false,
+    "jsonLD": {
+      "__resolveType": "site/loaders/singlePageFromAtoZTherapeuticClass.ts",
+      "token": {},
+      "url": "https://auxiliarapi.consultaremedios.com.br/TherapeuticClass"
+    }
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

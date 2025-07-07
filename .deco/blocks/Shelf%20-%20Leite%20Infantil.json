@@ -1,0 +1,48 @@
+{
+  "__resolveType": "site/sections/Product/ProductShelf.tsx",
+  "products": {
+    "__resolveType": "site/loaders/productList.ts",
+    "first": 16,
+    "sortKey": "RANDOM",
+    "filters": {
+      "attributes": {
+        "id": [],
+        "name": [],
+        "type": [],
+        "value": []
+      },
+      "brandId": [],
+      "categoryId": [
+        15219
+      ],
+      "ean": [],
+      "productId": [],
+      "productVariantId": [],
+      "sameParentAs": [],
+      "sku": [],
+      "stocks": {
+        "dcId": [],
+        "dcName": []
+      },
+      "prices": {},
+      "available": true,
+      "mainVariant": true
+    },
+    "sortDirection": "ASC"
+  },
+  "seeAll": {
+    "href": "/infantil/alimentos/leite-infantil/c",
+    "text": "Ver tudo"
+  },
+  "title": "Leite infantil",
+  "layout": {
+    "numberOfSliders": {
+      "mobile": 1,
+      "desktop": 4
+    },
+    "headerAlignment": "left",
+    "headerfontSize": "Small",
+    "showArrows": true,
+    "loading": "lazy"
+  }
+}

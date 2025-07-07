@@ -1,0 +1,19 @@
+{
+  "__resolveType": "site/sections/Banners/BannerSliderKevel.tsx",
+  "banners": {
+    "__resolveType": "site/loaders/adKevel.ts",
+    "token": {},
+    "placements": [
+      {
+        "adTypes": [
+          4
+        ],
+        "divName": "bannerHome",
+        "networkId": 11783,
+        "siteId": 1304330
+      }
+    ],
+    "keywords": [],
+    "urlFetch": "https://e-11783.adzerk.net/api/v2"
+  }
+}

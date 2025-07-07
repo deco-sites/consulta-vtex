@@ -1,0 +1,22 @@
+{
+  "__resolveType": "site/sections/Product/ProductShelfHome.tsx",
+  "products": {
+    "__resolveType": "List Products Home"
+  },
+  "typeCarrousel": "anticoagulante",
+  "layout": {
+    "numberOfSliders": {
+      "mobile": 1,
+      "desktop": 4
+    },
+    "showArrows": true,
+    "headerAlignment": "center",
+    "headerfontSize": "Small",
+    "loading": "lazy"
+  },
+  "seeAll": {
+    "href": "/sistema-cardiovascular-circulacao/anticoagulante/c",
+    "text": "Ver tudo"
+  },
+  "title": "Anticoagulante"
+}

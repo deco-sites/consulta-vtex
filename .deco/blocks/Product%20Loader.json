@@ -1,0 +1,7 @@
+{
+  "__resolveType": "site/loaders/ProductLoader.ts",
+  "product": {
+    "__resolveType": "website/functions/requestToParam.ts",
+    "param": "product"
+  }
+}
